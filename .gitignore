@@ -2,6 +2,7 @@ updater_config.json
 .vscode/
 build/
 dist/
+wildcards/
 AutoUpdate.py
 updater_manifest_example.json
 midjourney_automation.exe
