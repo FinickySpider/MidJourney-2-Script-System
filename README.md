@@ -86,7 +86,7 @@ This project automates prompt submissions on Midjourney with real-time prompt tr
 
    ```bash
    git clone https://github.com/FinickySpider/MidJourney-2-Script-System.git
-   cd midjourney-automation-utility
+   cd MidJourney-2-Script-System
    ```
 
 2. **Edit the Configuration File:**  
