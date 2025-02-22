@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Midjourney Prompt Submitter & Tracker
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/FinickySpider/MidJourney-2-Script-System/
 // @version      0.2
 // @description  Auto-fills prompt input, submits it, and tracks its progress on midjourney.com via WebSocket input. Sends status updates back to the server.
 // @match        https://www.midjourney.com/*
+// @updateURL    https://github.com/FinickySpider/MidJourney-2-Script-System/raw/refs/heads/main/tampermonkey_script.user.js
+// @downloadURL  https://github.com/FinickySpider/MidJourney-2-Script-System/raw/refs/heads/main/tampermonkey_script.user.js
 // @grant        none
 // ==/UserScript==
 
