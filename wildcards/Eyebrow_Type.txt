@@ -1,0 +1,12 @@
+arched Eyebrows
+straight Eyebrows
+plucked Eyebrows
+sparse Eyebrows
+trim Eyebrows
+dark Eyebrows
+faint Eyebrows
+thin Eyebrows
+thick Eyebrows
+unruly Eyebrows
+bushy Eyebrows
+heavy Eyebrows

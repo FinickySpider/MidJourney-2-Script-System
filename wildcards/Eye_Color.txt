@@ -1,0 +1,60 @@
+Brown
+green
+chestnut
+chocolate brown
+cocoa brown
+coffee brown
+mocha
+mahogany
+sepia
+sienna brown
+mink brown
+copper
+amber
+cognac
+whiskey
+brandy
+honey
+tawny
+topaz
+hazel
+obsidian
+onyx
+coal
+raven
+midnight
+sky blue
+sunny blue
+cornflower blue
+steel blue
+ice blue
+Arctic blue
+glacial blue
+crystal blue
+cerulean
+electric blue
+azure
+lake blue
+aquamarine
+turquoise
+denim blue
+slate blue
+slate gray
+storm blue
+storm gray
+silver
+silver gray
+chrome
+platinum
+pewter
+smoky gray
+ash gray
+concrete gray
+dove gray
+shark gray
+fog gray
+gunmetal gray
+olive
+emerald
+leaf green
+moss green

@@ -1,0 +1,23 @@
+Magical Artifact
+Magical Device
+Amulet
+Magic Ring
+Ancient tome
+Magic book
+Potion
+Magic Bracelet
+Piece of armor
+Eldritch device
+Evil artifact
+Holy item
+Idol
+Totem
+Bauble
+Eldritch organ
+Herbal remedy kit
+Salve
+Balm
+Sandal
+Gauntlet
+Boot
+Trinket

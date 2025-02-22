@@ -1,0 +1,36 @@
+bus station
+bus stop
+bus depot
+covered bus stop
+remote bus stop
+train station
+L-train station
+subway station
+maglev station
+bullet train station
+locomotive station
+transit stop
+transit center
+central station
+cable car stop
+cable car depot
+cable car exchange
+underground rail station
+light rail station
+passenger station
+pod station
+futuristic transit stop
+dropship pad
+airport
+ferry port
+boat transit station
+gondola transit station
+mega lift
+lift transit station
+seaside transit stop
+boat bus stop
+hot air balloon station
+lift balloon transit center
+airship station
+airship dock
+airship transit center

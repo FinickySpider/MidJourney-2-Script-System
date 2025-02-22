@@ -1,0 +1,2823 @@
+ AA12
+ AK-47
+ AK-74
+ AK-74M
+ AKM
+ AK-12
+ AK-15
+ AK-19
+ AK-101
+ AK-102
+ AK-103
+ AK-104
+ AK-105
+ AK-200
+ AK-201
+ AK-202
+ AK-203
+ AK-204
+ AK-205
+ AK-308
+ AKS-74U
+ AK-55
+ AKV-521
+ American-180
+ Angstadt Arms MDP-9
+ AR-7
+ AR-10
+ AR-12
+ AR-13
+ AR-15
+ AS VAL
+ AR-16
+ AR-18
+ AR-100
+ AN-94
+ AUG A1
+ AUG A2
+ AUG A3
+ AUG A3 PARA
+ A-91-P
+ Blaser
+ Benelli
+ BFG 50
+ Big Horn Armory
+ Big Horn Armory AR500 (US – semi-automatic rifle – .500 Auto Max)
+ Beretta M9
+ Bechowiec-1
+ BAR (Browning Automatic Rifle)
+ Boeing
+ Boeing ASP-30 (US – autocannon – 30x113mmB: prototype)
+ Brunswick Corporation
+ Brunswick SAW (US – light machine gun – 6×45mm SAW: prototype)
+ Błyskawica submachine gun
+ CAR-LIN CORP
+ Lorenzo machine pistol (United States – machine pistol – various pistol calibers)
+ Colt Canada C7
+ Cx4 Storm (Beretta)
+ Choroszmanów
+ Ckm wz. 25 Hotchkiss
+ Daewoo
+ Daewoo K1 (South Korea – carbine – .223 Remington)
+ Daewoo K1A (South Korea – carbine – .223 Remington)
+ Daewoo MAX-1 (South Korea – semi-automatic carbine – .223 Remington)
+ Daewoo XK1 (South Korea – carbine – .223 Remington: prototype)
+ Daewoo K2 (South Korea – assault rifle – 5.56×45mm NATO)
+ Daewoo AR-100 (South Korea – assault rifle – 5.56×45mm NATO)
+ Daewoo DR-200 (South Korea – assault rifle – .223 Remington)
+ Daewoo DR-300 (South Korea – assault rifle – 7.62×39mm)
+ Daewoo K2C (South Korea – carbine – 5.56×45mm NATO)
+ Daewoo XB (South Korea – assault rifle – 5.56×45mm NATO: prototype)
+ Daewoo K3 (South Korea – light machine gun – 5.56×45mm NATO)
+ Daewoo K3 Para (South Korea – light machine gun – 5.56×45mm NATO)
+ Daewoo XK3 (South Korea – light machine gun – 5.56×45mm NATO: prototype)
+ Daewoo K4 (South Korea – Automatic Grenade launcher – 40×53mm grenade)
+ Daewoo K5 (South Korea – semi-automatic pistol – 9×19mm Parabellum)
+ Daewoo DH380 (South Korea – semi-automatic pistol – .380 ACP)
+ Daewoo DH40 (South Korea – semi-automatic pistol – .40 S&W)
+ Daewoo DH45 (South Korea – semi-automatic pistol – .45 ACP)
+ Daewoo DP51 (South Korea – semi-automatic pistol – 9×19mm Parabellum)
+ Daewoo DP51C (South Korea – Compact semi-automatic pistol – 9×19mm Parabellum)
+ Daewoo XK5 (South Korea – semi-automatic pistol – 9×19mm Parabellum: prototype)
+ Daewoo K6 (South Korea – heavy machine gun – .50 BMG: Licensed production Browning M2HB)
+ Daewoo K7 (South Korea – submachine gun – 9×19mm Parabellum)
+ Daewoo K11 (South Korea – dual-barrel air-burst Weapon – 5.56×45mm NATO, 20×30mm grenade)
+ Daewoo K12 (South Korea – general purpose machine gun – 7.62×51mm NATO)
+ Daewoo XK12 (South Korea – general purpose machine gun – 7.62×51mm NATO: prototype)
+ Daewoo K14 (South Korea – sniper rifle – 7.62×51mm NATO)
+ Daewoo USAS-12 (South Korea – shotgun – 12 gauge)
+ Daewoo XK8 (South Korea – assault rifle – 5.56×45mm NATO: prototype)
+ Daewoo DAR-21 (South Korea – assault rifle – 5.56×45mm NATO)
+ Daewoo XK9 (South Korea – submachine gun – 9×19mm Parabellum: prototype)
+ Daewoo XK10 (South Korea – submachine gun – 9×19mm Parabellum: prototype)
+ Daisy Outdoor Products
+ Daisy Model 600 (US – bolt-action rifle – .50 BMG)
+ Daisy V/L (US – single-shot bolt-action rifle – .22 caseless)
+ Dan Wesson M1911 ACP Pistol (US – semi-automatic pistol – .45 ACP)
+ Dansk Industri Syndikat A/S
+ Machine guns
+ Madsen Machine Gun (Denmark – light machine gun – 6.5×55mm, 7×57mm Mauser, 7.62×51mm NATO, 7.62×54mmR, 7.65×53mm Argentine, 7.92×57mm Mauser, .303 British)
+ Weibel M/1932 (Kingdom of Denmark – 1932 – light machine gun – 7×44mm)
+ Rifles
+ Madsen LAR (Denmark – battle rifle – 7.62×39mm, 7.62×51mm NATO)
+ Madsen LAR 7.62×39mm Variant (Denmark – battle rifle – 7.62×39mm: prototype)
+ Madsen LAR Fixed Tube Stock Variant (Denmark – battle rifle – 7.62×51mm NATO)
+ Madsen LAR Fixed Wooden Stock Variant (Denmark – battle rifle – 7.62×51mm NATO)
+ Madsen LAR Side-Folding Stock Variant (Denmark – battle rifle – 7.62×51mm NATO)
+ Madsen LAR Underfolding Stock Variant (Denmark – battle rifle – 7.62×51mm NATO)
+ Submachine guns
+ INA Model 953 (Denmark – submachine gun – .45 ACP)
+ Lettet-Forsøgs (Denmark – submachine gun – 9×19mm Parabellum: Suomi KP/-31 variant)
+ Madsen M-46 (Denmark – submachine gun – 9×19mm Parabellum)
+ Madsen M-50 (Denmark – sub machine gun – 9×19mm Parabellum)
+ Madsen M-53 (Denmark – submachine gun – 9×19mm Parabellum)
+ Dardick Models 1100 and 1500 (US – revolver – .38 Dardick Tround)
+ Davis Warner Infallible (US – semi-automatic pistol – .32 ACP)
+ De Lisle carbine (UK – bolt-action carbine – .45 ACP)
+ Deer gun (US – single-shot pistol – 9×19mm Parabellum)
+ Defence Science and Technology Organisation
+ Assault rifles
+ Advanced Individual Combat Weapon (Commonwealth of Australia – Defence Science and Technology Organisation, Metal Storm, Tenix Defence Systems – 2000s–present – assault rifle with grenade launcher – 5.56mm NATO, 40 mm grenade: in development)
+ Degtyarev Plant
+ Machine guns
+ KB-P 790 (Soviet Union – light machine gun – 7.62×39mm: prototype)
+ Rifles
+ AEK Rifle Series
+ AEK-971 (Soviet Union – assault rifle – 5.45×39mm)
+ AEK-971S (Soviet Union – assault rifle – 5.45×39mm)
+ AEK-972 (Soviet Union – assault rifle – 5.56×45mm NATO)
+ AEK-973 (Soviet Union – assault rifle – 7.62×39mm)
+ AEK-973S (Soviet Union – assault rifle – 7.62×39mm)
+ AEK-978 (Soviet Union – assault rifle – 5.45×39mm)
+ PTRD-41 (Soviet Union – single-shot bolt-action anti-materiel rifle – 14.5×114mm)
+ PTRS-41 (Soviet Union – semi-automatic anti-materiel rifle – 14.5×114mm)
+ KSVK (Russian Federation – 1998 – bolt-action anti-materiel rifle – 12.7×108mm)
+ ASVK (Russian Federation – 1998 – bolt-action anti-materiel rifle – 12.7×108mm)
+ SVN 98 (Russian Federation – 1998 – bolt-action anti-materiel rifle – 12.7×108mm: prototype)
+ Democratic Republic of Vietnam State Arsenals
+ Submachine guns
+ K-50M (Democratic Republic of Vietnam – Democratic Republic of Vietnam State Arsenals – 1958 – submachine gun – 7.62×25mm Tokarev: North Vietnamese submachine gun based on the Chinese Type 50 submachine gun. Used by North Vietnamese troops during the Vietnam war.)
+ Demro TAC-1 (US – semi-automatic carbine – 9×19mm Parabellum, .45 ACP)
+ Demro TAC-1M (US – semi-automatic carbine – 9×19mm Parabellum, .45 ACP)
+ Demro TAC-1MA Submachine Gun (US – submachine gun – 9×19mm Parabellum, .45 ACP)
+ Demro XF-7 WASP Carbine (US – semi-automatic carbine – 9×19mm Parabellum, .45 ACP)
+ Demro XF-7A WASP Submachine Gun (US – submachine gun – 9×19mm Parabellum, .45 ACP)
+ FoxCo Fox Carbine (US – semi-automatic carbine – 9×19mm Parabellum, .45 ACP)
+ TRI-C Fox Carbine (US – semi-automatic carbine – 9×19mm Parabellum, .45 ACP)
+ Denel Land Systems
+ Machine guns
+ Vektor SS-77 (Republic of South Africa – 1977 – general-purpose machine gun – 7.62×51mm NATO)
+ Vektor Mini SS (Republic of South Africa – early 1990s – light machine gun – 5.56×45mm NATO)
+ Pistols
+ Vektor CP1 (Republic of South Africa – 1996 – semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .40 S&W)
+ Vektor Z-88 (Republic of South Africa – 1992 – semi-automatic pistol – 9×19mm Parabellum)
+ Vektor SP1 (Republic of South Africa – 1992 – semi-automatic pistol – 9×19mm Parabellum)
+ Vektor SP2 (Republic of South Africa – 1992 – semi-automatic pistol – .40 S&W)
+ Rifles
+ Denel NTW-20 (South Africa – bolt-action anti-materiel rifle – 20×82mm)
+ Denel NTW-14.5 (South Africa – bolt-action anti-materiel rifle – 14.5×114mm)
+ Denel NTW-20×110 (South Africa – bolt-action anti-materiel rifle – 20×110mm Hispano)
+ Vektor CR-21 (Republic of South Africa – 1997 – assault rifle – 5.56×45mm NATO: prototype)
+ Vektor CR-21 Carbine (Republic of South Africa – 1997 – carbine – 5.56×45mm NATO: prototype)
+ Vektor H5 (Republic of South Africa – unknown date – pump-action rifle – .223 Remington)
+ Vektor R4 (Republic of South Africa – 1980 – assault rifle – 5.56×45mm NATO)
+ Vektor LM4 (Republic of South Africa – unknown date – Semi-automatic assault rifle – 5.56×45mm NATO)
+ Vektor R5 (Republic of South Africa – unknown date – carbine – 5.56×45mm NATO)
+ Vektor LM5 (Republic of South Africa – unknown date – semi-automatic carbine – 5.56×45mm NATO)
+ Vektor R6 (Republic of South Africa – 1990s – compact assault rifle – 5.56×45mm NATO)
+ Vektor LM6 (Republic of South Africa – unknown date – compact semi-automatic assault rifle – 5.56×45mm NATO)
+ KRISS Vector
+ Destroyer carbine (Spain – bolt-action carbine – 9×23mm Largo)
+ Desarrollos Industriales
+ Diseños Casanave SC-2026 (Peru – assault rifle – 7.62×39mm NATO)
+ Diseños Casanave SC-2026C (Peru – carbine – 7.62×39mm NATO)
+ Detonics
+ Detonics Combat Master (US – semi-automatic pistol – .45 ACP)
+ Detonics MTX-H (US – semi-automatic pistol – .45 ACP)
+ Detonics Service Master (US – semi-automatic pistol – .45 ACP)
+ Detonics Street Master (US – semi-automatic pistol – .45 ACP)
+ Deutsche Waffen und Munitionsfabriken
+ Pistols
+ DWM C-93 (Germany – semi-automatic pistol – 7.65×25mm Borchardt)
+ Devel M59 (US – pistol – 9×19mm Parabellum: Modified Smith & Wesson Model 59)
+ Systema Colt Modelo 1927 (Argentina – Pistol – .45 ACP: Licensed production M1911A1)
+ Diemaco
+ Diemaco C7 (Canada – assault rifle – 5.56×45mm NATO: Licensed Production Armalite AR-15 variant)
+ Diemaco C7A1 (Canada – assault rifle – 5.56×45mm NATO)
+ Diemaco C7A2 (Canada – assault rifle – 5.56×45mm NATO)
+ Diemaco C7CT (Canada – assault rifle – 5.56×45mm NATO)
+ Diemaco C7LSW (US, Canada – squad automatic weapon – 5.56×45mm NATO)
+ Diemaco C8 (Canada – carbine – 5.56×45mm NATO)
+ Diemaco C8A1 (Canada – carbine – 5.56×45mm NATO)
+ Diemaco C8A2 (Canada – carbine – 5.56×45mm NATO)
+ C8A3 (Canada – carbine – 5.56×45mm NATO: in development)
+ Diemaco C8CQB (Canada – carbine – 5.56×45mm NATO)
+ Diemaco C8CT (Canada – Designated marksman rifle – 5.56×45mm NATO)
+ Diemaco C8FTHB (Canada – carbine – 5.56×45mm NATO)
+ Diemaco C8PDW (Canada – personal defense weapon – 5.56×45mm NATO)
+ Diemaco C8SFW (Canada – carbine – 5.56×45mm NATO)
+ C10 Training Rifle (Canada – training rifle – .22 LR)
+ L119A1 (Canada – carbine – 5.56×45mm NATO: designation given by the UK)
+ Diemaco Chain Gun (Canada – chain gun – 7.62×51mm NATO: licensed production L94A1)
+ Dillon Aero
+ Dillon Aero 503D (US – heavy machine gun – 12.7×99mm NATO)
+ Dinley machine carbine (United Kingdom – submachine gun – .32 ACP)
+ D-Max Industries
+ D-Max 100C (US – semi-automatic carbine – 10mm auto / 45 ACP / .41 AE / .40 S&W / .38 Super / 9×19mm Parabellum)
+ D-Max 100P (US – semi-automatic pistol – 10mm auto / 45 ACP / .41 AE / .40 S&W / .38 Super / 9×19mm Parabellum)
+ DOG-1 Revolver (Russia – revolver – 12.5×35mm)
+ Downsizer Corporation WSP (US – subcompact semi-automatic pistol – .45 ACP)
+ DP LMG
+ DA (Soviet Union – aircraft-mounted machine gun – 7.62×54mmR)
+ DPM (Soviet Union – light machine gun – 7.62×54mmR)
+ DT (Soviet Union – vehicle-mounted machine gun – 7.62×54mmR)
+ DTM (Soviet Union – vehicle-mounted machine gun – 7.62×54mmR)
+ DTM-4 (Soviet Union – quad-mounted Machine gun – 7.62×54mmR)
+ RP-46 (Soviet Union – light machine gun – 7.62×54mmR)
+ DPMS (Defense Procurement Manufacturing Services) Panther Arms
+ AR-15 series in .223 Remington/5.56×45mmNATO & .300Black
+ AR-10/LAR-8 in .308 Winchester/7.62×51mm NATO with multiple calibers based on the receivers of the AR15 and AR10; see List of AR platform cartridges
+ Dragunov SVD (Soviet Union – semi-automatic sniper rifle – 7.62×54mmR)
+ Al-Kadesih (Iraq – semi-automatic sniper rifle – 7.62×54mmR)
+ Dragunov SVDK (Soviet Union – semi-automatic sniper rifle – 9.3×64mm Brenneke, 9.3×64mm 7N33)
+ Dragunov SVDS (Soviet Union – Semi-automatic sniper rifle – 7.62×54mmR)
+ Dragunov SVDSN (Soviet Union – Semi-automatic sniper rifle – 7.62×54mmR)
+ Dragunov SVU (Soviet Union – Compact Semi-automatic sniper rifle – 7.62×54mmR)
+ Dragunov SVU-A (Soviet Union – Compact Automatic sniper rifle – 7.62×54mmR)
+ Dragunov SWD-M (Poland – Semi-automatic sniper rifle – 7.62×54mmR)
+ Medved (Soviet Union – Semi-automatic sniper rifle – 7.62×51mm NATO(Later models), 9×53mm)
+ Tigr (Soviet Union – Semi-automatic Hunting Rifle – 7.62×54mmR, .308 Winchester, .30-06 Springfield, 9.3×64mm Brenneke)
+ Dreyse
+ Dreyse M1907 (German Empire – semi-automatic pistol – .32 ACP)
+ Dreyse M1912 (German Empire – semi-automatic pistol – 9×19mm Parabellum)
+ Dreyse Needle Gun (Prussia – Single-shot bolt-action rifle – 15.43mm Lead Bullet in Paper Cartridge)
+ DShK Machine Gun (Russia – heavy machine gun – 12.7×108mm)
+ DK (Soviet Union – heavy machine gun – 12.7×108mm)
+ DShKM (Soviet Union – heavy machine gun – 12.7×108mm)
+ DShKS (Soviet Union – heavy machine gun – 12.7×108mm)
+ DSR-Precision GmbH
+ DSR-1 (Germany – bolt-action sniper rifle – .300 Winchester Magnum, .308 Winchester, .338 Lapua Magnum)
+ DSR-1 Subsonic (Germany – bolt-action sniper rifle – 7.62×51mm NATO, .308 Winchester)
+ DSR-50 (Germany – bolt-action anti-materiel rifle – .50 BMG)
+ DTV Arms
+ DTV Arms XR338
+ Dual Cycle Rifle (US – revolver-type assault rifle – 5.56×45mm NATO)
+ EBO Kefefs (Greece – bolt-action sniper rifle – 7.62×51mm NATO)
+ EBO Kefefs-M (Greece – bolt-action sniper rifle – 7.62×51mm NATO)
+ EBO Kefefs-P (Greece – bolt-action sniper rifle – 7.62×51mm NATO)
+ EDDA submachine gun (Argentina – submachine gun – .22 WMR)
+ EDM Arms
+ Rifles
+ ELF-2 submachine gun (Ukraine – submachine gun – 9×18mm Makarov)
+ Ekins Automatic Rifle (Australia – automatic rifle – .303 British)
+ EMER-K1 (Burma – assault rifle – 5.56×45mm NATO)
+ Empire of Japan State Arsenals
+ Light machine guns
+ Type 96 light machine gun (Empire of Japan – Kijirō Nambu – 1936 – light machine gun – 6.5×50mm Semi-Rimmed Arisaka: Imperial Japanese light machine gun of the Interwar period and World War II period.)
+ Empty Shell LLC
+ XM556 (US – machine gun – 5.56×45mm NATO)
+ ENARM
+ Machine guns
+ ENARM MMG (Brazil – general-purpose machine gun – 7.62×51mm NATO: FN MAG Copy)
+ Shotguns
+ ENARM Pentagun (Brazil – semi-automatic shotgun – 12 gauge)
+ Submachine guns
+ ENARM SMG (Brazil – machine pistol – 9×19mm Parabellum)
+ Encom
+ Encom MP9
+ Encom MP45
+ Enterbras
+ Enterbras C-380
+ EPK Machine Gun (Greece – light machine gun – 7.92×36mm EPK)
+ Erma Werke
+ Pistols
+ Erma LA .22 (Germany – semi-automatic pistol – .22 LR: Luger variant)
+ Rifles
+ Erma SR-100 (Germany – bolt-action sniper rifle – 7.62×51mm NATO, .300 Winchester Magnum, .308 Winchester, .338 Lapua Magnum)
+ Submachine guns
+ Erma-Panzer 58 (Germany – submachine gun – 9×19mm Parabellum: prototype)
+ Erma EMP-35 (Germany – submachine gun – 7.63×25mm Mauser, 9×19mm Parabellum, 9×23mm Largo)
+ Erma EMP-36 (Germany – submachine gun – 7.63×25mm Mauser, 9×19mm Parabellum, 9×23mm Largo: prototype)
+ Erma EMP-44 (Germany – submachine gun – 9×19mm Parabellum: prototype)
+ Erma MP60 (Germany – submachine gun – 9×19mm Parabellum)
+ MP 40 (Nazi Germany – submachine gun – 9×19mm Parabellum)
+ MP 36 (Nazi Germany – submachine gun – 9×19mm Parabellum: prototype)
+ MP 38 (Nazi Germany – submachine gun – 9×19mm Parabellum: prototype)
+ MP 40/1 (Nazi Germany – submachine gun – 9×19mm Parabellum)
+ MP 41 (Nazi Germany – submachine gun – 9×19mm Parabellum)
+ Escondido Arms MFG
+ MP61 (United States – submachine gun – .45 ACP: prototype)
+ MP63 (United States – submachine gun – .45 ACP: prototype)
+ Evans Repeating Rifle (United States – lever-action rifle – .44 Rimfire)
+ FABARM
+ Shotguns
+ Fabarm FP6 (Italy, Germany – pump-action shotgun – 12 gauge)
+ Fabarm FP6 Carbon Fiber Finish (Italy, Germany – pump-action shotgun – 12 gauge)
+ Fabarm FP6 Entry (Italy, Germany – Compact pump-action shotgun – 12 gauge)
+ Fabarm FP6 Folding Stock (Italy, Germany – pump-action shotgun – 12 gauge)
+ Fabarm FP6 Standard (Italy, Germany – pump-action shotgun – 12 gauge)
+ Fabarm SDASS (Italy – pump-action shotgun – 12 gauge)
+ Fabarm SDASS Compact (Italy – compact pump-action shotgun – 12 gauge)
+ Fabarm SDASS Composite (Italy – pump-action shotgun – 12 gauge)
+ Fabarm SDASS Heavy Combat (Italy – pump-action shotgun – 12 gauge)
+ Fabarm SDASS Tactical (Italy – pump-action shotgun – 12 gauge)
+ Fabarm SDASS Trainer (Italy – pump-action shotgun – 12 gauge)
+ Fabrica de Armas Celmi hnos
+ Pistols
+ Pistola Aut. Celmi (Uruguay – semi-automatic pistol – .32 ACP)
+ Submachine guns
+ Celmi Modelo 1946 (Uruguay – submachine gun – .45 ACP)
+ Fábrica de Armas Halcón
+ Submachine guns
+ Halcón M-1943 (Argentina – submachine gun – 9×19mm Parabellum, .45 ACP)
+ Halcón M-1946 (Argentina – submachine gun – 9×19mm Parabellum, .45 ACP)
+ Halcón ML-57 (Argentina – submachine gun – 9×19mm Parabellum, .45 ACP)
+ ML-60 (Argentina – submachine gun – 9×19mm Parabellum, .45 ACP)
+ Halcón ML-63 (Argentina – submachine gun – 9×19mm Parabellum)
+ Fabrica de Armas de Oviedo
+ FA Trapote m/33 (Spain – light machine gun – 7×57mm Mauser)
+ Fábrica de Braço de Prata
+ Submachine guns
+ FBP Submachine Gun (Portugal – submachine gun – 9×19mm Parabellum)
+ FBP m/948 (Portugal – submachine gun – 9×19mm Parabellum)
+ FBP m/963 (Portugal – submachine gun – 9×19mm Parabellum)
+ FBP m/976 (Portugal – submachine gun – 9×19mm Parabellum)
+ Fabrica Boliviana de Municiones
+ Ingram FBM (Bolivia – assault rifle – 5.56×45mm NATO)
+ FAMAE
+ Pistols
+ FAMAE FN750 (Chile – semi-automatic pistol – 9×19mm Parabellum)
+ Revolvers
+ FAMAE FT-2000 (Chile – double-action revolver – .32 Long Colt, .38 Special)
+ Rifles
+ FAMAE CT-30 (Chile – semi-automatic carbine – .30 Carbine)
+ FAMAE FD-200 (Chile – designated marksman rifle – 7.62×51mm NATO)
+ FAMAE SG 540-1 (Switzerland, Chile – semi-automatic carbine – 5.56×45mm NATO)
+ FAMAE SG 542-1 (Switzerland, Chile – semi-automatic carbine – 7.62×51mm NATO)
+ FAMAE SG 543-1 (Switzerland, Chile – semi-automatic carbine – 5.56×45mm NATO)
+ Submachine guns
+ FAMAE PAF (Australia, Chile – submachine gun – 9×19mm Parabellum)
+ FAMAE SAF (Chile – submachine gun – 9×19mm Parabellum)
+ FAMAE Mini SAF (Chile – submachine gun – 9×19mm Parabellum)
+ FAMAE SAF-200 (Chile – submachine gun – 9×19mm Parabellum)
+ FAVS
+ Rifles
+ FAVS Stradivari (Italy – single-shot carbine)
+ FAVS Stradivari Model K (Italy – single-shot carbine – 7mm Remington, 7.62×51mm NATO, .222 Remington, .243 Winchester, .308 Winchester, .357-MAX)
+ FAVS Stradivari Model L (Italy – single-shot carbine – 7×64mm, .25–'06, .270 Winchester)
+ FAVS Stradivari Model M (Italy – single-shot carbine – 7mm Remington, 7×64mm, 7.62×51mm NATO, .222 Remington, .243 Winchester, .25–'06, .30–'06 Springfield, .270 Winchester, .308 Winchester)
+ Feather Industries
+ Rifles
+ Feather Industries AT-9 Carbine
+ Feather Industries AT-22 Carbine
+ Federal Engineering Corporation
+ Federal Engineering XC
+ XC220
+ XC450
+ XC900
+ Fegyver- és Gépgyár
+ Pistols
+ FEG Model 48 (Hungary, Germany – semi-automatic pistol – .380 ACP: licensed production Walther PPK)
+ FEG PA-63 (Hungary, Germany – semi-automatic pistol – 9×18mm Makarov, .32 ACP, .380 ACP: licensed production Walther PPK)
+ Rifles
+ AMD 65 (Hungary – assault rifle – 7.62×39mm)
+ AKM-63 (Hungary – assault rifle – 7.62×39mm)
+ FEG Model 58 (Hungary – semi-automatic rifle – 7.62×39mm)
+ Feldl machine gun ( – machine gun – 11×50mmR)
+ Ferret 50 (Hungary – semi-automatic anti-materiel rifle – .408 Chey-Tac, .50 BMG)
+ Ferret 50 Sportsman (Hungary – semi-automatic anti-materiel rifle – .338 Lapua Magnum)
+ Ferret 50 SuperComp (Hungary – semi-automatic anti-materiel rifle – .408 Chey-Tac, .50 BMG, .510 DTC)
+ Fiat Modello S 1922 (Kingdom of Italy – light machine gun – 6.5×52mm Mannlicher–Carcano)
+ Fiat–Revelli Modello 14 (Kingdom of Italy – medium machine gun – 6.5×52mm Mannlicher–Carcano)
+ Fiat–Revelli Modello 1935 (Kingdom of Italy – heavy machine gun – 8×59mm RB Breda)
+ Fittipaldi Machine Gun (Argentina – medium machine gun – 7.65×53mm Argentine)
+ FLARM
+ F-011 Levant (Ukraine – light machine gun – 5.56×45mm NATO)
+ Fleming Firearms inc
+ Fleming Model 51K (United States – carbine – 7.62×51mm NATO)
+ Flint River Armory
+ Flint River Armory CSA45 (United States – carbine – .45 ACP)
+ Floro MK-9 (Philippines – submachine gun – 9×19mm Parabellum)
+ Floro MP-9 (Philippines – submachine gun – 9×19mm Parabellum)
+ F.M.A.P
+ Pistols
+ Systema Colt Modelo 1927 (Argentina – semi-automatic pistol – .45 ACP)
+ Fabricaciones Militares
+ Rifles
+ FM FAL (Argentina – battle rifle – 7.62×51mm NATO)
+ FM FAP (Argentina – light machine gun – 7.62×51mm NATO)
+ FM FSL (Argentina – semi-automatic rifle – 7.62×51mm NATO)
+ Submachine guns
+ FMK-3 (Argentina – submachine gun – 9×19mm Parabellum)
+ FMK-4 (Argentina – submachine gun – 9×19mm Parabellum)
+ FMK-5 (Argentina – semi-automatic carbine – 9×19mm Parabellum: civilian market variant)
+ Fabrica Militar de Armas Portatiles Domingo Matheu
+ Rifles
+ FARA 83 (Argentina – assault rifle – 5.56×45mm NATO)
+ FMK 9C1 (United States – semi-automatic pistol – 9×19mm Parabellum)
+ FN Herstal
+ Launchers
+ FN 303 (Belgium – compressed air launcher – 12 gauge)
+ Machine guns
+ FN BRG-15 (Belgium – heavy machine gun – 15.5×115mm: prototype)
+ FN MAG58 (Belgium – general-purpose machine gun – 7.62×51mm NATO)
+ FN MAG 10.10 (Belgium – general-purpose machine gun – 7.62×51mm NATO)
+ FN MAG 60.20 (Belgium – general-purpose machine gun – 7.62×51mm NATO)
+ FN MAG 60.30 (Belgium – general-purpose machine gun – 7.62×51mm NATO)
+ FN MAG 60.40 (Belgium – vehicle-mounted general-purpose machine gun – 7.62×51mm NATO)
+ M240 (US – vehicle-mounted general-purpose machine gun – 7.62×51mm NATO)
+ M240B (US – general-purpose machine gun – 7.62×51mm NATO)
+ M240C (US – vehicle-mounted general-purpose machine gun – 7.62×51mm NATO)
+ M240D (US – aircraft-mounted general-purpose machine gun – 7.62×51mm NATO)
+ M240E6 (US – general-purpose machine gun – 7.62×51mm NATO)
+ M240G (US – general-purpose machine gun – 7.62×51mm NATO)
+ M240H (US – aircraft-mounted general-purpose machine gun – 7.62×51mm NATO)
+ M240N (US – general-purpose machine gun – 7.62×51mm NATO)
+ FN Minimi (Belgium – light machine gun – 5.56×45mm NATO)
+ FN Minimi 7.62 (Belgium – light machine gun – 7.62×51mm NATO)
+ FN Minimi Mk 3 (Belgium – light machine gun – 5.56×45mm NATO)
+ FN Minimi Para (Belgium – light machine gun – 5.56×45mm NATO: Short Version)
+ M249 (US – light machine gun – 5.56×45mm NATO)
+ M249 Paratrooper (US – light machine gun – 5.56×45mm NATO)
+ M249 PIP (US – light machine gun – 5.56×45mm NATO)
+ M249 SPW (US – light machine gun – 5.56×45mm NATO)
+ Mk 46 Mod 0 (US – light machine gun – 5.56×45mm NATO)
+ Mk 48 Mod 0 (US – light machine gun – 7.62×51mm NATO)
+ Pistols
+ FN Five-seven (Belgium – semi-automatic pistol – 5.7×28mm)
+ FN Five-seven FDE (Belgium – semi-automatic pistol – 5.7×28mm)
+ FN Five-seven IOM (Belgium – semi-automatic pistol – 5.7×28mm)
+ FN Five-seven Mk 2 (Belgium – semi-automatic pistol – 5.7×28mm)
+ FN Five-seven ODG (Belgium – semi-automatic pistol – 5.7×28mm)
+ FN Five-seven Tactical (Belgium – semi-automatic pistol – 5.7×28mm)
+ FN Five-seven USG (Belgium – semi-automatic pistol – 5.7×28mm*** FN GP35 (Belgium – semi-automatic pistol – 9×19mm Parabellum)
+ FN Grand Browning (Belgium – semi-automatic pistol – 9.65×23mm Browning)
+ FN HiPer (Belgium – semi-automatic pistol – 9×19mm Parabellum)
+ FN HP-DA (Belgium – semi-automatic pistol – 9×19mm Parabellum)
+ FN Model 1900 (Belgium – semi-automatic pistol – .32 ACP)
+ FN Model 1903 (Belgium – semi-automatic pistol – 9×20mm Browning Long)
+ FN Model 1905 (Belgium – semi-automatic pistol – .25 ACP)
+ FN Model 1910 (Belgium – semi-automatic pistol – .32 ACP, .380 ACP)
+ FN Model 1922 (Belgium – semi-automatic pistol – .32 ACP, .380 ACP)
+ Revolvers
+ FN Barracuda (Belgium, Spain – double-action revolver – 9×19mm Parabellum, .357 Magnum, .38 Special)
+ Rifles
+ FN CAL (Belgium – assault rifle – 5.56×45mm NATO)
+ FN F2000 (Belgium – assault rifle – 5.56×45mm NATO)
+ FN F2000 Tactical (Belgium – assault rifle – 5.56×45mm NATO)
+ FN F2000 Tactical TR (Belgium – assault rifle – 5.56×45mm NATO)
+ FN F2000 S (Belgium – assault rifle – 5.56×45mm NATO)
+ FN FS2000 (Belgium – semi-automatic rifle – 5.56×45mm NATO: civilian market variant)
+ FN FS2000 Standard (Belgium – semi-automatic rifle – 5.56×45mm NATO)
+ FN FS2000 Tactical (Belgium – semi-automatic rifle – 5.56×45mm NATO)
+ FN FAL (Belgium – battle rifle – 7.62×51mm NATO)
+ FN FAL 50.00 (Belgium – battle rifle – 7.62×51mm NATO)
+ FN LAR 50.41 (Belgium – light machine gun – 7.62×51mm NATO)
+ FN LAR 50.42 (Belgium – light machine gun – 7.62×51mm NATO)
+ FN FAL 50.61 (Belgium – battle rifle – 7.62×51mm NATO)
+ FN FAL 50.62 (Belgium – battle rifle – 7.62×51mm NATO)
+ FN FAL 50.63 (Belgium – carbine – 7.62×51mm NATO)
+ FN FAL 50.64 (Belgium – battle rifle – 7.62×51mm NATO)
+ FN FAL OSW (Belgium – carbine – 7.62×51mm NATO)
+ StG 58 (Belgium – battle rifle – 7.62×51mm NATO)
+ FN FNC (Belgium – carbine – 5.56×45mm NATO)
+ FN FNC Para (Belgium – carbine – 5.56×45mm NATO)
+ FN IWS (Belgium, US – assault rifle – 6.5×43mm)
+ FN Model 30-11 (Belgium – bolt-action rifle – 7.62×51mm NATO)
+ FN Model 1949 (Belgium – semi-automatic rifle – 7×57mm Mauser, 7.65×53mm Argentine, 7.62×51mm NATO, 7.92×57mm Mauser, .30–'06 Springfield)
+ FN SCAR (Belgium, US – rifle – 7.62×51mm NATO)
+ FN SCAR-H (Belgium, US – battle rifle – 7.62×51mm NATO)
+ FN SCAR 17S (Belgium, US – semi-automatic rifle – 7.62×51mm NATO, .308 Winchester: civilian market variant)
+ Mk 17 Mod 0 (Belgium, US – battle rifle – 7.62×51mm NATO)
+ Mk 17 Mod 0 CQC (Belgium, US – carbine – 7.62×51mm NATO)
+ Mk 17 Mod 0 LB (Belgium, US – Designated marksman rifle – 7.62×51mm NATO)
+ Mk 17 Mod 0 Standard (Belgium, US – vattle rifle – 7.62×51mm NATO)
+ FN SCAR-L (Belgium, US – assault rifle – 5.56×45mm NATO)
+ FN FNAC (Belgium, US – carbine – 5.56×45mm NATO: prototype)
+ FN HAMR IAR (Belgium, US – squad automatic weapon – 5.56×45mm NATO: prototype)
+ FN SCAR 16S (Belgium, US – semi-automatic rifle – 5.56×45mm NATO, .223 Remington: civilian market variant)
+ Mk 16 Mod 0 (Belgium, US – assault rifle – 5.56×45mm NATO)
+ Mk 16 CQC (Belgium, US – carbine – 5.56×45mm NATO)
+ Mk 16 LB (Belgium, US – designated marksman rifle – 5.56×45mm NATO)
+ Mk 16 Standard (Belgium, US – assault rifle – 5.56×45mm NATO)
+ Mk 16 PDW (Belgium, US – personal defense weapon – 5.56×45mm NATO)
+ Mk 20 Mod 0 (Belgium, US – semi-automatic sniper rifle – 7.62×51mm NATO)
+ Submachine guns
+ FN P90 (Belgium – personal defense weapon – 5.7×28mm)
+ FN P90 Laserex (Belgium – personal defense weapon – 5.7×28mm)
+ FN P90 IR (Belgium – personal defense weapon – 5.7×28mm)
+ FN P90 LV (Belgium – personal defense weapon – 5.7×28mm)
+ FN P90 TR (Belgium – personal defense weapon – 5.7×28mm)
+ FN P90 USG (Belgium – personal defense weapon – 5.7×28mm)
+ FN PS90 (Belgium – semi-automatic carbine – 5.7×28mm)
+ Fokker-Leimberger (German Empire – Minigun – 7.92×57mm Mauser)
+ Forjas Taurus S.A.
+ Pistols
+ Taurus Millennium Series (Federative Republic of Brazil – 2005 – semi-automatic pistols)
+ Millennium PT111 (Federative Republic of Brazil – 2005 – semi-automatic pistol – 9×19mm Parabellum)
+ Millennium PT111 G2 (Federative Republic of Brazil – 2005 – semi-automatic pistol – 9×19mm Parabellum)
+ Millennium PT111 Pro (Federative Republic of Brazil – 2005 – semi-automatic pistol – 9×19mm Parabellum)
+ Millennium PT132 (Federative Republic of Brazil – 2005 – semi-automatic pistol – .32 ACP)
+ Millennium PT132 Pro (Federative Republic of Brazil – 2005 – semi-automatic pistol – .32 ACP)
+ Millennium PT138 (Federative Republic of Brazil – 2005 – semi-automatic pistol – .380 ACP)
+ Millennium PT138 Pro (Federative Republic of Brazil – 2005 – semi-automatic pistol – .380 ACP)
+ Millennium PT140 (Federative Republic of Brazil – 2005 – semi-automatic pistol – .40 S&W)
+ Millennium PT140 G2 (Federative Republic of Brazil – 2005 – semi-automatic pistol – .40 S&W)
+ Millennium PT140 Pro (Federative Republic of Brazil – 2005 – semi-automatic pistol – .40 S&W)
+ Millennium PT145 (Federative Republic of Brazil – 2005 – semi-automatic pistol – .45 ACP)
+ Millennium PT145 Pro (Federative Republic of Brazil – 2005 – Subcompact semi-automatic pistol – .45 ACP)
+ Millennium PT745 (Federative Republic of Brazil – 2005 – semi-automatic pistol – .45 ACP)
+ Millennium PT745 Pro (Federative Republic of Brazil – 2005 – Subcompact semi-automatic pistol – .45 ACP)
+ PT-92 (Federative Republic of Brazil – 1983 – semi-automatic pistol – 9×19mm Parabellum)
+ PT-92C (Federative Republic of Brazil – 1983 – compact semi-automatic pistol – 9×19mm Parabellum)
+ PT-99 (Federative Republic of Brazil – 1983 – semi-automatic pistol – 9×19mm Parabellum)
+ PT-100 (Federative Republic of Brazil – 1983 – semi-automatic pistol – .40 S&W)
+ PT-101 (Federative Republic of Brazil – 1983 – semi-automatic pistol – .40 S&W)
+ PT-917 (Federative Republic of Brazil – 1983 – semi-automatic pistol – 9×19mm Parabellum)
+ PT-917C (Federative Republic of Brazil – 1983 – Compact semi-automatic pistol – 9×19mm Parabellum)
+ Taurus PT-900 Series Federative Republic of Brazil – 1992 – semi-automatic pistols)
+ Taurus PT-909 (Federative Republic of Brazil – 2005 – semi-automatic pistol – 9×19mm Parabellum)
+ Taurus PT-911 (Federative Republic of Brazil – 1997 – semi-automatic pistol – 9×19mm Parabellum)
+ Taurus PT-940 (Federative Republic of Brazil – 1992 – semi-automatic pistol – .40 S&W)
+ Taurus PT-945 (Federative Republic of Brazil – 1994 – semi-automatic pistol – .45 ACP)
+ Taurus PT-908 (Federative Republic of Brazil – unknown – Compact semi-automatic pistol – 9×19mm Parabellum)
+ Revolvers
+ Judge (Federative Republic of Brazil – unknown – double-action revolver – .410 bore, .45 Colt, .454 Casull)
+ Taurus Judge Carbine Variant (Federative Republic of Brazil – unknown – double-action revolver/carbine – .410 bore, .45 Colt, .454 Casull)
+ Raging Judge (Federative Republic of Brazil – unknown – double-action revolver – .410 bore, .45 Colt, .454 Casull)
+ M44 (Federative Republic of Brazil – unknown – double-action revolver – .44 Remington Magnum)
+ M44C (Federative Republic of Brazil – unknown – subcompact – .44 Remington Magnum)
+ M66 (Federative Republic of Brazil – unknown – double-action revolver – .357 S&W Magnum)
+ M85 (Federative Republic of Brazil – unknown – subcompact double-action revolver – .38 S&W Special)
+ M85 Ultralite (Federative Republic of Brazil – unknown – subcompact double-action revolver – .38 S&W Special)
+ M415 (Federative Republic of Brazil – unknown – subcompact double-action revolver – .41 Remington Magnum)
+ M415T (Federative Republic of Brazil – unknown – subcompact double-action revolver – .41 Remington Magnum)
+ M605 (Federative Republic of Brazil – unknown – subcompact double-action revolver – .357 S&W Magnum)
+ M627 (Federative Republic of Brazil – unknown – double-action revolver – .357 S&W Magnum)
+ M669 (Federative Republic of Brazil – unknown – double-action revolver – .357 S&W Magnum)
+ M970 (Federative Republic of Brazil – Unknown – double-action revolver – .22 long rifle)
+ M971 (Federative Republic of Brazil – unknown – subcompact double-action revolver – .357 S&W Magnum)
+ Raging Bull (Federative Republic of Brazil – unknown – double-action revolver – .357 S&W Magnum)
+ M22H (Federative Republic of Brazil – unknown – double-action revolver – .22 Hornet)
+ M30C (Federative Republic of Brazil – unknown – double-action revolver – .30 Carbine)
+ M218 (Federative Republic of Brazil – unknown – double-action revolver – .218 Bee)
+ M223 (Federative Republic of Brazil – unknown – double-action revolver – .223 Remington)
+ M416 (Federative Republic of Brazil – unknown – double-action revolver – .41 Remington Magnum)
+ M444 (Federative Republic of Brazil – unknown – double-action revolver – .44 Remington Magnum, .44 S&W Special)
+ M444 Ultralite (Federative Republic of Brazil – unknown – compact double-action revolver – .44 Remington Magnum, .44 S&W Special)
+ M454 (Federative Republic of Brazil – unknown – double-action revolver – .454 Casull)
+ M480 (Federative Republic of Brazil – unknown – double-action revolver – .480 Ruger)
+ M500 (Federative Republic of Brazil – unknown – double-action revolver – .500 S&W Magnum, .500 S&W Special)
+ Rifles
+ ART-556 (Federative Republic of Brazil – unknown – assault rifle – 5.56×45mm NATO)
+ CT-556 (Federative Republic of Brazil – unknown – semi-automatic rifle – 5.56×45mm NATO)
+ Shotguns
+ Taurus ST-12 (Federative Republic of Brazil – unknown – pump-action shotgun – 12 gauge)
+ Submachine guns
+ M972 (Federative Republic of Brazil, Italian Republic – 1959 – submachine gun – 9×19mm Parabellum: licensed production Beretta M12)
+ PT 24/7 (Federative Republic of Brazil – 2004 – semi-automatic pistol – 9×19mm Parabellum, .40 S&W, .45 ACP)
+ PT 24/7 OSS (Federative Republic of Brazil – 2004 – semi-automatic pistol – 9×19mm Parabellum, .40 S&W, .45 ACP)
+ FR8 (Spain – bolt-action rifle – 7.62×51mm CETME)
+ Fort Ellis XR86 (United States – semi-automatic rifle – 5.56×45mm NATO)
+ Fostech
+ Fostech Origin-12
+ Franchi
+ Rifles
+ Franchi LF-58 (Italy – assault rifle – .30 carbine)
+ Franchi LF-59 (Italy – battle rifle – 7.62×51mm NATO)
+ Franchi mod. 641 (Italy – assault rifle – 5.56×45mm NATO)
+ Shotguns
+ Franchi SPAS-12 (Italy – semi-automatic shotgun, pump-action shotgun – 12 gauge)
+ Franchi SAS-12 (Italy – pump-action shotgun – 12 gauge)
+ Franchi LAW-12 (Italy – semi-automatic shotgun, pump-action shotgun – 12 gauge)
+ Franchi PA-3 (Italy – pump-action shotgun – 12 gauge)
+ Franchi PA-7 (Italy – pump-action shotgun – 12 gauge)
+ Franchi PA-8 (Italy – pump-action shotgun – 12 gauge)
+ Franchi SPAS-15 (Italy – semi-automatic, pump-action shotgun – 12 gauge)
+ Fratelli Tanfoglio S.N.C.
+ Pistols
+ Tanfoglio BTA-90 (Italian Republic – 1990 – semi-automatic pistol – 9×19mm Parabellum)
+ Tanfoglio Force (Italian Republic – 1997 – semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .38 Super Automatic, .40 S&W, 10mm auto, .41 Action Express, .45 ACP: CZ-75 variant)
+ Tanfoglio Force 22 L (Italian Republic – semi-automatic pistol – .22 long rifle)
+ Tanfoglio Force Carry (Italian Republic – 1997 – subcompact semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .40 S&W)
+ Tanfoglio Force Carry F Pro (Italian Republic – 1997 – subcompact semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI)
+ Tanfoglio Force Carry R Police (Italian Republic – 1997 – subcompact semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI)
+ Tanfoglio Force Compact (Italian Republic – 1997 – compact semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .38 Super Automatic, .40 S&W, 10mm Auto, .45 ACP)
+ Tanfoglio Force L (Italian Republic – 1997 – semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .38 Super Automatic, .40 S&W, 10mm Auto, .45 ACP)
+ Tanfoglio Force Sport (Italian Republic – 1997 – semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .38 Super Automatic, .40 S&W, 10mm Auto, .45 ACP)
+ Tanfoglio GT21 (Italian Republic – unknown – semi-automatic pistol – 9×21mm IMI)
+ Tanfoglio GT27 (Italian Republic – unknown – Subcompact semi-automatic pistol – .25 ACP)
+ Tanfoglio GT41 (Italian Republic – unknown – semi-automatic pistol – .41 Action Express)
+ Tanfoglio GT380 (Italian Republic – unknown – semi-automatic pistol – .380 ACP)
+ Tanfoglio P9 (Italian Republic – unknown – semi-automatic pistol – 9×19mm Parabellum)
+ Tanfoglio P9 Combat (Italian Republic – unknown – semi-automatic pistol – 9×19mm Parabellum)
+ Tanfoglio P9 Match (Italian Republic – unknown – semi-automatic pistol – 9×19mm Parabellum)
+ Tanfoglio P19 (Italian Republic – unknown – semi-automatic pistol – 9×21mm Parabellum)
+ Tanfoglio T95 (Italian Republic – 1995 – semi-automatic pistol – 9×21mm IMI)
+ Tanfoglio TA-90 (Italian Republic – 1990 – semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .38 Super Automatic, .40 S&W, 10mm Auto, .45 ACP)
+ Fostech
+ Origin 12 (US – shotgun – 12 gauge)
+ FX-05 Xiuhcoatl (Mexico – assault rifle – 5.56×45mm NATO, 6.8×43mm SPC)
+ FX-05 Assault Rifle (Mexico – assault rifle – 5.56×45mm NATO, 6.8×43mm SPC)
+ FX-05 Carbine (Mexico – carbine – 5.56×45mm NATO, 6.8×43mm SPC)
+ FX-05 Short Carbine (Mexico – carbine – 5.56×45mm NATO, 6.8×43mm SPC)
+ Gabriel & Vojta Sportwaffen GmbH
+ Pistols
+ Ultramatic LV (Republic of Austria – 1995 – semi-automatic pistol – 9×19mm Parabellum, .38 Super Automatic, .40 S&W, .45 ACP)
+ M1870 Gasser Army Revolver (Austria-Hungary – single-action revolver – 11mm Montenegrin)
+ M1870/74 Gasser Army Revolver (Austria-Hungary – single-action revolver – 11mm Montenegrin)
+ M1870/74 Gasser Montenegrin Revolver (Austria-Hungary – single-action revolver – 11mm Montenegrin)
+ Ganzstahl Sportpistole Wolf Ultramatic Mod. LV (Austria – semi-automatic pistol – 9×19mm Parabellum, .38 Super, .40 S&W, .45 ACP)
+ Geller automatic rifle (Soviet Union – 1933 – automatic rifle prototype – 7.62×54mmR)
+ General Dynamics
+ Launchers
+ OCSW (US – automatic grenade launcher – 25mm grenade)
+ XM307 (United States – 2000 – automatic grenade launcher – 25×59mm grenade: Automatic grenade launcher designed to kill enemy combatants or destroy lightly armored targets at long range. Planned to replace or supplement the Browning M2 heavy machine guns and Mk 19 automatic grenade launchers used by the United States Armed Forces. Development cancelled in 2007. Prototypes only.)
+ XM312 (United States – 2000 – heavy machine gun – .50 BMG: Heavy machine gun variant of the experimental XM307 grenade launcher. Designed to replace the Browning M2HB heavy machine guns in service with the United States Armed Forces. Development cancelled in 2007. Prototypes only.)
+ XM806 (United States – 2009 – heavy machine gun – .50 BMG: Heavy machine gun based on the experimental XM307 grenade launcher. Designed to replace the Browning M2HB heavy machine guns in service with the United States Armed Forces. Development cancelled in 2012. Prototypes only.)
+ General Electric
+ Gatling Guns
+ M134 Minigun (US – Gatling gun – 7.62×51mm NATO)
+ GAU-2/A Minigun (US – Gatling gun – 7.62×51mm NATO)
+ GAU-2B/A Minigun (US – Gatling gun – 7.62×51mm NATO)
+ XM196 Minigun (US – Gatling gun – 7.62×51mm NATO: prototype)
+ GAU-17/A Minigun (US – Gatling gun – 7.62×51mm NATO)
+ M134D Minigun (US – Gatling gun – 7.62×51mm NATO)
+ M134G Minigun (US – Gatling gun – 7.62×51mm NATO)
+ M18 Minigun (US – Gatling gun – 7.62×51mm NATO)
+ M18E1 Minigun (US – Gatling gun – 7.62×51mm NATO)
+ MXU-470/A Minigun (US – Gatling gun – 7.62×51mm NATO)
+ XM18 Minigun (US – Gatling gun – 7.62×51mm NATO: prototype)
+ XM133 Minigun (US – Gatling gun – 7.62×51mm NATO: prototype)
+ XM134 Minigun (US – Gatling gun – 7.62×51mm NATO: prototype)
+ XM214 Microgun (US – Gatling gun – 5.56×45mm NATO: prototype)
+ XM214 Microgun (United States – 1966 – Gatling gun – 5.56×45mm NATO: Came in three models, a 1,000 RPM model, a 6,000 RPM model, and a 10,000 RPM model. Prototypes only.)
+ Machine guns
+ M85 (United States – General Electric – unknown date – heavy machine gun – .50 BMG)
+ M85C (United States – General Electric – unknown date – heavy machine gun – .50 BMG: Infantry variant of the American General Electric M85 heavy machine gun with sights and spade grips.)
+ General Motors
+ Pistols
+ FP-45 Liberator (United States – Single-shot Pistol – .45 ACP)
+ Submachine guns
+ M3 (US – submachine gun – .45 ACP)
+ M3A1 (US – submachine gun – .45 ACP)
+ Gepárd anti-materiel rifle (Hungary – anti-materiel rifle)
+ Gepárd M1 (Hungary – single-shot anti-materiel rifle – 12.7×108mm, 14.5×114mm, .50 BMG)
+ Gepárd M2 (Hungary – semi-automatic anti-materiel rifle – 12.7×108mm, .50 BMG)
+ Gepárd M3 (Hungary – semi-automatic anti-materiel rifle – 14.5×114mm)
+ Gepárd M4 (Hungary – semi-automatic anti-materiel rifle – 12.7×108mm, .50 BMG)
+ Gepárd M5 (Hungary – bolt-action anti-materiel rifle – 12.7×108mm, 14.5×114mm, .50 BMG)
+ Gepárd M6 (Hungary – semi-automatic anti-materiel rifle – 12.7×108mm, .50 BMG)
+ Gepárd Submachine Gun (Russia – submachine gun – 9×19mm Parabellum)
+ German Sport Guns GSG-5
+ Gevarm
+ Submachine guns
+ Gevarm D4 (France – submachine gun – 9×19mm Parabellum)
+ GIAT – Nexter (Groupement des Industries de l'Armée de Terre): Manufacture d'armes de Saint-Étienne (MAS)
+ Machine guns
+ GIAT AA-52 (France – general purpose machine gun – 7.5×54mm French)
+ GIAT MAC-58 (France – heavy machine gun – .50 BMG)
+ GIAT NF-1 (France – general purpose machine gun – 7.5×54mm French)
+ Rifles
+ GIAT FAMAS
+ FAMAS F1 (France – assault rifle – 5.56×45mm)
+ FAMAS Infanterie (France – assault rifle – 5.56×45mm)
+ FAMAS G1 (France – assault rifle – 5.56×45mm)
+ FAMAS G2 (France – assault rifle anti-materiel rifle – 5.56×45mm)
+ MAS .223 (Hungary – semi-automatic rifle – .223 Remington)
+ GIAT FR F1 (France – semi-automatic sniper rifle – 7.5×54mm French, 7.62×51mm NATO)
+ GIAT FR G1 (France – semi-automatic sniper rifle – 7.62×51mm NATO)
+ GIAT FR F2 (France – semi-automatic sniper rifle – 7.62×51mm NATO)
+ GIAT FR G2 (France – semi-automatic sniper rifle – 7.62×51mm NATO)
+ GIAT FR G3 (France – semi-automatic sniper rifle – 7.62×51mm NATO)
+ GIAT MAS-36 (France – bolt-action rifle – 7.5×54mm French)
+ GIAT MAS-36/51 (France – bolt-action rifle – 7.5×54mm French)
+ GIAT MAS-36 CR39 (France – bolt-action rifle – 7.5×54mm French)
+ GIAT MAS-36 LG48 (France – bolt-action rifle – 7.5×54mm French)
+ GIAT MAS-49 (France – semi-automatic battle rifle – 7.5×54mm French)
+ GIAT MAS 49/56 (France – semi-automatic battle rifle – 7.5×54mm French)
+ GIAT MAS 49/56 MSF (France – semi-automatic battle rifle – 7.5×54mm French)
+ Submachine guns
+ GIAT MAS-38 (France – submachine gun – .32 ACP, 7.65×20mm Longue)
+ GIAT PDW (France – personal defence weapon – 5.7×22mm GIAT)
+ Glock Ges.m.b.H.
+ Pistols
+ Glock (Austria – semi-automatic pistols)
+ Glock 17 (Austria – semi-automatic pistol – 9×19mm Parabellum)
+ Glock 17A (Austria, Australia – semi-automatic pistol – 9×19mm Parabellum)
+ Glock 17C (Austria – semi-automatic pistol – 9×19mm Parabellum)
+ Glock 17DK (Austria, Denmark – semi-automatic pistol – 9×19mm Parabellum)
+ Glock 17L (Austria – semi-automatic pistol – 9×19mm Parabellum)
+ Glock 17MB (Austria – semi-automatic pistol – 9×19mm Parabellum)
+ Glock 17Pro (Austria, Finland – semi-automatic pistol – 9×19mm Parabellum)
+ Glock 17S (Austria, Israel, Pakistan, Tasmania – semi-automatic pistol – 9×19mm Parabellum)
+ Glock 17 SNF (Austria, Panama – semi-automatic pistol – 9×19mm Parabellum)
+ Glock 17T (Austria – semi-automatic training pistol – rubber bullets)
+ Glock 18 (Austria – machine pistol – 9×19mm Parabellum)
+ Glock 18C (Austria – machine pistol – 9×19mm Parabellum)
+ Glock 19 (Austria – compact semi-automatic pistol – 9×19mm Parabellum)
+ Glock 19C (Austria – compact semi-automatic pistol – 9×19mm Parabellum)
+ Glock 26 (Austria – subcompact semi-automatic pistol – 9×19mm Parabellum)
+ Glock 34 (Austria – semi-automatic competition pistol – 9×19mm Parabellum)
+ Glock 20 (Austria – semi-automatic pistol – 10mm auto)
+ Glock 20C (Austria – semi-automatic pistol – 10mm auto)
+ Glock 20SF (Austria – semi-automatic pistol – 10mm auto)
+ Glock 29 (Austria – subcompact semi-automatic pistol – 10mm auto)
+ Glock 29SF (Austria – subcompact semi-automatic pistol – 10mm auto)
+ Glock 21 (Austria – semi-automatic pistol – .45 ACP)
+ Glock 21C (Austria – semi-automatic pistol – 10mm Auto)
+ Glock 21SF (Austria – semi-automatic pistol – .45 ACP)
+ Glock 30 (Austria – subcompact semi-automatic pistol – .45 ACP)
+ Glock 30S (Austria – subcompact semi-automatic pistol – .45 ACP)
+ Glock 30SF (Austria – subcompact semi-automatic pistol – .45 ACP)
+ Glock 36 (Austria – ultra-compact semi-automatic pistol – .45 ACP)
+ Glock 41 (Austria – semi-automatic competition pistol – .45 ACP)
+ Glock 22 (Austria – semi-automatic pistol – .40 S&W)
+ Glock 22C (Austria – semi-automatic pistol – .40 S&W)
+ Glock 23 (Austria – compact semi-automatic pistol – .40 S&W)
+ Glock 23C (Austria – compact semi-automatic pistol – .40 S&W)
+ Glock 24 (Austria – semi-automatic competition pistol – .40 S&W)
+ Glock 24C (Austria – Semi-automatic competition Pistol – .40 S&W)
+ Glock 27 (Austria – subcompact semi-automatic pistol – .40 S&W)
+ Glock 35 (Austria – semi-automatic competition pistol – .40 S&W)
+ Glock 25 (Austria – compact semi-automatic pistol – .380 ACP)
+ Glock 25 SDN (Austria, Mexico – semi-automatic pistol – .380 ACP)
+ Glock 28 (Austria – subcompact semi-automatic pistol – .380 ACP)
+ Glock 42 (Austria – ultra-compact semi-automatic pistol – .380 ACP)
+ Glock 31 (Austria – semi-automatic pistol – .357 SIG)
+ Glock 31C (Austria – semi-automatic pistol – .357 SIG)
+ Glock 32 (Austria – compact semi-automatic pistol – .357 SIG)
+ Glock 32C (Austria – compact semi-automatic pistol – .357 SIG)
+ Glock 33 (Austria – subcompact semi-automatic pistol – .357 SIG)
+ Glock 37 (Austria – semi-automatic pistol – .45 GAP)
+ Glock 38 (Austria – compact semi-automatic pistol – .45 GAP)
+ Glock 39 (Austria – subcompact semi-automatic pistol – .45 GAP)
+ Glock Mariner (Austria, Philippines – semi-automatic pistol – various)
+ Glock Tactical (Austria, Philippines – semi-automatic pistol – various)
+ Garb Monetti y Cia.
+ Pistola GMC
+ GORDA SCH-21 (Georgia – submachine gun – 9×19mm Parabellum)
+ Gordon Ingram
+ Rifles
+ Ingram SAM Carbines (US – semi-automatic carbines: M1 Carbine derivatives)
+ Ingram SAM-1 (US – semi-automatic carbine – 5.56×45mm NATO: M1 Carbine derivatives)
+ Ingram SAM-2 (US – semi-automatic carbine – 7.62×39mm: M1 Carbine derivatives)
+ Ingram SAM-3 (US – semi-automatic carbine – 7.62×51mm NATO: M1 Carbine derivatives)
+ Submachine guns
+ Ingram Model 6 (US – submachine gun – .45 ACP)
+ Ingram Model 10 (US – submachine gun – 9×19mm Parabellum, .45 ACP)
+ Ingram Model 11 (US – submachine gun – .380 ACP)
+ Grad (North Ossetia – assault rifle – 5.45×39mm)
+ Grand Power
+ Pistols
+ K100 (Slovakia – semi-automatic pistol – 9×19mm Parabellum)
+ K100 DAO (Slovakia – semi-automatic pistol – 9×19mm Parabellum)
+ K100 Mark 6 (Slovakia – semi-automatic pistol – 9×19mm Parabellum)
+ K100 QA (Slovakia – semi-automatic pistol – 9×19mm Parabellum)
+ K100 Tactical (Slovakia – semi-automatic pistol – 9×19mm Parabellum)
+ K100 Target (Slovakia – semi-automatic pistol – 9×19mm Parabellum)
+ K100 Whisper (Slovakia – semi-automatic pistol – 9×19mm Parabellum)
+ K100 X-Calibur (Slovakia – semi-automatic pistol – 9×19mm Parabellum)
+ K100 X-Trim (Slovakia – semi-automatic pistol – 9×19mm Parabellum)
+ K102 R (Slovakia – semi-automatic pistol – 9×19mm Parabellum)
+ K105 R (Slovakia – semi-automatic pistol – 9×19mm Parabellum)
+ GPC9 (Slovakia – semi-automatic pistol – 9×19mm Parabellum)
+ P1 (Slovakia – semi-automatic pistol – 9×19mm Parabellum)
+ P1S (Slovakia – semi-automatic pistol – 9×19mm Parabellum)
+ P11 (Slovakia – subcompact semi-automatic pistol – 9×19mm Parabellum)
+ P40 (Slovakia – semi-automatic pistol – .357 SIG, .40 S&W, 10mm Auto)
+ P40/L (Slovakia – semi-automatic pistol – .357 SIG, .40 S&W, 10mm Auto)
+ P45 (Slovakia – semi-automatic pistol – .45 ACP)
+ P45/L (Slovakia – semi-automatic pistol – .45 ACP)
+ Greener Prison Shotgun (United Kingdom – lever-action shotgun – .577/450 Martini–Henry)
+ Grendel
+ Pistols
+ Grendel P30 (US – semi-automatic pistol – .22 Winchester Magnum Rimfire)
+ Rifles
+ Grendel S16 (US – semi-automatic sniper rifle – 5.56×45mm NATO)
+ Grot CH-9/25 (Rhodesia, South Africa – submachine gun – 9×19mm Parabellum)
+ Grot CH-9/25 Silenced (Rhodesia, South Africa – integrally suppressed submachine gun – 9×19mm Parabellum)
+ Gustloff-Werke
+ Rifles
+ PzB 38 (Nazi Germany – single-shot bolt-action anti-tank rifle – 7.92×94mm)
+ PzB 39 (Nazi Germany – single-shot bolt-action anti-tank rifle – 7.92×94mm)
+ GrB 39 (Nazi Germany – shortened single-shot bolt-action anti-tank rifle – 7.92×94mm)
+ Gyrojet Series
+ Gyrojet assault rifle
+ Gyrojet carbine
+ Gyrojet derringer
+ Gyrojet lancejet
+ Gyrojet rifle
+ Gyrojet light machine gun
+
+H
+
+ H & R Firearms
+ Shotguns
+ H&R Pardner 12GA (US – single-shot Shotgun – 12 gauge)
+ Submachine guns
+ M50 Reising (US – submachine gun – .45 ACP)
+ M55 Reising (US – submachine gun – .45 ACP)
+ M60 Reising (US – semi-automatic carbine – .45 ACP)
+ M65 Reising (US – semi-automatic rifle – .22 long rifle)
+ Hagelberg Arms
+ Rifles
+ Hagelberg FH 50 (US – single-shot bolt-action anti-materiel rifle – .50 BMG)
+ Hagelberg FH 50 variantK (US – single-shot bolt-action anti-materiel rifle – .50 BMG)
+ Hagelberg FH 50 variantL (US – single-shot bolt-action anti-materiel rifle – .50 BMG)
+ Hakim Rifle (Egypt, Sweden – semi-automatic rifle – 7.92×57mm Mauser)
+ Rasheed Carbine (Egypt – semi-automatic carbine – 7.92×57mm Mauser)
+ Hamilton mod. 1901 (Sweden – semi-automatic pistol – 6.5mm Bergmann)
+ Hand mortar
+ Hannes Kepplinger
+ Kepplinger MP80 (Austria – submachine gun– 9x19mm Parabellum / .45 ACP)
+ Kepplinger MRCS (Austria – assault rifle – 5.56x45mm NATO, 7.62x39mm / 5.45x39mm)
+ Kepplinger SSG (Austria – sniper rifle – 7.62x51mm NATO)
+ Harris Gun Works
+ Rifles
+ Harris Gun Works M-96 (US – semi-automatic anti-materiel rifle – .50 BMG)
+ Harris Gun Works M-86 (US – semi-automatic anti-materiel rifle – .50 BMG)
+ Harris Gun Works M-92 (US – semi-automatic anti-materiel rifle – .50 BMG)
+ Hessische Industrie Werke
+ Rifles
+ HIW VSK (Nazi Germany – battle rifle – 7.92×57mm IS)
+ HIW VSK Carbine (Nazi Germany – carbine – 7.92×33mm Kurz)
+ Helenius 12.7 mm anti-materiel rifle (Finland – anti-materiel rifle – .50 BMG)
+ Helenius 20 mm anti-materiel rifle (Finland – anti-materiel rifle – 20mm)
+ Henry rifle (US – lever-action rifle – .45 Rimfire)
+ Hesse Arms 50 BMG Rifle (US – bolt-action anti-materiel rifle – .50 BMG)
+ Heym AG
+ Rifles
+ Heym Express Magnum (Germany – bolt-action rifle – .300 Winchester Magnum, .300 Weatherby Magnum, .338 Lapua Magnum, .375 Holland & Holland Magnum, .378 Weatherby Magnum, .404 Jeffery, .416 Rigby, .416 Weatherby Magnum, .416 Remington Magnum, .425 Express, .450 Ackley, .450 Rigby, .458 Winchester Magnum, .460 Weatherby Magnum, .500 Jeffery, .505 Gibbs, .577 Nitro Express, .600 Nitro Express)
+ High Standard Manufacturing Company
+ Pistols
+ High Standard Derringer (US – Derringer pistol – .22 Magnum)
+ High Standard Supermatic Citation Model 107 Military (US – semi-automatic pistol – .22 long rifle)
+ Shotguns
+ High Standard Model 10 (US – semi-automatic shotgun – 12 gauge)
+ High Standard Model 10A (US – semi-automatic shotgun – 12 gauge)
+ High Standard Model 10B (US – semi-automatic shotgun – 12 gauge)
+ Hi-Point Firearms
+ Pistols
+ Hi-Point C-9 (US – semi-automatic pistol – 9×19mm Parabellum)
+ Hi-Point C-9 Comp (US – semi-automatic pistol – 9×19mm Parabellum)
+ Hi-Point CF-380 (US – semi-automatic pistol – .380 ACP)
+ Hi-Point Model JCP (US – semi-automatic pistol – .40 S&W)
+ Hi-Point Model JHP (US – semi-automatic pistol – .45 ACP)
+ Rifles
+ Hi-Point carbine (US – semi-automatic carbine)
+ Hi-Point 995 carbine (US – semi-automatic carbine – 9×19mm Parabellum)
+ Hi-Point 995TS (US – semi-automatic carbine – 9×19mm Parabellum)
+ Hi-Point 4095 carbine (US – semi-automatic carbine – .40 S&W)
+ Hi-Point 4095TS carbine (US – semi-automatic carbine – .40 S&W)
+ Hi-Point 4595 carbine (US – semi-automatic carbine – .45 ACP)
+ Hinawa Revolver (Japan – matchlock pistol – various)
+ Hino Komuro M1908 Pistol (Japanese Empire – semi-automatic pistol – 8×22mm Nambu, .25 ACP, .32 ACP)
+ Heckler & Koch GmbH
+ Launchers
+ HK AG36 (Germany – single-shot grenade launcher – 40×46mm grenade)
+ HK AG-C (Germany – single-shot grenade launcher – 40×46mm grenade)
+ HK AG-NL (Germany – single-shot grenade launcher – 40×46mm grenade)
+ HK M320 (Germany – single-shot grenade launcher – 40×46mm grenade)
+ HK AG-SA (Germany – single-shot grenade launcher – 40×46mm grenade)
+ HK EFL (West Germany – single-shot flare launcher – 19×36mm flare)
+ HK GMG (Germany – automatic grenade launcher – 40×53mm grenade)
+ HK GMW (Germany – automatic grenade launcher – 40×53mm grenade)
+ HK P2A1 (Germany – single-shot flare launcher – 25mm flare, 26.5mm flare)
+ HK69 (West Germany – single-shot grenade launcher – 40×46mm grenade)
+ HK MZP-1 (West Germany – single-shot grenade launcher – 40×46mm grenade)
+ HK69A1 (West Germany – single-shot grenade launcher – 40×46mm grenade)
+ HK79 (West Germany – underslung grenade launcher – 40×46mm grenade)
+ HK79A1 (West Germany – underslung grenade launcher – 40×46mm grenade)
+ Machine guns
+ HK MG4 (Germany – light machine gun – 5.56×45mm NATO)
+ HK MG4E (Germany – light machine gun – 5.56×45mm NATO)
+ HK MG4KE (Germany – light machine gun – 5.56×45mm NATO)
+ HK21 (West Germany – general purpose machine gun – 7.62×51mm NATO)
+ HK11 (West Germany – general purpose machine gun – 7.62×51mm NATO)
+ HK11A1 (West Germany – general purpose machine gun – 7.62×51mm NATO)
+ HK11E (West Germany – general purpose machine gun – 7.62×51mm NATO)
+ HK G8 (West Germany – general purpose machine gun – 7.62×51mm NATO)
+ HK G8A1 (West Germany – general purpose machine gun – 7.62×51mm NATO)
+ HK13 (West Germany – light machine gun – 5.56×45mm NATO)
+ HK13E (West Germany – light machine gun – 5.56×45mm NATO)
+ HK21A1 (West Germany – general purpose machine gun – 7.62×51mm NATO)
+ HK21E (West Germany – general purpose machine gun – 7.62×51mm NATO)
+ HK23 (West Germany – light machine gun – 5.56×45mm NATO)
+ HK23E (West Germany – light machine gun – 5.56×45mm NATO)
+ HK73 (West Germany – general purpose machine gun – 7.62×51mm NATO)
+ HK25 (West Germany – heavy machine gun – .50 BMG)
+ HK51B (West Germany – general purpose machine gun – 7.62×51mm NATO)
+ m/968 (Portugal – general purpose machine gun – 7.62×51mm NATO)
+ MG21 (Mexico – general purpose machine gun – 7.62×51mm NATO)
+ Pistols
+ HK Mk 23 Mod 0 (Germany – semi-automatic pistol – .45 ACP)
+ HK MARK 23 (Germany – semi-automatic pistol – .45 ACP)
+ HK P7 (West Germany – semi-automatic pistol – 9×19mm Parabellum)
+ HK P7K3 (West Germany – Compact semi-automatic pistol – 9×19mm Parabellum, .22 long rifle, .32 ACP, .380 ACP)
+ HK P7M7 (West Germany – semi-automatic pistol – .45 ACP)
+ HK P7M8 (West Germany – semi-automatic pistol – 9×19mm Parabellum)
+ HK P7M10 (West Germany – semi-automatic pistol – .40 S&W)
+ HK P7M13 (West Germany – semi-automatic pistol – 9×19mm Parabellum)
+ HK P7M13SD (West Germany – integrally suppressed semi-automatic pistol – 9×19mm Parabellum)
+ HK P7PT8 (West Germany – semi-automatic pistol – 9×19mm Parabellum)
+ HK P9 (West Germany – semi-automatic pistol – 7.65×21mm Parabellum, 9×19mm Parabellum)
+ HK P9K (West Germany – Compact semi-automatic pistol – 9×19mm Parabellum: prototype)
+ HK P9S Target (West Germany – semi-automatic pistol – 9×19mm Parabellum, .45 ACP)
+ HK P11 (West Germany – Semi-automatic Underwater Pistol – 7.62×36mm)
+ HK P46 (Germany – semi-automatic pistol – 4.6×30mm)
+ HK P80 (Germany – semi-automatic pistol – 9×19mm Parabellum)
+ HK P2000 (Germany – semi-automatic pistol – 9×19mm Parabellum, .357 SIG, .40 S&W)
+ HK P2000SK (Germany – Compact semi-automatic pistol – 9×19mm Parabellum, .357 SIG, .40 S&W)
+ HK USP (Germany – Semi-automatic submachine gun – 9×19mm Parabellum, .40 S&W, .45 ACP)
+ HK USP9 (Germany – semi-automatic pistol – 9×19mm Parabellum)
+ HK P8 (Germany – semi-automatic pistol – 9×19mm Parabellum)
+ HK USP9SD (Germany – semi-automatic pistol – 9×19mm Parabellum)
+ HK USP40 (Germany – semi-automatic pistol – .40 S&W)
+ HK USP45 (Germany – semi-automatic pistol – .45 ACP)
+ HK USP45 Tactical (Germany – semi-automatic pistol – .45 ACP)
+ HK P12 (Germany – semi-automatic pistol – .45 ACP)
+ HK USP Compact (Germany – compact semi-automatic pistol – 9×19mm Parabellum, .357 SIG, .40 S&W, .45 ACP)
+ HK P10 (Germany – compact semi-automatic pistol – 9×19mm Parabellum, .357 SIG, .40 S&W, .45 ACP)
+ HK USP Compact Tactical (Germany – compact semi-automatic pistol – .45 ACP)
+ HK USP Custom Sport (Germany – semi-automatic pistol – 9×19mm Parabellum, .357 SIG, .40 S&W, .45 ACP)
+ HK USP Expert (Germany – semi-automatic pistol – 9×19mm Parabellum, .40 S&W, .45 ACP)
+ HK USP Elite (Germany – semi-automatic pistol – 9×19mm Parabellum, .45 ACP)
+ HK USP Match (Germany – semi-automatic pistol – 9×19mm Parabellum, .40 S&W, .45 ACP)
+ HK VP70 (West Germany – pistol – 9×19mm Parabellum)
+ HK VP70M (West Germany – machine pistol – 9×19mm Parabellum)
+ HK VP70Z (West Germany – semi-automatic pistol – 9×19mm Parabellum, 9×21mm)
+ HK4 (West Germany – semi-automatic pistol – .22 long rifle, .25 ACP, .380 ACP)
+ P11 (West Germany – semi-automatic pistol – .32 ACP)
+ HK45 (Germany – semi-automatic pistol – .45 ACP)
+ HK45C (Germany – compact semi-automatic pistol – .45 ACP)
+ HK45T (Germany – semi-automatic pistol – .45 ACP)
+ HK45CT (Germany – compact semi-automatic pistol – .45 ACP)
+ Rifles
+ HK G3 (West Germany – battle rifle – 7.62×51mm NATO)
+ Gv M/75 (Denmark – battle rifle – 7.62×51mm NATO)
+ HK G3A1 (West Germany – battle rifle – 7.62×51mm NATO)
+ HK G3A2 (West Germany – battle rifle – 7.62×51mm NATO)
+ HK G3A3 (West Germany – battle rifle – 7.62×51mm NATO)
+ HK G3A3A1 (West Germany – battle rifle – 7.62×51mm NATO)
+ HK G3A3ZF (West Germany – scoped battle rifle – 7.62×51mm NATO)
+ HK G3A5 (Denmark – battle rifle – 7.62×51mm NATO)
+ HK G3A6 (Iran – battle rifle – 7.62×51mm NATO)
+ HK G3A7 (Turkey – battle rifle – 7.62×51mm NATO)
+ HK G3SG/1 (West Germany – semi-automatic sniper rifle – 7.62×51mm NATO)
+ HK HSG1 (Luxembourg – battle rifle – 7.62×51mm NATO)
+ HK G3A4 (West Germany – battle rifle – 7.62×51mm NATO)
+ HK G3A4A1 (West Germany – Battle rifle – 7.62×51mm NATO)
+ HK G3A7A1 (Turkey – Battle rifle – 7.62×51mm NATO)
+ HK G3KA4 (West Germany – carbine – 7.62×51mm NATO)
+ HK G3AKA4ZF (West Germany – scoped carbine – 7.62×51mm NATO)
+ HK G3TGS (West Germany – battle rifle with Grenade launcher – 7.62×51mm NATO)
+ HK32 (West Germany – assault rifle – 7.62×39mm: prototype)
+ HK32KA3 (West Germany – carbine – 7.62×39mm: prototype)
+ HK41 (West Germany – semi-automatic battle rifle – 7.62×51mm NATO)
+ HK41A2 (West Germany – semi-automatic battle rifle – 7.62×51mm NATO)
+ HK41A3 (West Germany – semi-automatic battle rifle – 7.62×51mm NATO)
+ HK91 (West Germany – semi-automatic battle rifle – 7.62×51mm NATO)
+ HK91A2 (West Germany – semi-automatic battle rifle – 7.62×51mm NATO)
+ HK911 (West Germany – semi-automatic battle rifle – 7.62×51mm NATO)
+ HK91A3 (West Germany – semi-automatic battle rifle – 7.62×51mm NATO)
+ HK91A4 (West Germany – semi-automatic battle rifle – 7.62×51mm NATO)
+ HK91A5 (West Germany – semi-automatic battle rifle – 7.62×51mm NATO)
+ HK91ZF (West Germany – scoped semi-automatic battle rifle – 7.62×51mm NATO)
+ HK SR9 (West Germany – scoped semi-automatic battle rifle – 7.62×51mm NATO)
+ HK91A2ZF (West Germany – scoped semi-automatic battle rifle – 7.62×51mm NATO)
+ HK SR9 T (West Germany – scoped semi-automatic battle rifle – 7.62×51mm NATO)
+ HK SR9 TC (West Germany – scoped semi-automatic battle rifle – 7.62×51mm NATO)
+ HK MSG3 (West Germany – scoped battle rifle – 7.62×51mm NATO)
+ HK PSG-1 (West Germany – sniper rifle – 7.62×51mm NATO)
+ HK MSG90 (West Germany – sniper rifle – 7.62×51mm NATO)
+ HK PSG-1A1 (West Germany – sniper rifle – 7.62×51mm NATO)
+ Heckler & Koch G11 (West Germany – assault rifle – 4.73×33mm)
+ HK ACR (West Germany – assault rifle – 4.73×33mm)
+ HK G11PDW (West Germany – personal defense weapon – 4.73×33mm)
+ HK LMG11 (West Germany – light machine gun – 4.73×33mm)
+ HK G36 (Germany – assault rifle – 5.56×45mm NATO)
+ HK G36A1 (Germany – assault rifle – 5.56×45mm NATO)
+ HK G36A2 (Germany – assault rifle – 5.56×45mm NATO)
+ HK G36K (Germany – carbine – 5.56×45mm NATO)
+ HK G36C (Germany – compact assault rifle – 5.56×45mm NATO)
+ HK G36C3 (Germany – compact assault rifle – 5.56×45mm NATO)
+ HK G36KA4 (Germany – carbine – 5.56×45mm NATO)
+ HK G36V (Germany – assault rifle – 5.56×45mm NATO)
+ HK G36KV (Germany – carbine – 5.56×45mm NATO)
+ HK G36CV (Germany – compact assault rifle – 5.56×45mm NATO)
+ HK G36KV2 (Germany – carbine – 5.56×45mm NATO)
+ HK MG36 (Germany – squad automatic weapon – 5.56×45mm NATO)
+ HK SL8 (Germany – semi-automatic rifle – 5.56×45mm NATO, .223 Remington)
+ HK R8 (Germany – straight-pull bolt-action rifle – 5.56×45mm NATO, .223 Remington)
+ HK SL8-1 (Germany – semi-automatic rifle – 5.56×45mm NATO, .223 Remington)
+ HK SL8-6 (Germany – semi-automatic rifle – 5.56×45mm NATO, .223 Remington)
+ HK SL8-2 (Germany – semi-automatic Designated marksman rifle – 5.56×45mm NATO, .223 Remington)
+ HK SL8-4 (Germany – semi-automatic rifle – 5.56×45mm NATO, .223 Remington)
+ HK SL8-5 (Germany – semi-automatic rifle – 5.56×45mm NATO, .223 Remington)
+ HK SL8-10 (Germany – semi-automatic rifle – .222 Remington, .223 Remington)
+ HK SL9SD (Germany – semi-automatic rifle – .300 Whisper)
+ HK G41 (Germany – assault rifle – 5.56×45mm NATO)
+ HK G41A1 (Germany – assault rifle – 5.56×45mm NATO)
+ HK G41A2 (Germany – assault rifle – 5.56×45mm NATO)
+ HK G41K (Germany – carbine – 5.56×45mm NATO)
+ HK G41KA3 (Germany – carbine – 5.56×45mm NATO)
+ HK G41A3 (Germany – assault rifle – 5.56×45mm NATO)
+ HK G41TGS (Germany – assault rifle with Grenade launcher – 5.56×45mm NATO)
+ HK SL6 (West Germany – semi-automatic rifle – 5.56×45mm NATO, .223 Remington)
+ HK SL7 (West Germany – semi-automatic battle rifle – 7.62×51mm NATO)
+ HK XM8 (Germany – assault rifle – 5.56×45mm NATO)
+ HK XM8 Carbine (Germany – carbine – 5.56×45mm NATO)
+ HK XM8 Compact (Germany – personal defense weapon – 5.56×45mm NATO)
+ HK XM8 DMR (Germany – designated marksman rifle – 5.56×45mm NATO)
+ HK XM25 CDTE (Federal Republic of Germany – 2010 – semi-automatic grenade launcher – 25×40mm grenade: Developed by Alliant Techsystems and Heckler & Koch for use with the United States Army. Was undergoing field testing, and planned to enter service in late 2015.)
+ HK XM29 (Germany – objective individual combat weapon – 5.56×45mm NATO, 20×85mm)
+ HK33 (West Germany – assault rifle – 5.56×45mm NATO)
+ HK33A2 (West Germany – assault rifle – 5.56×45mm NATO)
+ HK33A3 (West Germany – assault rifle – 5.56×45mm NATO)
+ HK33KA3 (West Germany – carbine – 5.56×45mm NATO)
+ HK53 (West Germany – carbine/compact assault rifle – 5.56×45mm NATO)
+ HK GR2 (West Germany – carbine/compact assault rifle – 5.56×45mm NATO)
+ HK GR2C (West Germany – carbine/compact assault rifle – 5.56×45mm NATO)
+ HK GR2S (West Germany – carbine/compact assault rifle – 5.56×45mm NATO)
+ HK53 MICV (West Germany – carbine/compact assault rifle – 5.56×45mm NATO)
+ HK53A2 (West Germany – carbine/compact assault rifle – 5.56×45mm NATO)
+ HK53A3 (West Germany – carbine/compact assault rifle – 5.56×45mm NATO)
+ HK33E (West Germany – assault rifle – 5.56×45mm NATO)
+ HK33ESA3 (West Germany – assault rifle – 5.56×45mm NATO)
+ HK33ETGS (West Germany – assault rifle with Grenade launcher – 5.56×45mm NATO)
+ HK33SG/1 (West Germany – scoped assault rifle – 5.56×45mm NATO)
+ HK36 (West Germany – assault rifle – 4.6×36mm: prototype)
+ HK43 (West Germany – semi-automatic rifle – .223 Remington 5.56×45mm NATO: prototype)
+ HK43A2 (West Germany – semi-automatic rifle – .223 Remington)
+ HK43A3 (West Germany – semi-automatic rifle – .223 Remington)
+ HK93 (West Germany – semi-automatic rifle – .223 Remington)
+ HK93A2 (West Germany – semi-automatic rifle – .223 Remington)
+ HK93A3 (West Germany – semi-automatic rifle – .223 Remington)
+ HK270 (Germany – semi-automatic rifle – .22 long rifle)
+ HK300 (Germany – semi-automatic rifle – .22 Winchester Magnum Rimfire)
+ HK416 (Germany – assault rifle – 5.56×45mm NATO)
+ HK D10RS (Germany – sub-compact assault rifle – 5.56×45mm NATO)
+ HK D14.5RS (Germany – carbine – 5.56×45mm NATO)
+ HK D16.5RS (Germany – assault rifle – 5.56×45mm NATO)
+ HK D20RS (Germany – assault rifle – 5.56×45mm NATO)
+ HK416A5 (Germany – assault rifle – 5.56×45mm NATO)
+ HK416A5-10 (Germany – sub-compact assault rifle – 5.56×45mm NATO)
+ HK416A5-14.5 (Germany – carbine – 5.56×45mm NATO)
+ HK416A5-16.5 (Germany – assault rifle – 5.56×45mm NATO)
+ HK416A5-20 (Germany – assault rifle – 5.56×45mm NATO)
+ HK416C (Germany – sub-compact assault rifle – 5.56×45mm NATO)
+ HK417 (Germany – battle rifle – 7.62×51mm NATO)
+ HK MR308 (Germany – semi-automatic battle rifle – 7.62×51mm NATO)
+ HK417-12 (Germany – carbine – 7.62×51mm NATO)
+ HK417-16 (Germany – battle rifle – 7.62×51mm NATO)
+ HK417-20 (Germany – battle rifle – 7.62×51mm NATO)
+ HK M27 IAR (Germany – squad automatic weapon – 5.56×45mm NATO)
+ HK MR223 (Germany – semi-automatic assault rifle – 5.56×45mm NATO)
+ HK630 (Germany – semi-automatic rifle – .222 Remington)
+ HK770 (Germany – bolt-action rifle – 7.62×51mm NATO, .308 Winchester)
+ HK940 (Germany – semi-automatic rifle – .30-06 Springfield)
+ Shotguns
+ HK CAWS (West Germany – automatic shotgun – 18.5×76mmR shell)
+ HK FABARM FP6 (Germany – pump-action shotgun – 12 gauge)
+ HK FABARM FP6 Entry (Germany – pump-action shotgun – 12 gauge)
+ HK FABARM FP6 Folding Stock (Germany – pump-action shotgun – 12 gauge)
+ HK FABARM FP6CF (Germany – pump-action shotgun – 12 gauge)
+ Submachine guns
+ HK MP5 (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5A1 (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5A2 (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5A3 (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5A4 (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5A5 (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5/10 (Germany – submachine gun – 10mm auto)
+ HK MP5/10A2 (Germany – submachine gun – 10mm auto)
+ HK MP5/10A3 (Germany – submachine gun – 10mm auto)
+ HK MP5/10SD (Germany – integrally suppressed submachine gun – 10mm auto)
+ HK MP5/40 (Germany – submachine gun – .40 S&W)
+ HK MP5/40A2 (Germany – submachine gun – .40 S&W)
+ HK MP5/40A3 (Germany – submachine gun – .40 S&W)
+ HK MP5/M203PI (West Germany – submachine gun with grenade launcher – 9×19mm Parabellum)
+ HK MP5 PIP (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5F (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5K (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5KA1 (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5KA4 (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5KA5 (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5K-N (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5K PDW (West Germany – personal defense weapon – 9×19mm Parabellum)
+ HK MP5N (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5N RIS (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5PT (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP5SD (West Germany – integrally suppressed submachine gun – 9×19mm Parabellum)
+ HK MP5SD1 (West Germany – integrally suppressed submachine gun – 9×19mm Parabellum)
+ HK MP5SD2 (West Germany – integrally suppressed submachine gun – 9×19mm Parabellum)
+ HK MP5SD3 (West Germany – integrally suppressed submachine gun – 9×19mm Parabellum)
+ HK MP5SD4 (West Germany – integrally suppressed submachine gun – 9×19mm Parabellum)
+ HK MP5SD5 (West Germany – integrally suppressed submachine gun – 9×19mm Parabellum)
+ HK MP5SD6 (West Germany – integrally suppressed submachine gun – 9×19mm Parabellum)
+ HK MP5SD-N (West Germany – integrally suppressed submachine gun – 9×19mm Parabellum)
+ HK54 (West Germany – submachine gun – 9×19mm Parabellum: prototype)
+ HK54A1 (West Germany – submachine gun – 9×19mm Parabellum: prototype)
+ HK94 (West Germany – submachine gun – 9×19mm Parabellum)
+ HK94A2 (West Germany – submachine gun – 9×19mm Parabellum)
+ HK94A3 (West Germany – submachine gun – 9×19mm Parabellum)
+ HK94KA1 (West Germany – submachine gun – 9×19mm Parabellum)
+ HK MP7 (Germany – personal defense weapon – 4.6×30mm)
+ HK MP7-PDW (Germany – personal defense weapon – 4.6×30mm)
+ HK MP7-SF (Germany – semi-automatic personal defense weapon – 4.6×30mm)
+ HK MP7A1 (Germany – personal defense weapon – 4.6×30mm)
+ HK MP7A2 (Germany – personal defense weapon – 4.6×30mm)
+ HK MP2000 (West Germany – submachine gun – 9×19mm Parabellum: prototype)
+ HK UMP (Germany – submachine gun)
+ HK UMP9 (Germany – semi-automatic submachine gun – 9×19mm Parabellum)
+ HK UMP40 (Germany – semi-automatic submachine gun – .40 S&W)
+ HK UMP45 (Germany – semi-automatic submachine gun – .45 ACP)
+ HK USC (Germany – semi-automatic submachine gun – 9×19mm Parabellum)
+ Heidar (Iran – anti-materiel rifle – 12.7mm)
+ Heizer Defense
+ Heizer Defense SBA (US – semi-automatic pistol – .45 ACP)
+ Hillberg
+ Rifles
+ Hillberg Carbine (US – carbine – .30 carbine)
+ Hispano-Argentina
+ Pistols
+ Ballester–Molina (Argentina – semi-automatic pistol – .45 ACP: Colt M1911 copy)
+ Ballester–Molina .22 (Argentina – semi-automatic pistol – .22 long rifle)
+ Hafdasa Criolla (Argentina – semi-automatic pistol – .22 long rifle)
+ Submachine guns
+ Hafdasa C-4 (Argentina – submachine gun – 9×19mm Parabellum, .45 ACP)
+ Hafdasa C-2 (Argentina – machine pistol – 9×19mm Parabellum, .45 ACP)
+ Hafdasa Z-4 (Argentina – submachine gun – 9×19mm Parabellum, .45 ACP)
+ Holding Dine
+ Launchers
+ Holding Dine Lanzador de Gases (Ecuador – grenade launcher – 40 mm grenade)
+ Submachine guns
+ Holding Dine PAME-SB (Ecuador – submachine gun – 9×19mm Parabellum)
+ Holmes submachine gun
+ Hopkins & Allen Pocket Revolver
+ Hopkins & Allen XL No. 4
+ Hopkins & Allen XL No. 5
+ Hotchkiss
+ Machine guns
+ Hotchkiss M1909 (France – light machine gun – 8mm Lebel, .30-06 Springfield, .303 British)
+ Hotchkiss M1914 (France – medium machine gun – 8mm Lebel)
+ Hovea M/49 (Denmark – submachine gun – 9×19mm Parabellum)
+ Howa
+ Rifles
+ Howa AR18 (Japan – assault rifle – 5.56×45mm NATO: licensed production Armalite AR-18)
+ Howa M1500 (Japan – bolt-action rifle – 6.5×55mm, .204 Ruger, .22–250 Remington, .223 Remington, .30-06 Springfield, .300 Winchester Magnum, .308 Winchester, .375 Ruger)
+ Howa Type 64 (Japan – battle rifle – 7.62×51mm NATO)
+ Howa Type 64 DMR (Japan – designated marksman rifle – 7.62×51mm NATO)
+ Howa Type 89 (Japan – assault rifle – 5.56×45mm NATO)
+ Howa Type 89-F (Japan – assault rifle – 5.56×45mm NATO)
+ Shotguns
+ Howa M3000 (Japan – pump-action shotgun – 12 gauge)
+ Howard Francis machine carbine (United Kingdom – semi-automatic carbine – 7.63×25mm Mauser)
+ Howell Automatic Rifle (United Kingdom – semi-automatic rifle – .303 British)
+ HS Produkt
+ Pistols
+ HS2000 (Croatia – semi-automatic pistol – 9×19mm Parabellum)
+ HS2000-S (Croatia – semi-automatic pistol – 9×19mm Parabellum, .45 ACP)
+ HS2000 Compact (Croatia – Compact semi-automatic pistol – .45 ACP)
+ HS2000 Ported V-10 (Croatia – semi-automatic pistol – 9×19mm Parabellum, .357 SIG, .40 S&W)
+ HS2000 Service (Croatia – semi-automatic pistol – 9×19mm Parabellum, .357 SIG, .40 S&W, .45 ACP, .45 GAP)
+ HS2000 Subcompact (Croatia – subcompact semi-automatic pistol – 9×19mm Parabellum, .40 S&W)
+ HS2000 Tactical (Croatia – semi-automatic pistol – 9×19mm Parabellum, .357 SIG, .40 S&W, .45 ACP, .45 GAP)
+ HS2000M 3.8 (Croatia – semi-automatic pistol – 9×19mm Parabellum, .40 S&W)
+ HS2000M 3.8 Compact (Croatia – compact semi-automatic pistol – 9×19mm Parabellum, .40 S&W, .45 ACP)
+ HS2000M 4.5 (Croatia – semi-automatic pistol – 9×19mm Parabellum, .40 S&W, .45 ACP)
+ HS2000M 5.25 Competition (Croatia – semi-automatic pistol – 9×19mm Parabellum, .40 S&W, .45 ACP)
+ Rifles
+ VHS (Republic of Croatia – 2005 – assault rifle – 5.56×45mm NATO)
+ VHS-2 (Republic of Croatia – 2013 – assault rifle – 5.56×45mm NATO)
+ VHS-D (Republic of Croatia – 2005 – assault rifle – 5.56×45mm NATO)
+ VHS-K (Republic of Croatia – 2005 – carbine – 5.56×45mm NATO)
+ Huaqing Machinery Manufacturing Co., Ltd.
+ Machine guns
+ Hua Qing Minigun (People's Republic of China – Gatling-type machine gun – 7.62×54mmR)
+ Hughes Aircraft Company
+ Machine guns
+ EX-17 Heligun (United States – two-barreled machine gun – 7.62×51mm NATO)
+ Hughes Gun Systems
+ Machine guns
+ Hughes lockless machine gun (US – light machine gun – 5.56×45mm)
+ Rifles
+ Hughes lockless rifle (US – anti-materiel rifle – .50 BMG)
+ Huot automatic rifle (Canada – light machine gun – .303 British)
+ Hyde Carbine (US – submachine gun – .30 Carbine: prototype)
+ Hyperdel HD-49 (US – anti-materiel rifle – .50 BMG)
+
+I
+Main article: List of firearms (I)
+
+ Instituto Brasileiro de Administração Pública
+ Submachine guns
+ Alpha GPI (Brazil – submachine gun – 9×19mm Parabellum)
+ Interarms Limited
+ Interarms Cadet GP (United Kingdom – straight-pull rifle – 5.56×45mm NATO)
+ IG12 AOW Shotgun (US – over/under shotgun – 12 gauge)
+ IMBEL
+ Rifles
+ IMBEL IA2 (Brazil – assault rifle – 5.56×45mm NATO)
+ IMBEL IA2 7.62mm (Brazil – battle rifle – 7.62×51mm NATO)
+ IMBEL IA2 7.62mm Sniper Rifle (Brazil – designated marksman rifle – 7.62×51mm NATO)
+ IMBEL IA2 Carbine (Brazil – carbine – 5.56×45mm NATO)
+ IMBEL IA2 CQC (Brazil – compact assault rifle – 5.56×45mm NATO)
+ IMBEL IA2 Rifle (Brazil – assault rifle – 5.56×45mm NATO)
+ IMBEL MD (Brazil – assault rifle – 5.56×45mm NATO)
+ IMBEL MD-1 (Brazil – assault rifle – 5.56×45mm NATO)
+ IMBEL MD-2 (Brazil – assault rifle – 5.56×45mm NATO)
+ IMBEL MD-3 (Brazil – assault rifle – 5.56×45mm NATO)
+ IMBEL MD-4 (Brazil – assault rifle – 5.56×45mm NATO)
+ IMBEL Mosquefal M968 (Brazil – battle rifle – 7.62×51mm NATO)
+ Model 954 Mosquetao (Brazil – semi-automatic Battle rifle – .30-06)
+ Israel Military Industries/Israel Weapon Industries
+ Machine guns
+ IMI Dror Pattern 2 (Israel – light machine gun – 7.92×57mm Mauser)
+ IMI Negev (Israel – light machine gun – 5.56×45mm NATO, 7.62×51mm NATO)
+ IMI Negev Commando (Israel – light machine gun – 5.56×45mm NATO)
+ IMI Negev NG7 (Israel – light machine gun – 7.62×51mm NATO)
+ IMI Negev SF (Israel – compact light machine gun – 5.56×45mm NATO)**Pistols
+ IMI Jericho 941 (Israel – semi-automatic pistol – 9×19mm Parabellum)
+ IMI Jericho 941 F/R (Israel – semi-automatic pistol – 9×19mm Parabellum, .40 S&W)
+ IMI Jericho 941 FB/RB (Israel – compact semi-automatic pistol – 9×19mm Parabellum, .40 S&W)
+ IMI Jericho 941 FBL/RBL (Israel – compact semi-automatic pistol – 9×19mm Parabellum, .40 S&W)
+ IMI Jericho 941 FL/RL (Israel – semi-automatic pistol – 9×19mm Parabellum, .40 S&W)
+ IMI Jericho 941 FS/RS (Israel – semi-compact semi-automatic pistol – 9×19mm Parabellum, .40 S&W, .45 ACP)
+ IMI Jericho 941 SL/RSL (Israel – semi-compact semi-automatic pistol – 9×19mm Parabellum, .40 S&W)
+ IMI Desert Eagle (Israel – semi-compact semi-automatic pistol)
+ IMI Desert Eagle Mark I (Israel – semi-automatic pistol – .357 Magnum, .44 Magnum)
+ IMI Desert Eagle Mark VII (Israel – semi-automatic pistol – .357 Magnum, .44 Magnum, .50 Action Express)
+ IMI Desert Eagle Mark XIX (Israel – semi-automatic pistol – .357 Magnum, .44 Magnum, .50 Action Express)
+ IMI SP-21 Barak (Israel – semi-automatic pistol – 9×19mm Parabellum, .40 S&W, .45 ACP)
+ Rifles
+ IMI Galil (Israel – assault rifle – 5.56×45mm NATO)
+ IMI Galil ACE (Israel – automatic rifle – 5.56×45mm NATO, 7.62×39mm, 7.62×51mm NATO)
+ IMI Galil ACE 21 (Israel – subcompact assault rifle – 5.56×45mm NATO)
+ IMI Galil ACE 22 (Israel – carbine – 5.56×45mm NATO)
+ IMI Galil ACE 23 (Israel – assault rifle – 5.56×45mm NATO)
+ IMI Galil ACE 31 (Israel – subcompact assault rifle – 7.62×39mm)
+ IMI Galil ACE 32 (Israel – assault rifle – 7.62×39mm)
+ IMI Galil ACE 52 (Israel – battle rifle – 7.62×51mm NATO)
+ IMI Galil ACE 53 (Israel – battle rifle – 7.62×51mm NATO)
+ IMI Galil AR (Israel – assault rifle – 5.56×45mm NATO)
+ IMI Galil 7.62mm AR (Israel – battle rifle – 7.62×51mm NATO)
+ IMI Galil ARM (Israel – squad automatic weapon – 5.56×45mm NATO)
+ IMI Galatz (Israel – semi-automatic designated marksman rifle – 7.62×51mm NATO)
+ IMI SR-99 (Israel – semi-automatic designated marksman rifle – 7.62×51mm NATO)
+ IMI Galil 7.62mm ARM (Israel – squad automatic weapon – 7.62×51mm NATO)
+ IMI Galil SAR (Israel – carbine – 5.56×45mm NATO)
+ IMI Galil 7.62mm SAR (Israel – carbine – 7.62×51mm NATO)
+ IMI Galil MAR (Israel – compact assault rifle – 5.56×45mm NATO)
+ IMI Galil 7.62mm MAR (Israel – compact battle rifle – 7.62×51mm NATO)
+ IMI Magal (Israel – compact semi-automatic rifle – .30 Carbine)
+ IMI Golani (Israel, United States – semi-automatic rifle – 5.56×45mm NATO)
+ IMI Marksman assault rifle Mark 1 (Israel – automatic designated marksman rifle – 5.56×45mm NATO)
+ IMI TAR-21 (Israel – carbine – 5.56×45mm NATO)
+ IMI CTAR-21 (Israel – compact assault rifle – 5.56×45mm NATO)
+ IMI GTAR-21 (Israel – carbine with grenade launcher – 5.56×45mm NATO, 40mm grenades)
+ IMI MTAR-21 (Israel – subcompact assault rifle – 5.56×45mm NATO)
+ IMI MTAR-21 5.45mm (Israel – subcompact assault rifle – 5.45×39mm)
+ IMI MTAR-21 7.62mm (Israel – subcompact assault rifle – 7.62×51mm NATO)
+ IMI STAR-21 (Israel – automatic designated marksman rifle – 5.56×45mm NATO)
+ IMI TC-21 (Israel – semi-automatic carbine – 5.56×45mm NATO)
+ IMI Timberwolf (Israel – pump-action carbine – .357 Magnum, .38 Special, .44 Magnum)
+ Submachine guns
+ IMI Uzi (Israel – submachine gun – 9×19mm Parabellum, .45 ACP)
+ IMI Mini-Uzi (Israel – compact submachine gun – 9×19mm Parabellum, .45 ACP)
+ IMI Micro-Uzi (Israel – machine pistol – 9×19mm Parabellum, .45 ACP)
+ IMI Micro-Uzi Para (Israel – semi-automatic pistol – 9×19mm Parabellum, .45 ACP)
+ IMI Micro-Uzi Pistol (Israel – semi-automatic pistol – 9×19mm Parabellum, .45 ACP)
+ IMI Micro-Uzi Pro (Israel – machine pistol – 9×19mm Parabellum, .45 ACP)
+ IMI Mini-Uzi Carbine (Israel – compact semi-automatic carbine – 9×19mm Parabellum, .45 ACP)
+ IMI Uzi Carbine (Israel – semi-automatic carbine – 9×19mm Parabellum, .45 ACP)
+ Impulse Research
+ Pistols
+ Wildebeest (Australia – semi-automatic pistol – .357 Magnum)
+ INDEP
+ Submachine guns
+ INDEP Lusa Submachine Gun (Portugal – submachine gun – 9×19mm Parabellum)
+ INDEP Lusa A1 (Portugal – submachine gun – 9×19mm Parabellum)
+ INDEP Lusa A2 (Portugal – submachine gun – 9×19mm Parabellum)
+ Indumil
+ Launchers
+ Indumil IMC-40 (Colombia – single-shot pump-action grenade launcher – 40 mm grenade)
+ Revolvers
+ Llama Revolver (Colombia – double-action revolver – .38 Special)
+ Industrias Marcati
+ Rifles
+ Ariete 62 (Argentina – rifle – .22 long rifle)
+ Bataan Super 54 (Argentina – rifle – .22 long rifle)
+ Shotguns
+ Bataan 71 (Argentina – shotgun – 12 gauge)
+ International Ordnance
+ International Ordnance MP-1 (US – submachine gun – 9×19mm Parabellum: Licensed Production Sten)
+ International Ordnance MP-2 (US – submachine gun – 9×19mm Parabellum: Licensed Production Sten)
+ Inter Ordnance Corporation
+ Selrahc Model 7 (Australia – assault rifle – 5.56×45mm NATO)
+ Intratec
+ Pistols
+ Intratec CAT-9 (US – subcompact semi-automatic pistol – 9×19mm Parabellum)
+ Intratec CAT-45 (US – subcompact semi-automatic pistol – .45 ACP)
+ Intratec CAT-380 (US – subcompact semi-automatic pistol – .380 ACP)
+ Intratec PROTEC-25 (US – subcompact semi-automatic pistol – .25 ACP)
+ Intratec TEC-38 (US – Derringer pistol – .38 Special)
+ Intratec TEC-9 (Sweden, US – semi-automatic handgun – 9×19mm Parabellum)
+ Intratec TEC-9M (Sweden, US – compact semi-automatic handgun – 9×19mm Parabellum)
+ Intratec TEC-9S (Sweden, US – semi-automatic handgun – 9×19mm Parabellum)
+ Intratec TEC-22 (Sweden, US – semi-automatic handgun – .22 long rifle)
+ Intratec TEC-DC9 (Sweden, US – semi-automatic handgun – 9×19mm Parabellum)
+ Submachine guns
+ Interdynamic MP-9 (Sweden – submachine gun – 9×19mm Parabellum)
+ Intrepid
+ RAS-12 (US – shotgun – 12 gauge)
+ Ishapore
+ Rifles
+ Ishapore .410 (India – bolt-action rifle – .410 bore)
+ Ishapore 2A (India – bolt-action rifle – 7.62×51mm NATO)
+ Ishapore 2A1 (India – bolt-action rifle – 7.62×51mm NATO)
+ Ishapore Armory No. 7 Jungle Carbine (India – bolt-action carbine – 7.62×51mm NATO)
+ Ishapore No 1 Mk III (India – bolt-action rifle – .303 British)
+ Ishapore No 4 Mk 1 (India – bolt-action rifle – 7.62×51mm NATO)
+ ISTEC
+ Launchers
+ ISTEC ISL 200 (UK – underslung single-shot grenade launcher – 40mm)
+ ISTEC ISL 274 (UK – underslung single-shot grenade launcher – 40mm)
+ Ithaca Gun Company
+ Shotguns
+ Ithaca Auto & Burglar (US – side-by-side shotgun – 20 gauge, 28 gauge)
+ Ithaca Auto & Burglar Fleus Model (US – side-by-side shotgun – 20 gauge, 28 gauge)
+ Ithaca Auto & Burglar Model A (US – side-by-side shotgun – 20 gauge, 28 gauge)
+ Ithaca Auto & Burglar NID (US – side-by-side shotgun – 20 gauge, 28 gauge)
+ Ithaca 37 (US – pump-action shotgun – 12 gauge, 16 gauge, 20 gauge)
+ Ithaca 37 28 gauge (US – pump-action shotgun – 28 gauge)
+ Ithaca 37 Deerslayer (US – pump-action shotgun – 12 gauge, 16 gauge, 20 gauge)
+ Ithaca 37 DSPS (US – pump-action shotgun – 12 gauge, 16 gauge, 20 gauge)
+ Ithaca 37 Defense (US – pump-action shotgun – 12 gauge)
+ Ithaca S37 (US – pump-action shotgun – 12 gauge, 16 gauge, 20 gauge)
+ Ithaca 37 Stakeout (US – pump-action shotgun – 12 gauge, 16 gauge, 20 gauge)
+ Ithaca 37 Ultralite (US – pump-action shotgun – 12 gauge, 16 gauge, 20 gauge)
+ Ithaca M6 (US – combination weapon – .22 Hornet, .22 long rifle/.410 bore, .45 Colt)
+ Izhmash/Kalashnikov Concern
+ Pistols
+ Izhmash 1130 (Russia – machine pistol – 9×18mm Makarov: prototype)
+ Revolvers
+ Izhmash MP412 REX (Russia – double-action revolver – .357 Magnum, .38 Special: prototype)
+ Rifles
+ AN-94 (Russia – assault rifle – 5.45×39mm)
+ SV-98 Russian Federation – 1998 – bolt-action sniper rifle – 7.62×51mm NATO, 7.62×54mmR)
+ SV-98 2013 Upgrade (Russian Federation – 2013 – bolt-action sniper rifle – 7.62×51mm NATO, 7.62×54mmR: In Development)
+ SV-98 M1 (Russian Federation – 1931 – bolt-action sniper rifle – 7.62×51mm NATO, 7.62×54mmR)
+ SV-98M (Russian Federation – 1931 – bolt-action sniper rifle – 7.62×51mm NATO, 7.62×54mmR)
+ SV-338 (Russian Federation – 1931 – bolt-action sniper rifle – .338 Lapua Magnum)
+ SV-338 M1 (Russian Federation – 1931 – bolt-action sniper rifle – .338 Lapua Magnum)
+ SV-338M (Russian Federation – 1931 – bolt-action sniper rifle – .338 Lapua Magnum)
+ SV99 (Russian Federation – 1999 – straight-pull bolt-action sniper rifle – .22 long rifle)
+ TSV-1 (Russia – sniper rifle – 7.62×54mmR)
+ Shotguns
+ Saiga-12 (US – semi-automatic shotgun – 12 gauge)
+ Saiga-12K (US – semi-automatic shotgun – 12 gauge)
+ Saiga-12K-030 (US – semi-automatic shotgun – 12 gauge)
+ Saiga-12K-040 (US – semi-automatic shotgun – 12 gauge)
+ Saiga-12S (US – semi-automatic shotgun – 12 gauge)
+ Saiga-12S EXP-01 (US – semi-automatic shotgun – 12 gauge)
+ Submachine guns
+ Izhmash PP-19 Bizon
+ Izhmash Bizon-1 (Russia – submachine gun – 9×18mm Makarov)
+ Izhmash Bizon-2 (Russia – submachine gun – 9×18mm Makarov)
+ Izhmash Bizon-2-01 (Russia – submachine gun – 9×19mm Parabellum)
+ Izhmash Bizon-2-02 (Russia – submachine gun – .380 ACP)
+ Izhmash Bizon-2-03 (Russia – submachine gun – 9×18mm Makarov)
+ Izhmash Bizon-2-04 (Russia – semi-automatic carbine – 9×18mm Makarov)
+ Izhmash Bizon-2-05 (Russia – semi-automatic carbine – 9×19mm Parabellum)
+ Izhmash Bizon-2-06 (Russia – semi-automatic carbine – .380 ACP)
+ Izhmash Bizon-2-07 (Russia – submachine gun – 7.62×25mm Tokarev)
+ Izhmash Bizon-3 (Russia – submachine gun – 9×18mm Makarov)
+ Izhevsk Mechanical Plant
+ Pistols
+ Makarov (Soviet Union – semi-automatic pistol – 9×18mm Makarov)
+ Makarov PM (Soviet Union – semi-automatic pistol – 9×18mm Makarov)
+ Makarov PMM (Soviet Union – semi-automatic pistol – 9×18mm Makarov)
+ Makarov PB Pistol (Soviet Union – integrally suppressed semi-automatic pistol – 9×18mm Makarov)
+ TKB-023 (Soviet Union – semi-automatic pistol – 9×18mm Makarov: prototype)
+ MP-443 (Russian Federation – semi-automatic pistol – 9×19mm NATO, 9×19mm Parabellum, 9×19mm 7N21 +P)
+ MP-446 (Russian Federation – semi-automatic pistol – 9×19mm Parabellum)
+ MP-446C (Russian Federation – semi-automatic pistol – 9×19mm Parabellum)
+ MP-353 (Russian Federation – non-lethal semi-automatic pistol – Rubber Bullets)
+ MP-472 (Russian Federation – non-lethal semi-automatic pistol – Rubber Bullets)
+ MP-444 (Russian Federation – semi-automatic pistol – 9×18mm Makarov, 9×19mm Parabellum, .380 ACP)
+ MP-445 (Russian Federation – semi-automatic pistol – 9×19mm Parabellum)
+ MP-445C (Russian Federation – compact semi-automatic pistol – 9×19mm Parabellum)
+ MP-445CSW (Russian Federation – compact semi-automatic pistol – .40 S&W)
+ MP-445SW (Russian Federation – semi-automatic pistol – .40 S&W)
+ MP-451 (Russian Federation – Derringer pistol – .380 ACP)
+
+J
+
+ Jarmann M1884 (Norway – bolt-action rifle – 10.15×61mmR)
+ Jatimatic GG-95 SMG PDW (Finland – submachine gun – 9×19mm Parabellum)
+ JAWS Viper (Jordan – semi-automatic pistol – 9×19mm, .40 S&W, .45 ACP)
+ Jezail (various – musket – various)
+ Jimenez Arms
+ Pistols
+ Jennings J-22 (US – compact semi-automatic pistol – .22 long rifle)
+ Jennings Nine (US – compact semi-automatic pistol – 9×19mm Parabellum)
+ Anschütz
+ Biathlon rifles (.22 LR):
+ 64 Biathlon (bolt-action)
+ Fortner 1727 Biathlon (straight pull) (discontinued)
+ Fortner 1827 Biathlon (straight pull)
+ Laserpower III training rifle
+ Small bore match rifles (.22 LR):
+ 54.30
+ F27
+ 1903
+ 1907
+ 1913
+ Bolt-action hunting models:
+ 65 MP (.22 LR)
+ 1416 (.22 LR)
+ 1441/42 (.22 LR)
+ 1516 (.22 WMR)
+ 1517 (.17 HMR)
+ 1710 (.22 LR)
+ 1712 (.22 LR)
+ 1771 (4.6x30, .17 Hornet, .204 Ruger, .222 Rem, .223 Rem, .300 BLK)
+ Johnson Automatics
+ Johnson Model 1936 (US – delayed-blowback battle rifle – .30-06)
+ Johnson Model 1941 (US, Chile – semi-automatic battle rifle – 7×57mm Mauser, .270 Winchester, .30-06)
+ Johnson Model 1941 Light Machine Gun (US – light machine gun – .30-06)
+ Johnson Model 1944 Light Machine Gun (US – light machine gun – .30-06)
+ Johnson Model 1947 Auto Carbine (US – semi-automatic battle rifle – .30-06)
+ Johnson Model 1941 Rifle (US, Chile – semi-automatic battle rifle – 7×57mm Mauser, .270 Winchester, .30-06)
+ Johnson Rotary Automatic Pistol (US – externally driven Gatling pistol – .22LR: prototype)
+ Johnston Model D-1918 (US – light machine gun – .30-06)
+ Johnston rotary gun (US – split-breech rotary machine gun – .30-06: prototype)
+ J. P. Enterprises
+ Rifles
+ CTR-02 (US – semi-automatic rifle – 5.56×45mm NATO)
+ JP-15 (US – semi-automatic rifle – 5.56×45mm NATO)
+ JP-15 VTAC (US – semi-automatic assault rifle – 5.56×45mm NATO)
+
+K
+
+ K-3 (Armenia – assault rifles – 5.45×39mm)
+ Karlovich machine gun (Russian Empire – Machine gun)
+ K&M Arms
+ K&M Arms .308 (United States – battle rifle – 7.62×51mm NATO)
+ Knight's Armament Company
+ Machine guns
+ KAC ChainSAW (US – light machine gun – 5.56×45mm NATO)
+ KAC GatMalite (US – light machine gun – 5.56×45mm NATO)
+ KAC LMG (US – light machine gun – 5.56×45mm NATO)
+ Rifles
+ KAC M110 SASS (US – semi-automatic designated marksman rifle – 7.62×51mm NATO)
+ KAC M110 CSASS (US – semi-automatic designated marksman rifle – 7.62×51mm NATO)
+ KAC SR-15 (US – semi-automatic rifle – 5.56×45mm NATO)
+ KAC SR-16 (US – semi-automatic rifle – 5.56×45mm NATO)
+ KAC SR-16 CQB (US – compact semi-automatic rifle – 5.56×45mm NATO)
+ KAC SR-16 E3 (US – semi-automatic rifle – 5.56×45mm NATO)
+ KAC SR-25 (US – semi-automatic sniper rifle – 5.56×45mm NATO)
+ KAC SR-25 Enhanced Match Carbine (US – compact semi-automatic sniper rifle – 5.56×45mm NATO)
+ KAC SR-25 Enhanced Match Rifle (US – semi-automatic sniper rifle – 5.56×45mm NATO)
+ KAC SR-25 Match Rifle (US – semi-automatic sniper rifle – 5.56×45mm NATO)
+ Mk 11 Mod 0 (US – semi-automatic sniper rifle – 5.56×45mm NATO)
+ Mk 11 Mod 1 (US – semi-automatic sniper rifle – 5.56×45mm NATO)
+ Mk 11 Mod 2 (US – semi-automatic sniper rifle – 5.56×45mm NATO)
+ KAC SR-47 (US – assault rifle – 7.62×39mm: prototype)
+ KAC SR-50 (US – semi-automatic anti-materiel rifle – .50 BMG)
+ Shotguns
+ KAC Masterkey (US – underslung pump-action shotgun – 12 gauge)
+ Kahr Arms
+ Pistols
+ Kahr K Series (US – compact semi-automatic pistols – various)
+ Kahr K9 (US – compact semi-automatic pistol – 9×19mm Parabellum)
+ Kahr K40 (US – compact semi-automatic pistol – .40 S&W)
+ Kahr MK Series (US – subcompact semi-automatic pistols – various)
+ Kahr MK9 (US – subcompact semi-automatic pistol – 9×19mm Parabellum)
+ Kahr MK40 (US – subcompact semi-automatic pistol – .40 S&W)
+ Kahr P Series (US – compact semi-automatic pistols – Various)
+ Kahr CW Budget Line
+ Kahr CW9 (US – compact semi-automatic pistol – 9×19mm Parabellum)
+ Kahr Model 9093
+ Kahr CW40 (US – compact semi-automatic pistol – .40 S&W)
+ Kahr CW45 (US – compact semi-automatic pistol – .45 ACP)
+ Kahr CW380 (US – compact semi-automatic pistol – .380 ACP)
+ Kahr P9 (US – compact semi-automatic pistol – 9×19mm Parabellum)
+ Kahr P40 (US – compact semi-automatic pistol – .40 S&W)
+ Kahr P45 (US – compact semi-automatic pistol – .45 ACP)
+ Kahr P380 (US – compact semi-automatic pistol – .380 ACP)
+ Kahr PM Series (US – subcompact semi-automatic pistols – various)
+ Kahr PM9 (US – subcompact semi-automatic pistol – 9×19mm Parabellum)
+ Kahr PM40 (US – subcompact semi-automatic pistol – .40 S&W)
+ Kahr PM45 (US – subcompact semi-automatic pistol – .45 ACP)
+ Kahr PM Series (US – compact semi-automatic pistols – various)
+ Kahr T9 (US – compact semi-automatic pistol – 9×19mm Parabellum)
+ Kahr T40 (US – compact semi-automatic pistol – .40 S&W)
+ Kahr PM Series (US – compact semi-automatic pistols – various)
+ Kahr TP9 (US – compact semi-automatic pistol – 9×19mm Parabellum)
+ Kahr TP40 (US – compact semi-automatic pistol – .40 S&W)
+ Kahr TP45 (US – compact semi-automatic pistol – .45 ACP)
+ M1916 Kalashnikov automatic rifle (Russian Empire – automatic rifle/light machine gun – 7.62×54mmR: Designed by Mikhail Georgievich Kalashnikov as a possible replacement for the Fedorov Avtomat. Not from the same inventor as the AK-47.)
+ Kalashnikov Concern/Izhevsk Mechanical Plant/Izhmash
+ Rifles
+ AK-47 (Union of Soviet Socialist Republics – Mikhail Kalashnikov – 1946–1948 – assault rifle – 7.62×39mm: considered to be the first assault rifle ever mass-produced)
+ AKS/AKS-47 (Union of Soviet Socialist Republics – Mikhail Kalashnikov – 1950 – assault rifle – 7.62×39mm: variant of the AK-47 with a downward-folding metal shoulder stock, like the one on the Nazi German MP40 submachine gun)
+ AK-12 (Russian Federation – Mikhail Kalashnikov, Vladimir Zlobin – 2010 – assault rifle – 5.45×39mm, 5.56×45mm NATO, unknown 6.5mm cartridge currently in development, 6.5mm Grendel, 7.62×39mm: Based on the Kalashnikov family of firearms, and heavily modified to fit modern day standards. Can fire multiple types of ammunition, fill many different roles, and can fire in three round bursts. Adopted by the Russian military in 2012, and will replace many of the aging rifles currently in service. A variant designed for civilian use is currently in development, along with multiple other variants designed for military use.)
+ AK-12/76 (Russian Federation – Mikhail Kalashnikov, Vladimir Zlobin – 2010–present – semi-automatic shotgun – 12 gauge: Shotgun variant of the AK-12 assault rifle. A variant designed for civilian use will be available. Prototypes only, in development.)
+ AK-200 (Russian Federation – Mikhail Kalashnikov, Vladimir Zlobin – 2010 – assault rifle – 5.45×39mm, 5.56×45mm NATO, 7.62×39mm: Prototype assault rifle that led to the AK-12 family of weapons.)
+ AKU-12 (Russian Federation – Mikhail Kalashnikov, Vladimir Zlobin – 2010–present – carbine – 5.45×39mm, 5.56×45mm NATO, unknown 6.5mm cartridge currently in development, 6.5mm Grendel, 7.62×39mm: Carbine-length variant of the AK-12 assault rifle. Prototypes only, in development.)
+ PPK-12 (Russian Federation – Mikhail Kalashnikov, Vladimir Zlobin – 2010–present – assault rifle – unknown cartridge: Submachine gun variant of the AK-12 assault rifle. Prototypes only, in development.)
+ RPK-12 (Russian Federation – Mikhail Kalashnikov, Vladimir Zlobin – 2010–present – squad automatic weapon – 7.62×39mm: Squat automatic weapon variant of the AK-12 assault rifle. Currently only produced in 7.62×39mm, more cartridges possible in the future. In development.)
+ SVD-12 (Russian Federation – Mikhail Kalashnikov, Vladimir Zlobin – 2010–present – Designated marksman rifle – 7.62×51mm NATO: Designated marksman rifle variant of the AK-12 assault rifle. Currently only produced in 7.62×51mm NATO, more cartridges possible in the future. A variant designed for civilian use will be available. In development.)
+ AKM (Union of Soviet Socialist Republics – Mikhail Kalashnikov – Late 1940s–1959 – assault rifle – 7.62×39mm: Modernized variant of the AK-47 developed in the 1940s–1950s.)
+ AK-74 (Union of Soviet Socialist Republics – Mikhail Kalashnikov – 1974 – assault rifle – 5.45×39mm: variant of the AKM that improves some of the features, and uses a newer 5.45×39mm cartridge.)
+ AK-74M (Union of Soviet Socialist Republics/Russian Federation – Mikhail Kalashnikov – 1990–1991 – assault rifle – 5.45×39mm: Modernized variant of the AK-74 assault rifle featuring several improvements, including a side-folding synthetic shoulder stock, a lightened bolt, improved muzzle device, smoothed dust cover, a redesigned guide rod return spring retainer, and a side-rail bracket for mounting optics. Some rifles also feature a Picatinny rail. Adopted by the Russian Federation as a standard service rifle in the early 1990s.)
+ AK-74M with universal upgrade kit (Russian Federation – Mikhail Kalashnikov – 2015–Present – assault rifle – 5.45×39mm: Upgraded variant of the AK-74M assault rifle featuring a new safety, dust cover and furniture that have improved ergonomics, Picatinny Rails, and a new muzzle device. In development.)
+ AK-100 series (Russian Federation – Mikhail Kalashnikov – 1994 – Assault Rifles/Carbines – Various Cartridges: Series of improved variants of the AK-74M assault rifle made up of more modern materials, such as polymers and plastics.)
+ AK-9 (Russian Federation – Izhmash – 2004 – integrally suppressed assault rifle – 9×39mm: variant of the AK-100 series chambered in 9×39mm. Adopted by the Russian Army in 2004.)
+ AK-101 (Russian Federation – Mikhail Kalashnikov – 1994 – assault rifle – 5.56×45mm NATO: Full length variant of the AK-100 series, chambered in 5.56×45mm NATO. This is the main rifle in the AK-100 series exported to other countries. Adopted by the Russian Army in 1995, supplementing the AK-74M assault rifles already in active service at that time.)
+ AK-102 (Russian Federation – Mikhail Kalashnikov – 1994 – carbine – 5.56×45mm NATO: Carbine-length variant of the AK-101 assault rifle. Adopted by the Russian Army in 1995, supplementing the AKS-74U carbines already in active service at that time.)
+ RPK-201 (Russian Federation – Mikhail Kalashnikov – 1994 – squad automatic weapon – 5.56×45mm NATO: Squad automatic weapon variant of the AK-101 assault rifle. Adopted by the Russian Army in 1995, supplementing the RPK-74M squad automatic weapons already in active service.)
+ AK-103 (Russian Federation – Mikhail Kalashnikov – 1994 – assault rifle – 7.62×39mm: Full length variant of the AK-100 series chambered in 7.62×39mm. Adopted by the Russian Army in 2001, supplementing the AK-74M assault rifles already in active service at that time.)
+ AK-103-1 (Russian Federation – Mikhail Kalashnikov – unknown date – Semi-automatic rifle – 7.62×39mm: Semi-automatic variant of the AK-103 assault rifle designed for police and civilian use.)
+ AK-103-2 (Russian Federation – Mikhail Kalashnikov – unknown date – assault rifle – 7.62×39mm: variant of the AK-103 assault rifle designed for police and civilian use. Automatic fire replaced with a three-round burst feature.)
+ AK-103N2 (Russian Federation – Mikhail Kalashnikov – unknown date – assault rifle – 7.62×39mm: variant of the AK-103 assault rifle with a mount for the 1PN58 night-vision scope.)
+ AK-103N3 (Russian Federation – Mikhail Kalashnikov – unknown date – assault rifle – 7.62×39mm: variant of the AK-103 assault rifle with a mount for the 1PN51 night-vision scope.)
+ AK-104 (Russian Federation – Mikhail Kalashnikov – 1994 – carbine – 7.62×39mm: Carbine-length variant of the AK-103 assault rifle. Adopted by the Russian Army in 2001, supplementing the AKS-74U carbines already in active service at that time.)
+ AK-105 (Russian Federation – Mikhail Kalashnikov – 1994 – carbine – 5.45×39mm: Carbine variant of the AK-100 series of assault rifles chambered in 5.45×39mm. Adopted by the Russian Army in 2001, supplementing the AKS-74U carbines already in active service at that time.)
+ AK-107 (Russian Federation – Mikhail Kalashnikov – 1997 – assault rifle – 5.45×39mm: variant of the AK-100 series derived from the experimental Russian AL-7 assault rifle. Adopted by the Russian Army.)
+ AK-108 (Russian Federation – Mikhail Kalashnikov – 1997 – assault rifle – 5.56×45mm NATO: variant of the AK-107 chambered in 5.56×45mm NATO.)
+ MK-108 (Russian Federation – Mikhail Kalashnikov – 2013 – semi-automatic rifle – 5.56×45mm NATO: Semi-automatic variant of the AK-108 assault rifle designed for civilian use.)
+ MK-107 (Russian Federation – Mikhail Kalashnikov – 2013 – Semi-automatic rifle – 5.45×39mm: Semi-automatic variant of the AK-107 assault rifle designed for civilian use.)
+ AKS-74 (Union of Soviet Socialist Republics – Mikhail Kalashnikov – 1974 – assault rifle – 5.45×39mm: variant of the AK-74 assault rifle with a side-folding metal shoulder stock, designed primarily for use with airborne infantry units.)
+ AKS-74U (Union of Soviet Socialist Republics – Mikhail Kalashnikov – 1977–1979 – carbine – 5.45×39mm: Carbine-length variant of the AKS-74 assault rifle. Used primarily with airborne infantry units, armored vehicle crews, rear-echelon support units, and special forces.)
+ RPK-74 (Union of Soviet Socialist Republics – Mikhail Kalashnikov – 1974 – squad automatic weapon – 5.45×39mm: Squad automatic weapon variant of the AK-74 assault rifle.)
+ AKMS (Union of Soviet Socialist Republics – Mikhail Kalashnikov – 1959 – assault rifle – 7.62×39mm: variant of the AKM with a downward-folding metal shoulder stock, like the one on the Nazi German MP40 submachine gun.)
+ RPK (Union of Soviet Socialist Republics – Mikhail Kalashnikov – 1961 – squad automatic weapon – 7.62×39mm: Squad automatic weapon variant of the AKM assault rifle.)
+ AL-7 (Union of Soviet Socialist Republics – Yury Aleksandrov – early 1970s – assault rifle – 5.45×39mm: Experimental assault rifle that competed with the AK-74 assault rifle in Soviet Army trials. Never accepted by any military. Prototypes only.)
+ Pistols
+ Lebedev PL-14/PL-15 (Russian Federation – Dmitri Lebedev – 2015 – semi-automatic pistol – 9×19mm)
+ Kalekalip 12.7mm AMR (Turkey – bolt-action anti-materiel rifle – .50 BMG)
+ Kanuni pistol (Turkey – semi-automatic pistol – 9×19mm Parabellum)
+ Kalinichenko pistol (Russian Federation – pistol – 7.62×25mm Tokarev)
+ Kashatn Submachine Gun (Russian Federation – submachine gun – 9×19mm Parabellum)
+ Kassnar Arms
+ Rifles
+ Kassnar Arms M-116 (US – semi-automatic rifle – .22 long rifle)
+ Kayaian submachine gun (US – submachine gun – 9×19mm Parabellum: prototype)
+ kb ppanc Wz. 35 (Poland – bolt-action anti-tank rifle – 7.92×107mm DS)
+ KB-ST Design Bureau
+ Submachine guns
+ Goblin SMG (Ukraine – submachine gun – 9×18mm Makarov, 9×19mm Parabellum)
+ Kbkg wz. 1960 (Poland – assault rifle with grenade launcher – 7.62×39mm)
+ Kbsp wz. 1938M (Poland – semi-automatic rifle – 7.92×57mm Mauser)
+ KBP Instrument Design Bureau
+ Machine guns
+ GSh-23 (Soviet Union – aircraft-mounted Autocannon – 23×115mm)
+ Pistols
+ OTs-23 Drotik (Russian Federation – machine pistol – 5.45×18mm MPT)
+ PP-90 (Russian Federation – machine pistol – 9×18mm Makarov)
+ PP-90M (Russian Federation – machine pistol – 9×18mm Makarov)
+ PP-92 (Russian Federation – machine pistol – 9×19mm Parabellum)
+ PP-2000 (Russian Federation – machine pistol – 9×19mm Parabellum, 9×19mm 7N21 +P+, 9×19mm 7N31 +P+)
+ Revolvers
+ OTs-01 (Russian Federation – double-action revolver – 9×18mm Makarov)
+ OTs-01S (Russian Federation – double-action revolver – .380 ACP)
+ OTs-20 (Russian Federation – double-action revolver – 12.5×40mm STs-110)
+ R-92 (Russian Federation – double-action revolver – 9×18mm Makarov)
+ R-92S (Russian Federation – double-action revolver – .380 ACP)
+ U-94 UDAR (Russian Federation – double-action revolver – 12.3×50mmR)
+ U-94S (Russian Federation – double-action revolver – 12.3×22mmR PM32)
+ U-94TS (Russian Federation – double-action revolver – 12.3×40mmR)
+ Rifles
+ OSV-96 (Russian Federation – A.G. Shipunov – 1990s – semi-automatic anti-materiel rifle – 12.7×108mm)
+ V-94 (Russian Federation – A.G. Shipunov – 1990s – semi-automatic anti-materiel rifle – 12.7×108mm: variant of the Russian OSV-96 semi-automatic anti-materiel rifle)
+ OTs-12 (Russian Federation – carbine – 9×39mm)
+ OTs-14 (Russian Federation – assault rifle – 7.62×39mm, 9×39mm)
+ OTs-14-1A (Russian Federation – assault rifle – 7.62×39mm)
+ OTs-14-1A-01 (Russian Federation – carbine – 7.62×39mm)
+ OTs-14-1A-02 (Russian Federation – carbine – 7.62×39mm)
+ OTs-14-1A-03 (Russian Federation – designated marksman rifle – 7.62×39mm)
+ OTs-14-1A-04 (Russian Federation – assault rifle with Grenade launcher – 7.62×39mm/40mm Caseless Grenade)
+ OTs-14-2A (Russian Federation – assault rifle – 5.45×39mm: prototype)
+ OTs-14-3A (Russian Federation – assault rifle – 5.56×45mm NATO: prototype)
+ OTs-14-4A (Russian Federation – assault rifle – 9×39mm)
+ OTs-14-4A-01 (Russian Federation – carbine – 9×39mm)
+ OTs-14-4A-02 (Russian Federation – carbine – 9×39mm)
+ OTs-14-4A-03 (Russian Federation – designated marksman rifle – 9×39mm)
+ OTs-14-4A-04 (Russian Federation – assault rifle with Grenade launcher – 9×39mm/40mm Caseless Grenade)
+ TKB-0146 (Soviet Union – 1980 – assault rifle – 5.45×39mm: prototype)
+ VSK-94 (Russian Federation – 1994 – semi-automatic sniper rifle – 9×39mm)
+ 9A-91 (Russian Federation – subcompact assault rifle – 9×39mm)
+ Shotguns
+ RMB-93 (Russian Federation – pump-action shotgun – 12 gauge)
+ RMf-96 (Russian Federation – pump-action shotgun – 12 gauge)
+ RMO-93 (Russian Federation – pump-action shotgun – 12 gauge)
+ Submachine guns
+ PP-90 (Russian Federation – submachine gun – 9×18mm Makarov)
+ PP-90M (Russian Federation – submachine gun – 9×18mm Makarov)
+ PP-92 (Russian Federation – submachine gun – 9×19mm Parabellum)
+ Kefefs (Greece – bolt-action sniper rifle – 7.62×51mm NATO)
+ Kefefs-M (Greece – bolt-action sniper rifle – 7.62×51mm NATO)
+ Kefefs-P (Greece – bolt-action sniper rifle – 7.62×51mm NATO)
+ Kel-Tec
+ Pistols
+ Kel-Tec P-11 (US – compact semi-automatic pistol – 9×19mm Parabellum)
+ Kel-Tec P-40 (US – compact semi-automatic pistol – .40 S&W)
+ Kel-Tec P-357 (US – compact semi-automatic pistol – .357 SIG)
+ Kel-Tec P-32 (US – subcompact semi-automatic pistol – .32 ACP)
+ Kel-Tec P-32 First Generation (US – subcompact semi-automatic pistol – .32 ACP)
+ Kel-Tec P-32 Second Generation (US – subcompact semi-automatic pistol – .32 ACP)
+ Kel-Tec P-3AT (US – subcompact semi-automatic pistol – .380 ACP)
+ Kel-Tec PF-9 (US – subcompact semi-automatic pistol – 9×19mm Parabellum)
+ Kel-Tec PLR-16 (US – semi-automatic pistol – 5.56×45mm NATO)
+ Rifles
+ Kel-Tec RFB (US – semi-automatic battle rifle – 7.62×51mm NATO)
+ Kel-Tec RFB Carbine (US – semi-automatic carbine – 7.62×51mm NATO)
+ Kel-Tec RFB Sporter (US – semi-automatic battle rifle – 7.62×51mm NATO)
+ Kel-Tec RFB Target (US – semi-automatic battle rifle – 7.62×51mm NATO)
+ Kel-Tec SU-16 (US – semi-automatic rifle – 5.56×45mm NATO)
+ Kel-Tec SU-16A (US – semi-automatic rifle – 5.56×45mm NATO)
+ Kel-Tec SU-16B (US – semi-automatic rifle – 5.56×45mm NATO)
+ Kel-Tec SU-16C (US – semi-automatic rifle – 5.56×45mm NATO)
+ Kel-Tec SU-16CA (US – semi-automatic rifle – 5.56×45mm NATO)
+ Kel-Tec SU-16D (US – semi-automatic carbine – 5.56×45mm NATO)
+ Kel-Tec SU-16F (US – semi-automatic rifle – 5.56×45mm NATO)
+ Kel-Tec SUB-2000 (US – semi-automatic rifle – 9×19mm Parabellum, .40 S&W)
+ Shotguns
+ Kel-Tec KSG (US – pump-action shotgun – 12 gauge)
+ Kulsprutegevär m/40 (Sweden – automatic rifle – 6.5×55mm)
+ KGP-9 (Hungary – machine pistol – 9×19mm Parabellum)
+ KH-2002 (Iran – assault rifle – 5.56×45mm NATO)
+ Kimber Manufacturing
+ Pistols
+ Kimber Aegis (US – semi-automatic pistol – 9×19mm: Colt M1911 variant)
+ Kimber Pro Aegis II (US – compact semi-automatic pistol – 9×19mm)
+ Kimber Ultra Aegis II (US – subcompact semi-automatic pistol – 9×19mm)
+ Kimber CDP II (US – semi-automatic pistol – .45 ACP: Colt M1911 variant)
+ Kimber Classic .45 (US – semi-automatic pistol – .45 ACP: licensed production Colt M1911 variant)
+ Kimber Compact (US – compact semi-automatic pistol – .45 ACP: licensed production Colt M1911 variant)
+ Kimber Covert II (US – semi-automatic pistol – .45 ACP: Colt M1911 variant)
+ Kimber Crimson Carry (US – semi-automatic pistol – .45 ACP: Colt M1911 variant)
+ Kimber Custom Crimson Carry II (US – semi-automatic pistol – .45 ACP)
+ Kimber Pro Crimson Carry II (US – compact semi-automatic pistol – .45 ACP)
+ Kimber Ultra Crimson Carry II (US – subcompact semi-automatic pistol – .45 ACP)
+ Kimber Ultra RCP II (US – subcompact semi-automatic pistol – .45 ACP)
+ Kimber Custom (US – semi-automatic pistol – .45 ACP: Colt M1911 variant)
+ Kimber Custom Target II (US – semi-automatic pistol – .45 ACP)
+ Kimber Custom TLE II (US – semi-automatic pistol – .45 ACP)
+ Kimber Custom TLE II LG (US – semi-automatic pistol – .45 ACP)
+ Kimber Custom TLE/RL II (US – semi-automatic pistol – .45 ACP)
+ Kimber Stainless TLE II (US – semi-automatic pistol – .45 ACP)
+ Kimber Stainless TLE/RL II (US – semi-automatic pistol – .45 ACP)
+ Kimber Royal II (US – semi-automatic pistol – .45 ACP)
+ Kimber Stainless II (US – semi-automatic pistol – .45 ACP)
+ Kimber Stainless Target II (US – semi-automatic pistol – .45 ACP)
+ Kimber Warrior (US – semi-automatic pistol – .45 ACP)
+ Kimber Desert Warrior (US – semi-automatic pistol – .45 ACP)
+ Kimber Eclipse (US – semi-automatic pistol – 10mm auto, .45 ACP: Colt M1911 variant)
+ Kimber Eclipse Target II (US – semi-automatic pistol – 10mm auto, .45 ACP)
+ Kimber Gold Match II (US – semi-automatic pistol – .45 ACP: Colt M1911 variant)
+ Kimber Stainless Gold Match II (US – semi-automatic pistol – .45 ACP)
+ Kimber Target Match II (US – semi-automatic pistol – .45 ACP)
+ Kimber Team Match II (US – semi-automatic pistol – .45 ACP)
+ Kimber Pro Carry (US – compact semi-automatic pistol – .45 ACP: Colt M1911 variant)
+ Kimber Ultra Carry II (US – subcompact semi-automatic pistol – .45 ACP)
+ Kimber Rimfire (US – semi-automatic pistol – .22 long rifle: Colt M1911 variant)
+ Kimber Solo (US – subcompact semi-automatic pistol – 9×19mm Parabellum: Colt M1911 variant)
+ Kimber Tactical II (US – semi-automatic pistol – .45 ACP: Colt M1911 variant)
+ Kimber Tactical Pro II (US – semi-automatic pistol – .45 ACP)
+ Kimber Ten II (US – compact semi-automatic pistol – .45 ACP: Colt M1911 variant)
+ 2.7×9mm Kolibri pistol
+ Kimmel Industries
+ Pistols
+ AP-9 (US – semi-automatic pistol – 9×19mm Parabellum)
+ Kingdom of Belgium State Arsenals
+ Rifles
+ Albini-Braendlin M1867 (Kingdom of Belgium – Augusto Albini, Francis Braendlin – 1867 – single-shot rifle – 11×50mmR Albini: Belgian single-shot rifle designed in 1867. Adopted by the Army of the Kingdom of Belgium in 1867.)
+ Albini-Braendlin M1873 (Kingdom of Belgium – Augusto Albini, Francis Braendlin – 1873 – single-shot rifle – 11×50mmR Albini: variant of the Belgian Albini-Braendlin M1867 single-shot rifle)
+ Albini-Braendlin M1873 Short Rifle (Kingdom of Belgium – Augusto Albini, Francis Braendlin – 1873 – single shot carbine – 11×42mmR: carbine-length variant of the Belgian Albini-Braendlin M1873 single-shot rifle)
+ Albini-Braendlin M1880 (Kingdom of Belgium – Augusto Albini, Francis Braendlin – 1880 – single-shot rifle – 11×50mmR Albini: variant of the Belgian Albini-Braendlin M1867 single-shot rifle)
+ Kintrek KBP-1 (US – Semi-automatic rifle – .22 long rifle)
+ Király autocannon (Hungary – autocannon – 20x138mm 36M: prototype)
+ KIS Machine Pistol (Poland – submachine gun – 9×19mm Parabellum)
+ Knorr-Bremse automatic rifle (Germany – light machine gun – 7.92×57mm Mauser)
+ Kokoda (Australia – submachine gun – 9×19mm Parabellum: Owen gun variant)
+ Komodo Armaments
+ Komodo Armaments Eli gun (Indonesia – Gatling – 7.62×51mm NATO)
+ Kommando LDP (Rhodesia – submachine gun – 9×19mm Parabellum)
+ KOP-PAL
+ KOVROV AEK906 Russian revolver (Russian Federation – double-action revolver – 9×19mm Parabellum)
+ KOVROV AEK919-K (Russian Federation – submachine gun – 9×19mm Parabellum)
+ KP-5 (Czechoslovakia – light machine gun – 7.5×45mm)
+ Krag–Jørgensen (various – bolt-action rifles – various)
+ Danish Rifles (Denmark – bolt-action rifles – 8×58mmR)
+ M1889 Carbine (Denmark – bolt-action carbine – 8×58mmR)
+ M1889 Rifle (Denmark – bolt-action rifle – 8×58mmR)
+ M1928 Sniper Rifle (Denmark – bolt-action sniper rifle – 8×58mmR)
+ Norwegian Rifles (Norway – Bolt-Action Rifles – 6.5×55mm)
+ M1894 Rifle (Norway – bolt-action rifle – 6.5×55mm)
+ M1895 Carbine (Norway – bolt-action carbine – 6.5×55mm)
+ M1897 Carbine (Norway – bolt-action carbine – 6.5×55mm)
+ M1904 Carbine (Norway – bolt-action carbine – 6.5×55mm)
+ M1906 Carbine (Norway – bolt-action carbine – 6.5×55mm)
+ M1907 Boy's Carbine (Norway – bolt-action carbine – 6.5×55mm)
+ M1912 Short Rifle (Norway – bolt-action carbine – 6.5×55mm)
+ M1923 Sniper Rifle (Norway – bolt-action sniper rifle – 6.5×55mm)
+ M1925 Sniper Rifle (Norway – bolt-action sniper rifle – 6.5×55mm)
+ M1930 Sniper Rifle (Norway – bolt-action sniper rifle – 6.5×55mm)
+ US Rifles (US – bolt-action rifles – .30–40 Krag)
+ M1892 Carbine (US – bolt-action carbine – .30–40 Krag)
+ M1892 Rifle (US – bolt-action rifle – .30–40 Krag)
+ M1896 Cadet Rifle (US – bolt-action rifle – .30–40 Krag)
+ M1896 Carbine (US – bolt-action carbine – .30–40 Krag)
+ M1896 Rifle (US – bolt-action rifle – .30–40 Krag)
+ M1898 Carbine (US – bolt-action carbine – .30–40 Krag)
+ M1898 Rifle (US – bolt-action rifle – .30–40 Krag)
+ M1899 Carbine (US – bolt-action carbine – .30–40 Krag)
+ M1899 Constable Carbine (US – bolt-action rifle – .30–40 Krag)
+ Krag–Petersson (Norway – bolt-action rifle – 12.17×44mm Rimfire)
+ Kreighoff MG39 (Germany – medium machine gun – 8×57mm IS)
+ KRISS USA, Inc.
+ Submachine guns
+ KRISS Vector (US – submachine gun – .45 ACP)
+ Disraptor (US – submachine gun – .45 ACP: prototype)
+ KRISS KARD (US – semi-automatic pistol – .45 ACP)
+ KRISS Vector CRB (US – carbine – .45 ACP)
+ KRISS Vector K10 (US – compact submachine gun – .45 ACP)
+ KRISS Vector SBR (US – compact carbine – .45 ACP)
+ KRISS Vector SDP (US – semi-automatic pistol – .45 ACP)
+ Kropatschek (Kingdom of Portugal – bolt-action rifle – 8×60mmR)
+ KS-23 (Soviet Union – carbine/shotgun – 23×75mmR)
+ KS-23K (Soviet Union – carbine/shotgun – 23×75mmR)
+ KS-23M (Soviet Union – carbine/shotgun – 23×75mmR)
+ TOZ-123 (Soviet Union – carbine/shotgun – 4 gauge)
+ KUGS
+ KUGS HD410 (Switzerland - shotgun - .410 gauge)
+
+L
+
+ Labora Fontbernat M-1938 (Spain – submachine gun – 9×23mm Largo)
+ Lacoste LDP (Rhodesia – submachine gun – 9×19mm Parabellum)
+ Lacroix SUW (France – single-shot grenade launcher – 7.62mm grenade)
+ LAD machine gun (Soviet Union – submachine gun – 7.62×25mm Tokarev: prototype)
+ LaFrance specialties
+ Pistols
+ LaFrance M1911-SD (US, France – semi-automatic pistol – .45 ACP: Colt M1911 variant)
+ Rifles
+ LaFrance M14K (US, France – shortened battle rifle – 7.62×51mm NATO: M14 variant)
+ La France M16K (US, France – carbine – 5.56×45mm NATO, .45 ACP: Colt M16 variant)
+ LAPA
+ Rifles
+ LAPA FA-03 (Brazil – assault rifle – 5.56×45mm NATO: prototype)
+ L.A.R. Manufacturing Inc.
+ Rifles
+ Grizzly Big Boar (US – single-shot bolt-action anti-materiel rifle – .50 BMG)
+ LaserAim Model 4 (US – semi-automatic pistol – .45 ACP: Colt M1911 variant)
+ Le Français (France – semi-automatic pistol – .32 ACP)
+ Le Protector (France – double-action revolver – .32 ACP Extra Short)
+ Leader Dynamics
+ Rifles
+ Leader Dynamics Series T2 MK5 (Australia – semi-automatic rifle – 5.56×45mm NATO)
+ Lebel 1886 (France – bolt-action rifle – 8×50mmR Lebel)
+ Lee–Enfield (UK – bolt-action rifle – 7.62×51mm NATO, .303 British)
+ Magazine Lee–Enfield (UK – bolt-action rifle – 7.62×51mm NATO, .303 British)
+ Charger Loading Lee–Enfield (UK – bolt-action rifle – .303 British)
+ Lee–Enfield Cavalry Carbine Mk I (UK – bolt-action carbine – .303 British)
+ New Zealand Carbine (UK – bolt-action carbine – .303 British)
+ Royal Irish Constabulary Carbine (UK – bolt-action carbine – .303 British)
+ Rifle No. 4 Mk I (UK – bolt-action carbine – .303 British)
+ Rifle No. 4 Mk I/2 (UK – bolt-action carbine – .303 British)
+ Rifle No. 4 Mk I* (UK – bolt-action carbine – .303 British)
+ Rifle No. 4 Mk I/3 (UK – bolt-action carbine – .303 British)
+ Rifle No. 4 Mk 2 (UK – bolt-action carbine – .303 British)
+ Rifle No. 5 Mk I (UK – bolt-action carbine – .303 British)
+ Rifle No. 6 Mk I (UK – bolt-action carbine – .303 British)
+ Short Magazine Lee–Enfield (UK – bolt-action carbine – .303 British)
+ Pattern 1913 Enfield (UK – bolt-action carbine – .276 Enfield: prototype)
+ M1917 Enfield (UK, US – bolt-action carbine – .30-06 Springfield)
+ Pattern 1914 Enfield (UK – bolt-action carbine – .303 British)
+ Rifle No. 3 (UK – bolt-action carbine – .303 British)
+ Short Magazine Lee–Enfield Mk I (UK – bolt-action carbine – .303 British)
+ Short Magazine Lee–Enfield Mk II (UK – bolt-action carbine – .303 British)
+ Short Magazine Lee–Enfield Mk III (UK – bolt-action carbine – .303 British)
+ Rifle No. 1 Mk III (UK – bolt-action carbine – .303 British)
+ Rifle No. 2 Mk III (UK – bolt-action carbine – .22 long rifle)
+ Rifle No. 1 Mk V (UK – bolt-action carbine – .303 British)
+ Rifle No. 1 Mk VI (UK – bolt-action carbine – .303 British)
+ Short Magazine Lee–Enfield Mk III* (UK – bolt-action carbine – .303 British)
+ Rifle No. 1 Mk III* (UK – bolt-action carbine – .303 British)
+ Short Magazine Lee–Enfield Mk III* (HT) (UK – bolt-action sniper rifle – .303 British)
+ Rifle No. 2 Mk III* (UK – bolt-action carbine – .22 long rifle)
+ Rifle No. 7 Mk III* (UK – bolt-action carbine – .22 long rifle)
+ Rifle No. 8 Mk III* (UK – bolt-action carbine – .22 long rifle)
+ Rifle No. 9 Mk III* (UK – bolt-action carbine – .22 long rifle)
+ Short Magazine Lee–Enfield Mk V (UK – bolt-action carbine – .303 British)
+ Leininger chest plate gun (United States)
+ LeMat Revolver (Confederate States of America – revolver – 20 gauge Shot, .36 Ball, .42 Ball)
+ LeMat Carbine (Confederate States of America – revolving carbine – 20 gauge Shot, .36 Ball, .42 Ball)
+ Leopard 12 (Russian Federation – side-by-side shotgun – 12 gauge)
+ Lercker (Italy – machine pistol – .25 ACP)
+ Lewis Machine and Tool Company
+ LMT CQB16 (United States – assault rifle – 5.56×45mm NATO)
+ LMT MWS (United States – DMR – 7.62×51mm NATO)
+ Lithgow Small Arms Factory
+ Rifles
+ KAL1 General Purpose Infantry Rifle (Australia – semi-automatic battle rifle – 7.62×51mm NATO: prototype)
+ LOM 30 (Chechen Republic – Automatic Grenade launcher – 30×29mm grenade)
+ London Armoury Company
+ Revolvers
+ Beaumont–Adams Mk I (United Kingdom of Great Britain and Northern Ireland – Robert Adams – 1862 – Muzzle-loaded double-action percussion cap revolver – .450)
+ Beaumont–Adams Mk I* (United Kingdom of Great Britain and Northern Ireland – Robert Adams – v date – Muzzle-loaded double-action percussion cap revolver – .450 Adams: a factory upgrade to the British Beaumont–Adams Mk I double-action percussion cap revolver to match the Mk II variant)
+ Beaumont–Adams Mk II (United Kingdom of Great Britain and Northern Ireland – Robert Adams – v date – Muzzle-loaded double-action percussion cap revolver – .450 Adams: variant of the British Beaumont–Adams Mk I double-action percussion cap revolver)
+ Beaumont–Adams Mk III (United Kingdom of Great Britain and Northern Ireland – Robert Adams – unknown date – Muzzle-loaded double-action percussion cap revolver – .450 Adams: variant of the British Beaumont–Adams Mk I double-action percussion cap revolver)
+ Beaumont–Adams Mk IV (United Kingdom of Great Britain and Northern Ireland – Robert Adams – unknown date – Muzzle-loaded double-action percussion cap revolver – .450 Adams: variant of the British Beaumont–Adams Mk I double-action percussion cap revolver)
+ Lorenz Infantry Rifle M1854 (Austrian Empire – rifled musket – .54 Ball)
+ Lorenz Infantry Rifle M1854 Long (Austrian Empire – rifled musket – .54 Ball)
+ Lorenz Infantry Rifle M1854 Short (Austrian Empire – carbine – .54 Ball)
+ Łucznik Arms Factory
+ Pistols
+ MAG-95 (Republic of Poland – semi-automatic pistol – 9×19mm Parabellum)
+ MAG-08 (Republic of Poland – semi-automatic pistol – 9×19mm Parabellum)
+ MAG-98 (Republic of Poland – semi-automatic pistol – 9×19mm Parabellum)
+ MAG-98C (Republic of Poland – semi-automatic pistol – 9×19mm Parabellum)
+ PM-63 RAK (Polish People's Republic – machine pistol – 9×18mm Makarov)
+ PM-63 Silenced (Polish People's Republic – integrally suppressed machine pistol – 9×18mm Makarov)
+ PM-70 (Polish People's Republic – machine pistol – 9×19mm Parabellum)
+ PM-73 (Polish People's Republic – machine pistol – .380 ACP)
+ P-64 (Polish People's Republic – semi-automatic pistol – 9×18mm Makarov)
+ P-70 (Polish People's Republic – semi-automatic pistol – 9×18mm Makarov: prototype)
+ P-75 (Polish People's Republic – semi-automatic pistol – 9×18mm Makarov: prototype)
+ P-78 (Polish People's Republic – semi-automatic pistol – 9×18mm Makarov)
+ P-83 Wanad (Polish People's Republic – semi-automatic pistol – 9×18mm Makarov, .32 ACP, .380 ACP)
+ P-83G (Polish People's Republic – semi-automatic pistol – 9mm PA)
+ P-83M (Polish People's Republic – semi-automatic pistol – 9×18mm Makarov)
+ P-93 (Republic of Poland – semi-automatic pistol – 9×18mm Makarov)
+ PT-83 (Polish People's Republic – semi-automatic pistol – 9×18mm Makarov)
+ Pistolet wz. 35 Vis (Second Polish Republic – 1935 – semi-automatic pistol – 9×19mm Parabellum)
+ PM-84 Glauberyt (Polish People's Republic – machine pistol – 9×18mm Makarov)
+ PM-06 (Republic of Poland – machine pistol – 9×19mm Parabellum)
+ PM-84P (Republic of Poland – machine pistol – 9×19mm Parabellum)
+ PM-98 (Republic of Poland – machine pistol – 9×19mm Parabellum)
+ PM-98S (Republic of Poland – machine pistol – 9×19mm Parabellum)
+ BRS-99 (Republic of Poland – semi-automatic pistol – 9×19mm Parabellum)
+ Rifles
+ Kbs wz. 1996 Beryl (Republic of Poland – assault rifle – 5.56×45mm NATO)
+ Beryl Commando (Republic of Poland – assault rifle – 5.56×45mm NATO)
+ Beryl IPSC (Republic of Poland – assault rifle – 5.56×45mm NATO)
+ Kbk wz. 1996 Mini-Beryl (Republic of Poland – carbine – 5.56×45mm NATO)
+ Kbk wz. 2003 Beryl (Republic of Poland – assault rifle – 5.56×45mm NATO)
+ MSBS Grot (Republic of Poland – assault rifle/designated marksman rifle – 5.56×45mm NATO, 7.62×51mm NATO)
+ Radom-Hunter (Republic of Poland – Semi-automatic rifle – 7.62×39mm)
+ Luger P08 (German Empire – semi-automatic pistol – 9×19mm Parabellum)
+ Artillery Luger (German Empire – semi-automatic pistol – 9×19mm Parabellum)
+ Luger .45 ACP Variant (German Empire – semi-automatic pistol – .45 ACP)
+ Luger OP00 (German Empire, Switzerland – semi-automatic pistol – 7.65×21mm Parabellum)
+ Luger P04 (German Empire – semi-automatic pistol – 9×19mm Parabellum)
+
+M
+Main article: List of firearms (M)
+
+ M1911 (USA – pistol – .45 Acp)
+ M1 Garand (USA - semi-automatic rifle- .30-60 Springfield)
+ M1 Carbine (USA - semi-automatic carbine - .30 Carbine)
+ M4 Carbine (USA - assault rifle - 5.56×45mm NATO)
+ M6 Aircrew Survival Weapon (USA - combination rifle/shotgun - .410/.22 Hornet)
+ MAT-49 (France - submachine gun - 9×19mm Parabellum)
+ M16 (USA - assault rifle - 5.56×45mm NATO)
+ M2 Browning (USA - heavy machine gun - .50 BMG)
+ Masterpiece Arms
+ Masterpiece Arms MPA
+ MG42 (Nazi Germany – general-purpose machine gun – 7.92×57mm Mauser)
+ MP40
+ MAS-36
+ Mors submachine gun
+ M202 FLASH
+
+N
+Main article: List of firearms (N)
+
+ NA-2 (Soviet Union – assault rifle – 5.45×39mm: prototype)
+ NA-4 (Soviet Union – assault rifle – 5.45×39mm: prototype)
+ NAACO Brigadier (Canada – semi-automatic pistol – .45 Winchester Magnum)
+ Nagant
+ Revolvers
+ Nagant M1895 (Russian Empire – double-action revolver – 7.62×38mmR)
+ Nambu Pistol (Empire of Japan – semi-automatic pistol – 7×20mm, 8×22mm)
+ Nambu Type A (Empire of Japan – semi-automatic pistol – 8×22mm)
+ Nambu Type B (Empire of Japan – semi-automatic pistol – 7×20mm)
+ Nambu Type 14 (Empire of Japan – semi-automatic pistol – 8×22mm)
+ Nambu Type 96 training machine gun (Empire of Japan – light machine gun)
+ Nambu Type 66 (Japan – submachine gun – 9×19mm Parabellum)
+ Navy Arms
+ Revolvers
+ Navy Arms Frontier Buntline Model (United States – Navy Arms/Colt's Manufacturing Company – unknown date – single-action revolver – .357 S&W Magnum, .45 Colt: variant of the American Colt Buntline Special. Features a longer 16.5-inch barrel, a walnut grip, and a detachable shoulder stock.)
+ Neostead (South Africa – pump-action combat shotgun – 12 gauge)
+ Nexter
+ Rifles
+ PAPOP (France – assault rifle with grenade launcher – 5.56×45mm NATO/35mm grenade: prototype)
+ PAPOP-1 (France – assault rifle with grenade launcher – 5.56×45mm NATO/35mm grenade: prototype)
+ PAPOP-2 (France – assault rifle with grenade launcher – 5.56×45mm NATO/35mm grenade: prototype)
+ Noreen
+ Noreen BN30
+ Noreen BN36
+ Norinco
+ Machine guns
+ Norinco Type 67 (China – general-purpose machine gun – 7.62×54mmR)
+ Norinco Type 67-1 (China – general-purpose machine gun – 7.62×54mmR)
+ Norinco Type 67-2 (China – general-purpose machine gun – 7.62×54mmR)
+ Pistols
+ Norinco M93 (China – semi-automatic pistol – .22 long rifle: Colt Woodsman clone)
+ Norinco NP 22 (China – semi-automatic pistol – 9×19mm Parabellum: SIG Sauer P226 clone)
+ Norinco NP 34 (China – semi-automatic pistol – 9×19mm Parabellum: Sig Sauer P228 clone)
+ Norinco NZ 75 (China – semi-automatic pistol – 9×19mm Parabellum: CZ-75 clone)
+ Norinco P 15 (China – semi-automatic pistol – 9×19mm Parabellum: Colt M1911 clone)
+ Norinco NP 15 (China – semi-automatic pistol – 9×19mm Parabellum)
+ Norinco PPN (China – Compact semi-automatic pistol – .380 ACP: Walther PP clone)
+ Norinco QSZ-92 (China – semi-automatic pistol)
+ Norinco CF 07 (China – compact semi-automatic pistol – 9×19mm Parabellum)
+ Norinco CF 98 (China – semi-automatic pistol – 9×19mm Parabellum)
+ Norinco CS/LP5 (China – compact semi-automatic pistol – 9×19mm Parabellum)
+ Norinco NP 42 (China – semi-automatic pistol – 9×19mm Parabellum)
+ Norinco QSZ-92-5.8 (China – semi-automatic pistol – 5.8×21mm DAP92)
+ Norinco QSZ-92-9 (China – semi-automatic pistol – 9×19mm Parabellum)
+ Norinco Type 54 (China – semi-automatic pistol – 7.62×25mm Tokarev: TT-33 Copy)
+ Norinco Type 54-1 (China – semi-automatic pistol – 7.62×25mm Tokarev)
+ Norinco Type 54-T (China – semi-automatic pistol – 7.62×25mm Tokarev)
+ Norinco M20 (China – semi-automatic pistol – 7.62×25mm Tokarev)
+ Norinco Model 201 (China – semi-automatic pistol – 7.62×25mm Tokarev)
+ Norinco Model 213 (China – semi-automatic pistol – 7.62×25mm Tokarev)
+ Norinco TU-90 (China – semi-automatic pistol – 7.62×25mm Tokarev)
+ Norinco Type 77 (China – semi-automatic pistol – 7.62×17mm Type 64, 9×19mm Parabellum)
+ Norinco NP-20 (China – semi-automatic pistol – 9×19mm Parabellum)
+ Norinco NP-24 (China – semi-automatic pistol – 9×19mm Parabellum)
+ Norinco NP-24A (China – semi-automatic pistol – 9×19mm Parabellum)
+ Norinco Type 77-1 (China – semi-automatic pistol – 7.62×17mm Type 64)
+ Norinco Type 77B (China – semi-automatic pistol – 9×19mm Parabellum)
+ Norinco Type 85 (Czech Republic, China – semi-automatic pistol – 9×19mm Parabellum: CZ-85 Copy)
+ Rifles
+ Norinco AK-47 .223 (China – semi-automatic rifle – .223 Remington: AK-47 variant)
+ Norinco CQ-311 (China – semi-automatic rifle – .223 Remington)
+ Norinco EM351 (China – semi-automatic sniper rifle – 7.62×51mm NATO, 7.62×54mmR: Dragunov SVD variant)
+ Norinco JW-14 (China – bolt-action rifle – .22 long rifle)
+ Norinco JW-15A (China – bolt-action rifle – .22 long rifle)
+ Norinco JW-20 (China – semi-automatic rifle – .22 long rifle)
+ Norinco JW-21 (China – lever-action rifle – .22 long rifle)
+ Norinco JW-23 (China – bolt-action rifle – .22 Magnum)
+ Norinco JW-25A (China – bolt-action carbine – .22 long rifle)
+ Norinco JW-27 (China – bolt-action rifle – .22 long rifle)
+ Norinco JW-103 (China – bolt-action rifle – 7.62×39mm)
+ Norinco JW-105 (China – bolt-action rifle – .223 Remington)
+ Norinco M90 (China – semi-automatic rifle – 7.62×39mm: AK-47 variant)
+ Norinco M305/M14 (China – semi-automatic rifle – .308 Winchester: M14 variant)
+ Norinco NDM 86 (China – semi-automatic rifle – 7.62×51mm NATO, 7.62×54mmR: Dragunov SVD variant)
+ Norinco NS522 (China – bolt-action rifle – .22 long rifle)
+ Norinco QBU-88 (China – semi-automatic designated marksman rifle – 5.8×42mm DBP88, 5.56×45mm NATO)
+ Norinco KBU-97A (China – semi-automatic designated marksman rifle – 5.56×45mm NATO)
+ Norinco QBZ-03 (China – assault rifle – 5.8×42mm DBP87, 5.56×45mm NATO)
+ Norinco QBZ-03 Export (China – assault rifle – 5.56×45mm NATO)
+ Norinco QBZ-03 Tactical (China – assault rifle – 5.8×42mm DBP87)
+ Norinco ZH-05 (China – assault rifle with grenade launcher – 5.8×42mm DBP87/20mm grenade)
+ Norinco QBZ-95 (China – assault rifle – DBP85, 5.8×42mm DBP87)
+ Norinco QBB-95 (China – squad automatic weapon – 5.8×42mm DBP87)
+ Norinco QBB-95-1 (China – squad automatic weapon – 5.8×42mm DBP10)
+ Norinco QBZ-95-1 (China – assault rifle – 5.8×42mm DBP10)
+ Norinco QBZ-95B (China – carbine – 5.8×42mm DBP87)
+ Norinco QBZ-95B-1 (China – assault rifle – 5.8×42mm DBP10)
+ Norinco QBZ-95G (China – assault rifle – 5.8×42mm DBP87)
+ Norinco QBZ-95 FTU (China – assault rifle – 5.8×42mm DBP87)
+ Norinco QBZ-97 (China – assault rifle – 5.56×45mm NATO)
+ Norinco QBB-97 (China – squad automatic weapon – 5.56×45mm NATO)
+ Norinco QBZ-97A (China – assault rifle – 5.56×45mm NATO)
+ Norinco Type 97 (China – semi-automatic rifle – .223 Remington)
+ Norinco Type 97 FTU (China – semi-automatic rifle – .223 Remington)
+ Norinco QBZ-97B (China – carbine – 5.56×45mm NATO)
+ Norinco QBZ-97 (China – semi-automatic carbine – .223 Remington)
+ Norinco SKS (China – semi-automatic carbine – 7.62×39mm)
+ Norinco SKS Sporter (China – semi-automatic carbine – 7.62×39mm)
+ Norinco Type 56 (China – assault rifle – 7.62×39mm)
+ Norinco Type 56-1 (China – assault rifle – 7.62×39mm)
+ Norinco Type 56-2 (China – assault rifle – 7.62×39mm)
+ Norinco Type 56-4 (China – assault rifle – 7.62×39mm)
+ Norinco Type 56S (China – assault rifle – 7.62×39mm)
+ Norinco Type 56S-1 (China – assault rifle – 7.62×39mm)
+ Norinco Type 56S-2 (China – assault rifle – 7.62×39mm)
+ Norinco Type 56S-4 (China – assault rifle – 7.62×39mm)
+ Norinco Type 84 (China – assault rifle – 7.62×39mm)
+ Norinco Type 84S (China – assault rifle – 7.62×39mm)
+ Norinco NHM 91 (China – Semi-automatic rifle – 7.62×39mm: RPK variant)
+ Norinco QBZ-56C (China – assault rifle – 7.62×39mm)
+ Norinco Type 81 (China – assault rifle – 7.62×39mm)
+ Norinco CS/LR14 (China – battle rifle – 7.62×51mm NATO)
+ Norinco Type 81 LMG (China – squad automatic weapon – 7.62×39mm)
+ Norinco Type 81 Tactical (China – assault rifle – 7.62×39mm)
+ Norinco Type 81-1 (China – assault rifle – 7.62×39mm)
+ Norinco Type 81S (China – assault rifle – 7.62×39mm)
+ Norinco Type 87 (China – assault rifle – 5.8×42mm DBP87: prototype)
+ Norinco Type 87-1 (China – assault rifle – 5.8×42mm DBP87: prototype)
+ Norinco Type 86S (China – assault rifle – 7.62×39mm)
+ Shotguns
+ Norinco Model 981 (China – pump-action shotgun – 12 gauge)
+ Submachine guns
+ Norinco Type 64 (China – integrally suppressed submachine gun – 7.62×25mm Type 51)
+ Norinco Type 79 (China – submachine gun – 7.62×25mm Tokarev)
+ Norinco Uzi-320 Sporter (China – semi-automatic carbine – 9×19mm Parabellum: IMI Uzi variant)
+ Northwood Development
+ Submachine guns
+ Northwood R-76 (Rhodesia – submachine gun – 9×19mm Parabellum)
+ Northwood R-77 (Rhodesia – carbine – 9×19mm Parabellum)
+ Nosler Model 48 (USA – bolt-action rifle – 26 Nosler, 28 Nosler, 30 Nosler, 33 Nosler)
+ Nosorog AEK 906 revolver (Russian Federation – double-action revolver – 9×19mm Parabellum)
+
+O
+
+ Ohio Ordnance
+ Ohio Ordnance REAPR
+ OKB-575
+ Machine guns
+ Garanin General-Purpose Machine Gun (Union of Soviet Socialist Republics – Georgy Semenovich Garanin – 1955–1960 – general-purpose machine gun – 7.62×54mmR: Soviet general-purpose machine guns designed in the mid and late 1950s for use with the Soviet Armed Forces. Never entered production due to being inferior to the Soviet PK general-purpose machine gun. Prototypes only.)
+ 2B-P-10 (Union of Soviet Socialist Republics – Georgy Semenovich Garanin – 1955–1960 – general-purpose machine gun – 7.62×54mmR: variant of the Garanin general-purpose machine gun using lever-delayed blowback as the action. Prototype only.)
+ 2B-P-45 (Union of Soviet Socialist Republics – Georgy Semenovich Garanin – 1957–1960 – general-purpose machine gun – 7.62×54mmR: variant of the Garanin general-purpose machine gun using gas-operated reloading as the action. Prototype only.)
+ Olin Corporation
+ Rifles
+ Olin/Winchester FAL (US – two-barreled battle rifle – 7.62×51mm NATO)
+ Olympic Arms
+ Rifles
+ Olympic Arms CAR-97 (US – carbine – 5.56×45mm NATO, .223 Remington: Colt M4 variant)
+ Olympic Arms K23 (US – compact assault rifle – 5.56×45mm NATO)
+ Olympic Arms K23-B (US – compact assault rifle – 5.56×45mm NATO)
+ Olympic Arms OA-93 (US – compact assault rifle – 5.56×45mm NATO)
+ Olympic Arms OA-93 TG (US – compact assault rifle – 5.56×45mm NATO)
+ Olympic Arms OA-96 (US – compact assault rifle – 5.56×45mm NATO)
+ Olympic Arms PCR Service Match (US – semi-automatic rifle – 5.56×45mm NATO)
+ Omega SPS-12 (US – semi-automatic shotgun – 12 gauge)
+ Ordnance Factories Organization
+ Pistols
+ Ashani (India – semi-automatic pistol – .32 ACP)
+ Orgullo De La Industria Argentina
+ Pistols
+ TALA (Argentina – semi-automatic pistol – .22 long rifle)
+ Orita M1941 (Romania – submachine gun – 9×19mm Parabellum)
+ Ortgies pistol (Weimar Republic – semi-automatic pistol – .25 ACP, .32 ACP, .380 ACP)
+ Owen Machine Carbine (Australia – submachine gun – 9×19mm Parabellum)
+
+P
+
+ Pakistan Ordnance Factories
+ Submachine guns
+ POF SMG5-K (Pakistan, Germany – compact submachine gun – 9×19mm Parabellum: licensed production HK MP5K)
+ Battle rifles
+ POF BW20
+ POF BW21
+ Assault rifles
+ POF CW39
+ POF CW56
+ Pancor Jackhammer (US – automatic combat shotgun – 12 gauge)
+ Państwowa Fabryka Karabinów
+ Machine guns
+ wz. 1928 (Poland – light machine gun – 7.92×57mm Mauser: licensed production Browning M1918)
+ RKM wz. 28 (Poland – aircraft mounted machine gun – 7.92×57mm Mauser)
+ wz. 30 (Poland – heavy machine gun – 7.92×57mm Mauser: clone of Browning M1917)
+ Panchenkov machine gun (Russian Empire – Rotary machine gun – 7.62×54mmR)
+ Paolone & Sala S.R.L
+ Pistols
+ Centella (Argentina – semi-automatic pistol – .22LR)
+ Para-Ordnance
+ Pistols
+ Para Ordnance LDA (Canada – semi-automatic pistol – .40 S&W, .45 ACP)
+ Para Ordnance P13 (Canada – semi-automatic pistol)
+ Para Ordnance P13-45 (Canada – semi-automatic pistol – .45 ACP)
+ Para Ordnance P16 (Canada – semi-automatic pistol)
+ Para Ordnance P16-10 (Canada – semi-automatic pistol – 10mm Auto)
+ Para Ordnance P16-40 (Canada – semi-automatic pistol – .40 S&W)
+ Para Ordnance P18 (Canada – semi-automatic pistol)
+ Para Ordnance P18-9 (Canada – semi-automatic pistol – 9×19mm Parabellum)
+ Pardini Sport Pistol (Italy – semi-automatic pistol – .22 long rifle)
+ Parker-Hale
+ Rifles
+ Parker-Hale M85 (UK – bolt-action sniper rifle – 7.62×51mm NATO)
+ Parker-Hale M85 Police Variant (UK – bolt-action sniper rifle – 7.62×51mm NATO)
+ Shotguns
+ Parker-Hale Rogun (UK – pump-action combat shotgun – 12 gauge)
+ Submachine guns
+ Parker-Hale PDW (UK – personal defense weapon – 9×19mm Parabellum)
+ Bushman IDW (UK – personal defense weapon – 9×19mm Parabellum)
+ Patria (Argentina – submachine gun – 9×19mm Parabellum)
+ Patria Mod 2 (Argentina – submachine gun – 9×19mm Parabellum)
+ Patriot Ordnance Factory (POF-USA)
+ POF ReVolt .308 (USA – ReVolt bolt-action rifle – 7.62×51mm NATO, .308 Winchester)
+ POF ReVolt 5.56 (USA – ReVolt bolt-action rifle – 5.56mm NATO)
+ POF P415 5.56 (USA – semi-automatic direct impingement (piston) rifle – 5.56mm NATO)
+ POF P308 .308 (USA – semi-automatic direct impingement (piston) rifle – 7.62×51mm NATO, .308 Winchester)
+ Pauza P-50 (US – semi-automatic anti-materiel rifle – .50 BMG)
+ Pauza P-50 Carbine (US – semi-automatic anti-materiel rifle – .50 BMG)
+ Perrino Model 1908 (Kingdom of Italy – medium machine gun – 6.5×52mm Mannlicher–Carcano)
+ Perazzi MX 2005 (Italy – two-barreled shotgun – 12 gauge)
+ Pesc-Art Cia.
+ Gunther pistol (semi automatic pistol – .22LR)
+ Peters Stahl
+ Pistols
+ Peters Stahl Hunter (Germany – semi-automatic pistol – .45 ACP: Colt M1911 variant)
+ Peters Stahl Trophy Master (Germany – semi-automatic pistol – .45 ACP: Colt M1911 variant)
+ People's Republic of China State Arsenals
+ Submachine guns
+ Type 50 Submachine Gun (People's Republic of China – People's Republic of China State Arsenals – 1950 – submachine gun – 7.62×25mm Tokarev: Licensed copy of the Soviet PPSh-41 submachine gun. Used by Chinese and North Korean troops during the Korean War, and North Vietnamese troops during the early stages of the Vietnam War.)
+ Pfeifer Waffen
+ Revolvers
+ Pfeifer Zeliska .600 Nitro Express Revolver (Republic of Austria – single-action revolver – .600 Nitro Express)
+ PGM Précision
+ Rifles
+ PGM Hécate II (France – bolt-action anti-materiel rifle – .50 BMG)
+ PGM Ultima Ratio (France – bolt-action sniper rifle – 7.62×51mm NATO)
+ PGM Ultima Ratio Commando (France – bolt-action sniper rifle – 7.62×51mm NATO, 7mm-08 Remington)
+ PGM Ultima Ratio Commando I (France – bolt-action sniper rifle – 7.62×51mm NATO, 7mm-08 Remington)
+ PGM Ultima Ratio Commando II (France – bolt-action sniper rifle – 7.62×51mm NATO, 7mm-08 Remington)
+ PGM Ultima Ratio Integral Silencieux (France – integrally suppressed bolt-action sniper rifle – 7.62×51mm NATO, .300 Savage)
+ PGM Ultima Ratio Intervention (France – bolt-action sniper rifle – 6.5×47mm Lapua, 7.62×51mm NATO, 7mm-08 Remington, .260 Remington, .300 Savage)
+ P.G.W. Arms
+ P.G.W. carbine (US – carbine – .45 ACP)
+ Phoenix Arms
+ Pistols
+ Phoenix Arms HP22A (US – subcompact semi-automatic pistol – .22 long rifle)
+ Phoenix Arms HP25A (US – subcompact semi-automatic pistol – .25 ACP)
+ PT PINDAD
+ Rifles
+ Pindad SPR (Republic of Indonesia – single-shot bolt-action sniper rifle – 7.62×51mm NATO)
+ Pindad SPR-1 (Republic of Indonesia – single-shot bolt-action sniper rifle – 7.62×51mm NATO)
+ Pindad SPR-3 (Republic of Indonesia – bolt-action sniper rifle – 7.62×51mm NATO)
+ Pindad SPR-4 (Republic of Indonesia – bolt-action sniper rifle – .388 Lapua)
+ Pindad SPR-2 (Republic of Indonesia – bolt-action anti-materiel rifle – .50 BMG)
+ Pindad SS1 (Indonesia – assault rifle – 5.56×45mm NATO)
+ Pindad Sabhara (Republic of Indonesia – assault rifle – 7.62×45mm)
+ Pindad Sabhara V1 (Republic of Indonesia – assault rifle – 7.62×45mm)
+ Pindad Sabhara V2 (Republic of Indonesia – assault rifle – 7.62×45mm)
+ Pindad SS1-M (Republic of Indonesia – assault rifle – 5.56×45mm NATO)
+ Pindad SS1-M1 (Republic of Indonesia – assault rifle – 5.56×45mm NATO)
+ Pindad SS1-M2 (Republic of Indonesia – carbine – 5.56×45mm NATO)
+ Pindad SS1-M5 Commando (Republic of Indonesia – compact assault rifle – 5.56×45mm NATO)
+ Pindad SS1-V1 (Republic of Indonesia – assault rifle – 5.56×45mm NATO)
+ Pindad SS1-V2 (Republic of Indonesia – carbine – 5.56×45mm NATO)
+ Pindad SS1-V3 (Republic of Indonesia – assault rifle – 5.56×45mm NATO)
+ Pindad SS1-V4 (Republic of Indonesia – designated marksman rifle – 5.56×45mm NATO)
+ Pindad SS1-V5 (Republic of Indonesia – compact assault rifle – 5.56×45mm NATO)
+ Pindad SBC-1 (Republic of Indonesia – compact semi-automatic rifle – 5.56×45mm NATO)
+ Pindad SS1-R5 Raider (Republic of Indonesia – compact assault rifle – 5.56×45mm NATO)
+ Pindad SS2 (Republic of Indonesia – assault rifle – 5.56×45mm NATO)
+ Pindad SS2-V1 (Republic of Indonesia – assault rifle – 5.56×45mm NATO)
+ Pindad SS2-V2 (Republic of Indonesia – carbine – 5.56×45mm NATO)
+ Pindad SS2-V2 A1 (Republic of Indonesia – carbine – 5.56×45mm NATO)
+ Pindad SS2-V3 (Republic of Indonesia – assault rifle – 5.56×45mm NATO: prototype)
+ Pindad SS2-V4 (Republic of Indonesia – assault rifle – 5.56×45mm NATO)
+ Pindad SS2-V5 (Republic of Indonesia – compact assault rifle – 5.56×45mm NATO)
+ Pindad SS2-V5A1 (Republic of Indonesia – compact assault rifle – 5.56×45mm NATO)
+ Pindad SS2-V5C (Republic of Indonesia – compact assault rifle – 5.56×45mm NATO)
+ Pindad SS3 (Republic of Indonesia – battle rifle – 7.62×51mm NATO)
+ Pindad SS4 (Republic of Indonesia – assault rifle – 5.56×45mm NATO: prototype)
+ Pistols
+ Pindad P2 (Republic of Indonesia – semi-automatic pistol – 9×19mm)
+ Pindad P3 (Republic of Indonesia – combat pistol – .32 ACP)
+ Pindad G2 (Republic of Indonesia – semi-automatic pistol – 9×19mm)
+ Submachine gun
+ Pindad PM1 (Republic of Indonesia – submachine gun – 9×19mm)
+ Pindad PM2 (Republic of Indonesia – submachine gun – 9×19mm)
+ Pindad PM-3 (Republic of Indonesia – submachine gun – 9×19mm)
+ PK Machine Gun (Soviet Union – general-purpose machine gun – 7.62×54mmR)
+ PKM (Soviet Union – general-purpose machine gun – 7.62×54mmR)
+ PKMS (Soviet Union – tripod-mounted general-purpose machine gun – 7.62×54mmR)
+ PKMSN (Soviet Union – tripod-mounted general-purpose machine gun – 7.62×54mmR)
+ PKMSN1 (Soviet Union – tripod-mounted general-purpose machine gun – 7.62×54mmR)
+ PKMSN2 (Soviet Union – Tripod-mounted general-purpose machine gun – 7.62×54mmR)
+ PKP (Russian Federation – general-purpose machine gun – 7.62×54mmR)
+ PKP-2 (Russian Federation – general-purpose machine gun – 7.62×54mmR: prototype)
+ PKSMN (Soviet Union – general-purpose machine gun – 7.62×54mmR)
+ PKT (Soviet Union – Vehicle-mounted general-purpose machine gun – 7.62×54mmR)
+ Police Automatic Weapons Systems
+ PAWS ZX-5 (US – submachine gun – 9×19mm Parabellum)
+ PAWS ZX-6 (US – submachine gun – 9×19mm Parabellum)
+ PAWS ZX-7 (US – submachine gun – .45 ACP)
+ PAWS ZX-8 (US – submachine gun – .45 ACP)
+ Poly Technologies
+ Rifles
+ Poly Technologies AK-47 (China, Soviet Union – semi-automatic rifle – 7.62×39mm: AK-47 variant)
+ Poly Technologies AKS (China, Soviet Union – semi-automatic rifle – 7.62×39mm: AKS variant)
+ Poly Technologies Legend Rifle (China, Soviet Union – semi-automatic rifle – 7.62×39mm: AK-47 variant)
+ Poly Technologies Legend AK-47S (China, Soviet Union – semi-automatic rifle – 7.62×39mm: AK-47 variant)
+ Poly Technologies Legend National Match (China, Soviet Union – semi-automatic rifle – 7.62×39mm: AK-47 variant)
+ PPD Submachine Gun (Soviet Union – submachine gun – 7.62×25mm Tokarev)
+ PPD-34 (Soviet Union – submachine gun – 7.62×25mm Tokarev)
+ PPD-34/38 (Soviet Union – submachine gun – 7.62×25mm Tokarev)
+ PPD-40 (Soviet Union – submachine gun – 7.62×25mm Tokarev)
+ PPS Submachine Gun (Soviet Union – submachine gun – 7.62×25mm Tokarev)
+ PPS-42 (Soviet Union – submachine gun – 7.62×25mm Tokarev)
+ PPS-43 (Soviet Union – submachine gun – 7.62×25mm Tokarev)
+ PPSh-41 (Soviet Union – submachine gun – 7.62×25mm Tokarev)
+ PPZh-05 (Kazakhstan – submachine gun – 9mm caseless)
+ Prado machine gun (Argentina – machine gun – 7.65×53mm Argentine)
+ Prilutsky M1914 (Russian Empire – automatic pistol – 9×19mm Parabellum)
+ Profense LLC
+ Profense PF556 (US – light machine gun – 5.56×45mm NATO)
+ Professional Ordnance
+ Rifles
+ Professional Ordnance Carbon-15 (US – subcompact assault rifle – 5.56×45mm NATO)
+ Professional Ordnance Carbon-15 Pistol (US – subcompact semi-automatic rifle – 5.56×45mm NATO)
+ Professional Ordnance Carbon-15 Type 97 (US – subcompact semi-automatic rifle – 5.56×45mm NATO)
+ PTR 91, Inc.
+ Rifles
+ PTR-91 (US, Germany – semi-automatic rifle – 7.62×51mm NATO)
+ PTR-32 (US – semi-automatic rifle – 7.62×39mm)
+ PTR-91 Carbine (US – semi-automatic carbine – 7.62×51mm NATO)
+ PTR 91F (US – semi-automatic rifle – 7.62×51mm NATO)
+ PTR-91F Carbine (US, Germany – semi-automatic carbine – 7.62×51mm NATO)
+ PTR-91KPF (US, Germany – semi-automatic carbine – 7.62×51mm NATO)
+ Punta Alta
+ Pistola Punta Alta (semi-automatic pistol - .22LR)
+
+R
+Main article: List of firearms (R)
+
+ RPD (Soviet Union – 1943 – light machine gun, 7.62×39mm)
+ RPG-7 (Soviet Union – 1958 – rocket-propelled grenade launcher: portable, reusable, unguided, shoulder-launched, anti-tank)
+
+S
+Main article: List of firearms (S)
+
+ Shooters Arms Manufacturing
+ Shooters Arms X9
+ Steyr Arms
+ Hunting
+ Monobloc (Austria – 2019 – carbine – 30-06 spr, 270 win, 308 win)
+ Breeze (Austria – 2010s~ – carbine – 308 win, 6,5 creedmoore)
+ SM12 (Austria – 2010s~ – carbine – .270 Win, .243 Win, .300 Win Mag, .30-06 Spr., 9.3 x 62, 7 mm Rem Mag, 7 x 64, ...)
+ SM12 SX (Austria – 2010s~ – carbine – .270 Win, .243 Win, .300 Win Mag, .30-06 Spr., 9.3 x 62, 7 mm Rem Mag, 7 x 64, ...)
+ CL II (Austria – 2010s~ – carbine – .270 Win, .243 Win, .300 Win Mag, 9.3 x 62, 7 mm Rem Mag, 7 x 64, ...)
+ CL II SX (Austria – 2010s~ – carbine – .270 Win, .243 Win, .300 Win Mag, 9.3 x 62, 7 mm Rem Mag, 7 x 64, ...)
+ Scout (Austria – 2010s~ – carbine – 308 win, .243 Win, 7 mm -08)
+ Scout RFR (Austria – 2010s~ – carbine – 308 win, .243 Win, 7 mm -08)
+ Pro Varmint (Austria – 2010s~ – carbine – 308 win, .243 win, .222 win)
+ THB (Austria – 2010s~ – carbine – 308 win, 6,5 creedmoore)
+ Zephyr II (Austria – 2010s~ – carbine – 22 Lr, 17 Hmr, 22 Magnum)
+ LEAD FREE (Austria – 2010s~ – carbine – .30-06 Spr. and .300 Win.)
+ Steyr Custom (Austria – 2010s~ – carbine – several)
+ Rifles
+ SSG M1 (Austria – 2010s – precision rifle – .338 Lapua)
+ SSG 08 A1 (Austria – 2010s – precision rifle – 308 win)
+ SSG 08 (Austria – 2010s – precision rifle – 300 win)
+ SSG 69 (Austria – 2010s – precision carbine – .243 win)
+ SSG SX (Austria – 2010s – precision carbine – 308 win)
+ Elite (Austria – 2010s – precision carbine – 308 win)
+ Elite 08 (Austria – 2010s – precision rifle – 308 win)
+ HS .50 M1 (Austria – 2010s – precision rifle – .50 BMG)
+ AUG A1 (Austria – 1981 – assault rifle – 5.56×45mm OTAN)
+ AUG A2 (Austria – assault rifle – 5.56×45mm OTAN)
+ AUG A3 (Austria – assault rifle – 5.56×45mm OTAN)
+ AUG SA (Austria – rifle – .50 BMG)
+ AUG Para/SMG (Austria – assault rifle – 5.56×45mm OTAN)
+ AUG P (Austria – assault rifle – 5.56×45mm OTAN)
+ AUG HBAR (Austria – assault rifle – 5.56×45mm OTAN)
+ AUG Sniper (Austria – precision rifle)
+ ACR (Austria – 1989 – assault rifle – 5.56×45mm OTAN)
+ STM 556 (Austria – 2012 – assault rifle – 5.56×45mm NATO, .223 Remington)
+ Mannlicher-Schönauer (Austria – 1903 – rotary magazine bolt action rifle – 6.5 mm × 54 Mannlicher-Schönauer)
+ Mannlicher M1885 (Austria – 1885 – semi-auto rifle – 11×58mm, 8×52mm)
+ Mannlicher M1893 auto rifle (Austria – 1893 – auto rifle – 6.5×53mm, 8×50mm Mannlicher, .22 long rifle)
+ Rheinmetall Steyr RS556 (Austria – 2016 – assault rifle – 5.56×45mm OTAN)
+ Submachine Guns
+ Sturmpistole M.18 (Austria – 1914/1918 – submachine gun – 9 mm)
+ Solothurn S1-100 (Austria – 1929 – submachine gun – 9 × 19 mm)
+ Solothurn S17-100 (Austria – 1930 – submachine gun – 9×25mm Mauser)
+ MPi 69 (Austria – 1969 – submachine gun – 9×19mm Parabellum)
+ TMP (Austria – 1969 – tactical machine pistol – 9×19mm Parabellum)
+ Machine Guns
+ Odkolek M1899 (Austria – 1885 – machine gun – 11×58mm, 8×52mm)
+ Solothurn S2-200 (Austria – 1931 – machine gun – 7.92×57mm Mauser, 8×56mmR, 7×57mm Mauser)
+ Solothurn S3-200 (Austria – machine gun – 7.92 mm)
+ MG74
+ Anti-Tank Rifles
+ IWS 2000 (Austria – anti-material rifle – 15.2×169mm APFSDS)
+ Solothurn S18-100 (Austria – 1934 – anti-material rifle – 20 mm)
+ AMR 5075 (Austria – 1990 – anti-material rifle – 15.2×169mm APFSDS)
+ Pistols
+ Pistol A2 MF
+ Werndl-Holub M1867
+ Laumann 1891
+ Steyr-Mannlicher M1894 (Austria – 1894 – pistol – 6.5×23mm, 7.6×24mm)
+ Schönberger-Laumann
+ Mannlicher M1901
+ Roth-Steyr M1907
+ Steyr M1912
+ SP
+ SPP
+ GB
+ M9
+ Pistol A2 MF
+ Machine pistol
+ Sten submachine gun
+
+T
+Main article: List of firearms (T)
+
+ T23 machine gun (United States - general purpose machine gun - .30-06: prototype)
+ T24 machine gun (United States - general purpose machine gun - .30-06: prototype)
+ T29 carbine (United States - carbine - .30 carbine)
+ T134E1 (United States - rocket launcher)
+ T168 (United States - autocannon - 30x120mmRB T268: prototype)
+ T212 (United States – autocannon – 30mm : prototype)
+ Tanegashima (Ashikaga Shogunate, Kingdom of Portugal and the Algarves – 1543 – Matchlock Arquebus – various)
+ Tango 51 (United States – unknown – bolt-action sniper rifle – 7.62×51mm NATO, .308 Winchester)
+ Kbk wz. 1988 Tantal (Republic of Poland – 1988 – assault rifle – 5.45×39mm)
+ Testa pistol (United States - pistol)
+ Thales Australia
+ Thales ACAR 556 (Australia - assault rifle - 5.56×45mm NATO/.300 Blackout)
+ Thales ACAR 762 (Australia - battle rifle - 7.62×51mm NATO)
+ Theodor Bergmann
+ Pistols
+ Bergmann 1896 (German Empire – 1896 – semi-automatic pistol – 5mm Bergmann, 6.5mm Bergmann, 8×22mm Bergmann)
+ Bergmann–Bayard pistol (German Empire, Belgium – 1901 – semi-automatic pistol – 9×23mm Largo)
+ Bergman-Bayard .45 (German Empire, Belgium – 1901 – semi-automatic pistol – .45 ACP: prototype)
+ Bergmann–Bayard Model 1903 (German Empire, Belgium – 1903 – semi-automatic pistol – 9×23mm Largo)
+ Bergmann–Bayard Model 1908 (German Empire, Belgium – 1908 – semi-automatic pistol – 9×23mm Largo)
+ Bergmann–Bayard Model 1910 (German Empire, Belgium – 1910 – semi-automatic pistol – 9×23mm Largo)
+ Bergmann–Bayard Model 1910/21 (German Empire, Belgium – 1910 – semi-automatic pistol – 9×23mm Largo)
+ Bergmann Mars (German Empire, Belgium – 1900s – semi-automatic pistol – 9×23mm Bergmann–Bayard)
+ Bergmann Simplex (German Empire – early 1900s – semi-automatic pistol – 8mm Bergmann-Simplex)
+ Submachine guns
+ Bergmann MP18 (German Empire – 1918 – submachine gun – 9×19mm Parabellum)
+ Bergmann MP28 (German Empire – 1928 – submachine gun – 9×23mm Largo)
+ Tikka Master (M595/M695) (United States – unknown – bolt-action rifle – .308 Winchester)
+ Tikka Sporter (United States – unknown – bolt-action rifle – .308 Winchester)
+ TKB-011 (Soviet Union – 1963 – assault rifle – 7.62×39mm: prototype)
+ TKB-011M (Soviet Union – 1964 – assault rifle – 7.62×39mm: prototype)
+ TKB-011 2M (Soviet Union – 1965 – assault rifle – 7.62×39mm: prototype)
+ TKB-022PM (Soviet Union – 1962 – assault rifle – 7.62×39mm: prototype)
+ TKB-022PM No. 1 (Soviet Union – 1962 – assault rifle – 7.62×39mm: prototype)
+ TKB-022PM No. 2 (Soviet Union – 1965 – assault rifle – 7.62×39mm: prototype)
+ TKB-022PM5 No. 1 (Soviet Union – 1968 – assault rifle – .220 Russian: prototype)
+ TKB-0105
+ TKB-408 (Soviet Union – 1946 – Bullpup assault rifle – 7.62×39mm: prototype)
+ TKB-415 (Soviet Union – unknown – assault rifle – 7.62×39mm: prototype)
+ TKB-532 (Soviet Union – autocannon – 23x115mm: prototype)
+ TKB-539 (Soviet Union – autocannon – 30x210mm: prototype)
+ TKB-577
+ TKB-579 (Soviet Union – unknown – battle rifle – 7.62×54mmR: prototype)
+ TKB-644 (Soviet Union – autocannon – 30x mm: prototype)
+ TKB-686
+ TKB-700 (Soviet Union – autocannon – 45x mm: prototype)
+ TKB-701
+ TKB-776 (Soviet Union – autocannon – 57x mm: prototype)
+ TNI Sten (Indonesia - submachine gun - 9×19mm Parabellum)
+ Tokyo Arsenal
+ Submachine guns
+ Tokyo Arsenal Model 1927 (Empire of Japan – submachine gun – 8×22mm Nambu)
+ TP-82 Cosmonaut survival pistol (Soviet Union – 1986 – combination gun – 5.45×39mm, 12.5×70mm shotgun shell)
+ Trabzon Silah Sanayi AŞ
+ Pistols
+ Zigana C45 (Republic of Turkey – 2006 – semi-automatic pistol – .45 ACP: Turkey's first .45 caliber pistol)
+ Zigana T (Republic of Turkey – 2003 – semi-automatic pistol – 9×19mm Parabellum)
+ Trejo pistol (Mexico – machine pistol – .22 LR / .32 ACP / .380 ACP)
+ Tressitu TZ99
+ Truvelo Armory
+ Truvelo Armoury SG1 (South Africa – sniper rifle – 7.62×51mm NATO)
+ Truvelo Raptor (South Africa – assault rifle – 5.56×45mm NATO / 7.62×39mm M43)
+ Truvelo 20 × 110 mm (South Africa – Anti-materiel rifle – 20 × 110 mm Hispano)
+ TsKIB SOO
+ OTs-28 (ОЦ-28) (Russia)
+ OTs-39 (ОЦ-39) (Russia – submachine gun – 7.62×25mm)
+ TSNIITOCHMASH AO-63 (Russia – assault rifle – 5.45 × 39 mm)
+ TSNIITOCHMASH 6P35
+ TSNIITOCHMASH SR2
+ TSV carbine (South Africa – submachine gun – 9×19mm Parabellum)
+ Tubb 2000
+ TuF (Germany – heavy machine gun – 13mm)
+ Tula Arms Plant
+ Pistols
+ APS (Soviet Union – machine pistol – 9×18mm Makarov)
+ TKB-506 (Soviet Union – 1955 – assassination device – 7.62mm SP2)
+ TKB-506A (Soviet Union – 1955 – assassination device – 7.62mm SP2)
+ Tokarev TT30 (Soviet Union – 1930 – semi-automatic pistol – 7.62×25mm Tokarev)
+ Tokarev TT33 (Soviet Union – 1933 – semi-automatic pistol – 7.62×25mm Tokarev)
+ Tokarev Sportowy .22 LR (Soviet Union – unknown – semi-automatic training pistol – .22 long rifle)
+ Rifles
+ APS Underwater Assault Rifle (Soviet Union – underwater assault rifle – 5.66×29mm MPS)
+ AS Val (Soviet Union – integrally suppressed assault rifle – 9×39mm)
+ SR-3 Vikhr (Russian Federation – compact assault rifle – 9×39mm)
+ SR-3M (Russian Federation – compact assault rifle – 9×39mm)
+ VSS Vintorez (Russian Federation – compact sniper rifle – 9×39mm)
+ TKB-009 (Soviet Union – unknown – carbine – 5.45×39mm: prototype)
+ TKB-010 (Soviet Union – unknown – carbine – 7.62×39mm: prototype)
+ TKB-059 (Soviet Union – 1962 – assault rifle – 7.62×39mm: prototype)
+ TKB-072 (Soviet Union – 1975 – assault rifle – 5.45×39: prototype)
+ TKB-340 (Soviet Union – unknown – submachine gun – 7.62×25mm: prototype)
+ TKB-342 (Soviet Union – unknown – submachine gun – 7.62×25mm: prototype)
+ TKB-517 (Soviet Union – 1952 – assault rifle – 7.62×39mm: prototype)
+ TKB-454 (Soviet Union – 1952 – assault rifle – 7.62×39mm: prototype)
+ TKB-516 (Soviet Union – 1952 – squad automatic weapon – 7.62×39mm: prototype)
+ TKB-523 (Soviet Union – 1952 – squad automatic weapon – 7.62×39mm: prototype)
+ VSS Vintorez (Soviet Union – 1987 – semi-automatic sniper rifle – 9×39mm)
+ TUMA MTE 5.56 × 23.5 (Swiss Confederation – unknown – machine pistol – 5.56×23.5mm)
+ TUMA VA-PDW (Swiss Confederation – unknown – personal defense weapon – 5.56×23.5mm)
+ TVGK (Ukraine – assault rifle with grenade launcher – 4.92×34mm / 20mm grenade)
+ Twin Bren (People's Republic of China – 1950s – anti-aircraft machine gun – 7.62×39mm)
+ Type 11 (Federal Republic of Germany, Kingdom of Thailand – 1963 – assault rifle – 5.56×45mm NATO)
+ Type 11 Bullpup Variant (Federal Republic of Germany, Kingdom of Thailand – 1963 – assault rifle – 5.56×45mm NATO)
+ Type 73 (Democratic People's Republic of Korea – 2002 – light machine gun – 7.62×54mmR)
+ Type 80 machine pistol (Thailand - machine pistol - 9×23mm Largo)
+ Type 89 Light Machine Gun (Empire of Japan – 1929 – light machine gun – 7.7×58mm Arisaka SR)
+ Type 99 Light Machine Gun (Empire of Japan – 1939 – light machine gun – 7.7×58mm Arisaka)
+ Type 99 Paratrooper Variant (Empire of Japan – 1939 – light machine gun – 7.7×58mm Arisaka)
+ Type 100 Machine Gun (Empire of Japan – 1939–1945 – machine gun – 7.7×58mm Arisaka)
+ Type 1 Machine Gun (Empire of Japan – 1939–1945 – machine gun – 7.7×58mm Arisaka)
+ Type 100 Submachine gun (Empire of Japan – 1942 – submachine gun – 8×22mm Nambu)
+ Type 100/40 (Empire of Japan – 1942 – submachine gun – 8×22mm Nambu)
+ Type 100/44 (Empire of Japan – 1944 – submachine gun – 8×22mm Nambu)
+
+U
+
+ U.S. Ordnance
+ Machine guns
+ M60 (United States – 1957 – general-purpose machine gun – 7.62×51mm NATO)
+ T52 (United States – late 1940s to 1957 – general-purpose machine gun – 7.62×51mm NATO: prototype)
+ T161 (United States – late 1940s to 1957 – general-purpose machine gun – 7.62×51mm NATO: prototype)
+ T161E3 (United States – late 1940s to 1957 – general-purpose machine gun – 7.62×51mm NATO: prototype)
+ M60B (United States – 1960s – general-purpose machine gun – 7.62×51mm NATO)
+ M60D (United States – unknown date – vehicle-mounted general-purpose machine gun – 7.62×51mm NATO)
+ M60C (United States – unknown date – Aircraft-mounted general-purpose machine gun – 7.62×51mm NATO)
+ M60E1 (United States – unknown date – general-purpose machine gun – 7.62×51mm NATO: prototype)
+ M60E2 (United States – 1970s – Vehicle-mounted general-purpose machine gun – 7.62×51mm NATO)
+ M60E3 (United States – 1986 – general-purpose machine gun – 7.62×51mm NATO)
+ M60E4 a.k.a. Mk 43 Mod 0 (United States – late 1990s – general-purpose machine gun – 7.62×51mm NATO)
+ M60E6 (United States – 2014 – general-purpose machine gun – 7.62×51mm NATO)
+ Union Firearms Company
+ Revolvers
+ Union Automatic Revolver (United States – 1909 – double-action revolver – .32 S&W)
+ United Defense Supply Corporation
+ Submachine guns
+ M42 (United States – 1942 – submachine gun – 9×19mm Parabellum)
+ M42 Prototype (United States – 1942 – submachine gun – 9×19mm Parabellum, .45 ACP: prototype)
+ Universal M1 Carbine (United States – unknown date – semi-automatic carbine – .30 carbine)
+
+V
+
+ VAHAN (Armenia – 1992 – assault rifle – 5.45×39mm)
+ Valmet
+ Rifles
+ Valmet M62 (Republic of Finland – 1962 – assault rifle – 7.62×39mm)
+ Valmet M60 (Republic of Finland – 1960 – assault rifle – 7.62×39mm)
+ Valmet M62S (Republic of Finland – 1962 – semi-automatic rifle – 7.62×39mm)
+ Valmet Petra (Republic of Finland – unknown date – semi-automatic rifle – .243 Winchester, .308 Winchester, .30-06 Springfield, 9.3×62mm)
+ Valmet M71S (Republic of Finland – 1971 – semi-automatic rifle – .223 Remington, 5.56×45mm NATO)
+ Valmet M76 (Republic of Finland – 1976 – assault rifle – 5.56×45mm NATO, 7.62×39mm, 7.62×51mm NATO)
+ Valmet M78 (Republic of Finland – 1978 – squad automatic weapon – 5.56×45mm NATO, 7.62×39mm, 7.62×51mm NATO)
+ Valmet M78/83S (Republic of Finland – 1983 – squad automatic weapon – 5.56×45mm NATO, 7.62×39mm, 7.62×51mm NATO)
+ Valmet M82 (Republic of Finland – 1978 – assault rifle – 5.56×45mm NATO, 7.62×39mm)
+ Valtion Kivääritehdas
+ Machine guns
+ Lahti-Saloranta M/26 (Republic of Finland – 1925 – light machine gun – 7.62×53mmR)
+ Lahti-Saloranta M/26-31 (Republic of Finland – 1931 – light machine gun – 7.62×53mmR)
+ Rifles
+ Lahti L-39 (Republic of Finland – semi-automatic anti-tank rifle – 20×138mmB)
+ Lahti L-39/44 (Republic of Finland – automatic anti-aircraft rifle – 20×138mmB)
+ Submachine guns
+ Lahti-KP M-22 Prototype (Republic of Finland – submachine gun – 9×19mm Parabellum: prototype)
+ Lahti AL-43 (Republic of Finland – Aimo Lahti – 1943 – submachine gun – 7.62×35mm Lahti, 9×35mm Lahti: Experimental Finnish submachine gun chambered in 9×35mm Lahti. Later variants were chambered in 7.62×35mm Lahti. Never adopted by any military. Prototypes only.)
+ Valtro
+ Shotguns
+ Valtro PM5 (Italian Republic – 1980s – pump-action shotgun – 12 gauge)
+ Van Niekirk machine gun (Orange Free State - machine gun)
+ Våpensmia A/S
+ Rifles
+ Våpensmia NM149 (Kingdom of Norway – 1985 – bolt-action sniper rifle – 7.62×51mm NATO)
+ Våpensmia NM149-F1 (Kingdom of Norway – unknown date – bolt-action sniper rifle – 7.62×51mm NATO)
+ Varan
+ Pistols
+ Varan PMX-80 (Republic of South Africa – 1980 – semi-automatic pistol – 9×19mm Parabellum)
+ VB Berapi
+ Pistols
+ VB Berapi LP01 (Malaysia – unknown date – machine pistol – 9×19mm Parabellum)
+ Rifles
+ VB Berapi LP05 (Malaysia – unknown date – bolt-action anti-materiel rifle – .50 BMG)
+ VB Berapi LP06 (Malaysia – 2006 – assault rifle – 5.56×45mm NATO: prototype)
+ Submachine guns
+ VB Berapi LP02 (Malaysia – unknown date – submachine gun – 9×19mm Parabellum)
+ VBR-Belgium
+ Personal defense weapons
+ VBR-Belgium PDW (Kingdom of Belgium – 2002 – personal defense weapon – 7.92×24mm VBR-B)
+ Rifles
+ CAR-223 (Kingdom of Belgium – 1990 – assault rifle – .223 Remington)
+ M.G.91 (Kingdom of Belgium – 1991 – carbine – .223 Remington)
+ Submachine guns
+ CASMG (Kingdom of Belgium – 1991 – submachine gun – unknown caseless round)
+ VEB (German Democratic Republic – 1976 – machine pistol – 7.62×23mm Mauser, 9×18mm Makarov)
+ Vepr (Ukraine – 2003 – assault rifle – 5.45×39mm)
+ Vickers-Armstrongs Ltd.
+ Machine guns Vickers_.50_machine_gun Vickers_machine_gun Vickers_K_machine_gun
+ Vickers K (United Kingdom – 1935 – Aircraft-mounted light machine gun – .303 British)
+ Vickers K G.O. No. I Mk. I (United Kingdom – 1935 – Aircraft-mounted light machine gun – .303 British)
+ Vickers K G.O. No. I Mk. I Land Service (United Kingdom – 1944 – light machine gun – .303 British)
+ Vickers K G.O. No. II Mk. I (United Kingdom – unknown date – Vehicle-mounted light machine gun – .303 British)
+ Vickers Medium Machine Gun (United Kingdom – 1912 – medium machine gun – .303 British)
+ Vickers .50 Machine Gun (United Kingdom – 1932 – medium machine gun – 12.7×81mm)
+ Vickers .50 Machine Gun Mk. I (United Kingdom – 1932 – heavy machine gun – 12.7×81mm)
+ Vickers .50 Machine Gun Mk. II (United Kingdom – 1933 – Tank-mounted heavy machine gun – 12.7×81mm)
+ Vickers .50 Machine Gun Mk. IV (United Kingdom – unknown date – AFV-mounted heavy machine gun – 12.7×81mm)
+ Vickers .50 Machine Gun Mk. V (United Kingdom – unknown date – AFV-mounted heavy machine gun – 12.7×81mm)
+ Vickers .50 Machine Gun Mk. III (United Kingdom – unknown date – Ship-mounted anti-aircraft heavy machine gn – 12.7×81mm)
+ Vickers Medium Machine Gun Mk. I (United Kingdom – 1912 – medium machine gun – .303 British)
+ Vickers Medium Machine Gun Mk. II (United Kingdom – 1933 – Tank-mounted medium machine Gun – .303 British)
+ Vickers Medium Machine Gun Mk. IV (United Kingdom – unknown date – Tank-mounted medium machine gun – .303 British)
+ Vickers Medium Machine Gun Mk. V (United Kingdom – unknown date – Tank-mounted medium machine gun – .303 British)
+ Vickers Medium Machine Gun Mk. III (United Kingdom – 1920s – ship-mounted anti-aircraft medium machine gun – .303 British)
+ Vickers–Berthier (United Kingdom – 1932 – light machine gun – .303 British)
+ Vickers–Berthier Mk. 3 (United Kingdom – 1932 – light machine gun – .303 British)
+ Victor Sarasqueta
+ Submachine guns
+ STABLE/ARMU (Spain – 1953 – submachine gun / carbine – 9×19mm Parabellum, .30 Carbine)
+ Victory Arms, Ltd.
+ Pistols
+ Victory Arms MC5 (United Kingdom – unknown date – semi-automatic pistol – 9×19mm Parabellum, .38 Super Automatic, .40 S&W, 10mm Auto, .45 ACP
+ viper mk1
+ Vigilance Rifles, Inc.
+ Rifles
+ Vigilance Rifles M12 (United States – unknown date – bolt-action sniper rifle – .223 Remington, 7.62×51mm NATO, .308 Winchester: designed to be able to break down into a compact size within 30 seconds)
+ Vigilance Rifles M14 (United States – unknown date – semi-automatic anti-materiel rifle – .50 BMG: Certain parts are compatible with the AR-15.)
+ Vigilance Rifles VR1 (United States – unknown date – bolt-action sniper rifle – .408 Cheyenne Tactical: one of the few rifles that use the .408 Cheyenne Tactical rifle round)
+ Vigneron Submachine Gun (Kingdom of Belgium – 1953 – submachine gun – 9×19mm Parabellum)
+ Vigneron M1 (Kingdom of Belgium – 1953 – submachine gun – 9×19mm Parabellum)
+ Vigneron M2 (Kingdom of Belgium – 1953 – submachine gun – 9×19mm Parabellum)
+ Viking SMG (United States – early 1980s – submachine gun – 9×19mm Parabellum)
+ VMG-27 (Nazi Germany – 1927 – light machine gun – 7.92×57mm Mauser)
+ Voere
+ Rifles
+ LBW Standard (Republic of Austria – 2010s – hunting rifle – +10 different calibers)
+ LBW Luxus (Republic of Austria – 2010s – hunting rifle – +10 different calibers)
+ LBW Takedown (Republic of Austria – 2010s – hunting rifle – +30 different calibers)
+ LBW Stutzen (Republic of Austria – 2010s – hunting rifle – +30 different calibers)
+ LBW-M (Republic of Austria – 2010s – hunting rifle – +30 different calibers)
+ S16 (Republic of Austria – 2010s – hunting rifle – .223, 300 ACC Blackout)
+ Tirolerin (Republic of Austria – 2010s – hunting rifle – +10 different calibers)
+ 2155 (Republic of Austria – 2010s – hunting rifle – 9 different calibers)
+ 20165 (Republic of Austria – 2010s – hunting rifle – 9 different calibers)
+ Voere M2 (Republic of Austria – 2010s – SM rifle – 6 different calibers)
+ M2 Police edition (Republic of Austria – 2010s – SM rifle – 6 different calibers)
+ Voere X3 (Republic of Austria – 2010s – SM rifle – 8 different calibers)
+ Voere X4 (Republic of Austria – 2010s – SM rifle – 5 different calibers)
+ Voere X5 (Republic of Austria – 2010s – SM rifle – 5 different calibers)
+ Voere Victor 3 (Republic of Austria – 2010s – SM rifle – several calibers)
+ Voere Alpha 3 (Republic of Austria – 2010s – SM rifle – several calibers)
+ Voere K15A (Republic of Austria – 2010s – SM rifle – .22 lr.)
+ VEC-91 (Republic of Austria – 1991 – bolt-action rifle – 5.56mm Usel caseless cartridge, 5.7mm Usel caseless cartridge, 6mm Usel caseless cartridge)
+ Volcanic Repeating Arms
+ Rifles
+ Volcanic Rifle (United States – unknown date – lever-action rifle – .46 rimfire)
+ Volkswaffen
+ Machine guns
+ Volksmaschinengewehr (Nazi Germany – 1927 – light machine gun – 7.92×57mm Mauser)
+ Machine pistols
+ Volkspistole (Nazi Germany – 1944 – machine pistol – 9×19mm Parabellum)
+ Rifles
+ Volkssturmgewehr (Nazi Germany – 1944 – semi-automatic rifle – 7.92×33mm Kurz)
+ Volkssturmgewehr VG 1 (Nazi Germany – 1944 – semi-automatic rifle – 7.92×33mm Kurz)
+ Volkssturmgewehr VG 2 (Nazi Germany – 1944 – semi-automatic rifle – 7.92×33mm Kurz)
+ Volkssturmgewehr VG 5 (Nazi Germany – 1944 – semi-automatic rifle – 7.92×33mm Kurz)
+ Vulcan M-11-9 (United States – unknown date – machine pistol – 9×19mm Parabellum: MAC-10 variant)
+
+W
+
+ Waffenfabrik Bern
+ Rifles
+ Schmidt–Rubin M1889 (Swiss Confederation – 1889 – straight-pull bolt-action rifle – 7.5×53.5mm Swiss GP90)
+ Schmidt–Rubin M1889/96 (Swiss Confederation – 1896 – straight-pull bolt-action rifle – 7.5×53.5mm Swiss GP90, 7.5×53.5mm Swiss GP90/03, 7.5×54.5mm Swiss GP90/23)
+ Schmidt–Rubin M1896/11 (Swiss Confederation – 1907 – straight-pull bolt-action rifle – 7.5×53.5mm Swiss GP90, 7.5×53.5mm Swiss GP90/03, 7.5×54.5mm Swiss GP90/23)
+ Schmidt–Rubin M1911 (Swiss Confederation – 1911 – straight-pull bolt-action rifle – 7.5×55mm Swiss GP11)
+ Schmidt–Rubin M1911 Carbine (Swiss Confederation – 1911 – straight-pull bolt-action rifle – 7.5×55mm Swiss GP11)
+ K31 (Swiss Confederation – 1931 – straight-pull bolt-action carbine – 7.5×55mm Swiss GP11)
+ Sturmgewehr 52 (Swiss Confederation – 1952 – battle rifle – 7.5mm Kurzpatrone)
+ Sturmgewehr 54 (Swiss Confederation – 1954 – battle rifle – 7.5×55mm Swiss GP11)
+ Walther Arms
+ Pistols
+ Walther GSP (Federal Republic of Germany – 1968 – semi-automatic pistol – .22 long rifle)
+ Walther GSP 25 Jahre (Federal Republic of Germany – 1992 – semi-automatic pistol – .22 long rifle)
+ Walther GSP Atlanta (Federal Republic of Germany – 1996 – semi-automatic pistol – .22 long rifle)
+ Walther GSP Expert (Federal Republic of Germany – Late 1990s – semi-automatic pistol – .22 long rifle)
+ Walther GSP MV (Federal Republic of Germany – 1976 – semi-automatic pistol – .32 S&W Long)
+ Walther GSP-C (Federal Republic of Germany – 1968 – semi-automatic pistol – .32 S&W Long)
+ Walther Model 4 (Federal Republic of Germany – 1910 – semi-automatic pistol – .32 ACP)
+ Walther P5 (Federal Republic of Germany – 1977 – semi-automatic pistol – 7.65×21mm Parabellum, 9×19mm Parabellum, 9×21mm IMI)
+ Walther P5 Compact (Federal Republic of Germany – 1980s – compact semi-automatic pistol – 7.65×21mm Parabellum, 9×19mm Parabellum, 9×21mm IMI)
+ Walther P22 (Federal Republic of Germany – 2003 – semi-automatic pistol – .22 long rifle)
+ Walther P22 CA (Federal Republic of Germany – 2003 – semi-automatic pistol – .22 long rifle)
+ Walther P22 Target (Federal Republic of Germany – 2003 – semi-automatic pistol – .22 long rifle)
+ Walther P38 (Federal Republic of Germany – 1938 – semi-automatic pistol – 9×19mm Parabellum)
+ Walther HP (Federal Republic of Germany – 1938 – semi-automatic pistol – 7.65×21mm Parabellum, 9×19mm Parabellum)
+ Walther P1 (Federal Republic of Germany – 1954 – semi-automatic pistol – 9×19mm Parabellum)
+ Walther P4 (Federal Republic of Germany – Late 1970s – semi-automatic pistol – 9×19mm Parabellum)
+ Walther P38 SD (Federal Republic of Germany – 1938 – integrally suppressed semi-automatic pistol – 9×19mm Parabellum)
+ Walther P38K (Federal Republic of Germany – 1938 – compact semi-automatic pistol – 9×19mm Parabellum)
+ Walther P88 (Federal Republic of Germany – 1988 – semi-automatic pistol – .22 long rifle, 9×19mm Parabellum)
+ Walther P88 Champion (Federal Republic of Germany – 1988 – semi-automatic pistol – .22 long rifle, 9×19mm Parabellum)
+ Walther P88 Compact (Federal Republic of Germany – 1988 – compact semi-automatic pistol – .22 long rifle, 9×19mm Parabellum)
+ Walther P88 Sport (Federal Republic of Germany – 1988 – semi-automatic pistol – .22 long rifle, 9×19mm Parabellum)
+ Walther P99 (Federal Republic of Germany – 1997 – semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .40 S&W)
+ Walther P99 TA (Federal Republic of Germany – 2002 – semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .40 S&W)
+ Walther P99 Year 2000 (Federal Republic of Germany – 2000 – semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .40 S&W)
+ Walther P99AS (Federal Republic of Germany – 1997 – semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .40 S&W)
+ Walther P99c (Federal Republic of Germany – 1997 – compact semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .40 S&W)
+ Walther P99c AS (Federal Republic of Germany – 1997 – compact semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .40 S&W)
+ Walther P99c DAO (Federal Republic of Germany – 1997 – compact semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .40 S&W)
+ Walther P99c QA (Federal Republic of Germany – 2000 – compact semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .40 S&W)
+ Walther P99DAO (Federal Republic of Germany – 1997 – semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .40 S&W)
+ Walther P99Q (Federal Republic of Germany – 1997 – semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .40 S&W)
+ Walther P99QA (Federal Republic of Germany – 2000 – semi-automatic pistol – 9×19mm Parabellum, 9×21mm IMI, .40 S&W)
+ Walther PK380 (Federal Republic of Germany – 2009 – semi-automatic pistol – .380 ACP)
+ Walther PP (Federal Republic of Germany – 1929 – semi-automatic pistol – .32 ACP, .380 ACP)
+ Walther PP Super (Federal Republic of Germany – 1972 – semi-automatic pistol – 9×18mm Ultra)
+ Walther PPK (Federal Republic of Germany – 1931 – compact semi-automatic pistol – .32 ACP, .380 ACP)
+ Walther PPK-L (Federal Republic of Germany – 1950s – compact semi-automatic pistol – .22 long rifle, .32 ACP, .380 ACP)
+ Walther PPK/E (Federal Republic of Germany – 2000 – compact semi-automatic pistol – .22 long rifle, .32 ACP, .380 ACP)
+ Walther PPK/S (Federal Republic of Germany – 1945 – compact semi-automatic pistol – .22 long rifle, .32 ACP, .380 ACP)
+ Walther TPH (Federal Republic of Germany – 1968 – subcompact semi-automatic pistol – .22 long rifle, .25 ACP)
+ Rifles
+ Walther WA 2000 (Federal Republic of Germany – 1982 – semi-automatic sniper rifle – 7.5×55mm Swiss GP11, 7.62×51mm NATO, .300 Winchester Magnum)
+ Walther WA 2000 First Generation (Federal Republic of Germany – 1982 – semi-automatic sniper rifle – 7.5×55mm Swiss GP11, 7.62×51mm NATO, .300 Winchester Magnum)
+ Walther WA 2000 Second Generation (Federal Republic of Germany – 1982 – semi-automatic sniper rifle – 7.5×55mm Swiss GP11, 7.62×51mm NATO, .300 Winchester Magnum)
+ Submachine guns
+ Walther MPK (Federal Republic of Germany – 1963 – compact submachine gun – 9×19mm Parabellum)
+ Walther MPL (Federal Republic of Germany – 1963 – submachine gun – 9×19mm Parabellum)
+ Wanzl Infantry Rifle M1854/67 (Austrian Empire – 1867 – breech-loaded rifle – 14×33mmR)
+ Warwick Firearms
+ Warwick Firearms WFA1 (Australia – rifle – 5.56mm)
+ Weaver Arms
+ Weaver Arms Nighthawk (US – carbine – 9×19mm Parabellum)
+ Weaver Arms PKS-9 Ultralite (US – submachine gun –- 9×19mm Parabellum)
+ Webley
+ Revolvers
+ Webley Revolver (British Empire – 1887 – double-action revolver)
+ Webley Mk I (British Empire – 1887 – double-action revolver – .455 Webley)
+ Webley Mk I* (British Empire – 1887 – double-action revolver – .455 Webley)
+ Webley Mk II (British Empire – 1895 – double-action revolver – .455 Webley Mk I)
+ Webley Mk III (British Empire – 1897 – double-action revolver – .455 Webley Mk II)
+ Webley Mk IV (British Empire – 1899 – double-action revolver – .455 Webley Mk III)
+ Webley Mk IV .38/200 (British Empire – 1899 – double-action revolver – .38/200)
+ Webley Mk V (British Empire – 1912 – double-action revolver – .455 Webley Mk IV)
+ Webley Mk VI (British Empire – 1914 – double-action revolver – .455 Webley Mk V)
+ Weihrauch
+ Revolvers
+ Arminius HW-1 (Germany .22LR)
+ Arminius HW-3 (Germany .22LR)
+ Arminius HW-4 (Germany .22LR)
+ Arminius HW-5 (Germany .22LR)
+ Arminius HW-7 (Germany .22LR)
+ Arminius HW-9 (Germany .22LR)
+ Arminius HW-9ST (Germany .22LR)
+ Arminius HW-10 (Germany 9×19mm)
+ Arminius HW-357 (Germany .357)
+ Welrod (British Empire – early 1940s – integrally suppressed straight-pull bolt-
+
+action pistol – .32 ACP, 9×19mm Parabellum)
+
+ Wesco Ordnance
+ Wesco Mark IV (United States – semi-automatic carbine – 9×19mm Parabellum / .45 ACP)
+ Whitney Wolverine (United States – 1953 – semi-automatic pistol – .22 long rifle)
+ Wieger SSG-82 (German Democratic Republic – 1980s – bolt-action rifle – 5.45×39mm)
+ Wieger StG-940 (German Democratic Republic – 1980s – assault rifle – 5.56×45mm NATO)
+ Wieger StG-942 (German Democratic Republic – 1980s – assault rifle – 5.45×39mm)
+ Wildey (United States – 1970s – semi-automatic pistol – .357 Wildey Magnum, .44 Auto Mag, .45 Winchester Magnum, .41 Wildey Magnum, .44 Wildey Magnum, .45 Wildey Magnum, .475 Wildey Magnum)
+ Williams Gun (Confederate States of America – 1862 – Gatling gun – 1.57 Inch Cartridge)
+ Williams Machine Gun (United States – 1930s – medium machine gun – .22 long rifle)
+ Wimmersperg Spz (Nazi Germany – assault rifle – 7.92×33mm Kurz)
+ Spz-kr (Nazi Germany – carbine – 7.92×33mm Kurz: prototype)
+ Spz-kv (Nazi Germany – carbine – 7.92×33mm Kurz: prototype)
+ Spz-l (Nazi Germany – assault rifle – 7.92×33mm Kurz: prototype)
+ Winchester Repeating Arms Company
+ Rifles
+ Winchester Model 54 (United States – 1925 – bolt-action rifle – .22 Hornet, .220 Swift, .250–3000 Savage, .257 Roberts, .270 Winchester, 7×57mm Mauser, .30-30 Winchester, .30-06 Springfield, 7.65×53mm Argentine, 9×57mm Mauser: Special order chamberings were made in .25–35 Winchester, .32 Winchester Special, and .35 Whelen.)
+ Winchester Model 70 (United States – 1936 – bolt-action rifle – .22 Hornet, .222 Remington, .223 Remington, .22–250 Remington, .223 Winchester Super Short Magnum, .225 Winchester, .220 Swift, .243 Winchester, .243 Winchester Super Short Magnum, .250–3000 Savage, .257 Roberts, .25-06 Remington, .25 Winchester Super Short Magnum, 6.5×55mm, .264 Winchester Magnum, .270 Winchester, .270 Winchester Short Magnum, .270 Weatherby Magnum, 7mm-08 Remington, 7mm Shooting Times Westerner, .280 Remington, 7mm Remington Magnum, 7×57mm Mauser, 7mm Winchester Short Magnum, .300 Savage, .308 Winchester, .30-06 Springfield, .300 Winchester Short Magnum, .300 Winchester Magnum, .300 Weatherby Magnum, .300 Remington Ultra Magnum, .300 Holland & Holland Magnum, .325 Winchester Short Magnum, .338 Winchester Magnum, .35 Remington, .358 Winchester, .375 Holland & Holland Magnum, .416 Remington Magnum, .416 Rigby, .458 Winchester Magnum, .470 Capstick)
+ Winchester Model 70 Classic (United States – 1992 – bolt-action rifle – .22 Hornet, .222 Remington, .223 Remington, .22–250 Remington, .223 Winchester Super Short Magnum, .225 Winchester, .220 Swift, .243 Winchester, .243 Winchester Super Short Magnum, .250–3000 Savage, .257 Roberts, .25-06 Remington, .25 Winchester Super Short Magnum, 6.5×55mm, .264 Winchester Magnum, .270 Winchester, .270 Winchester Short Magnum, .270 Weatherby Magnum, 7mm-08 Remington, 7mm Shooting Times Westerner, .280 Remington, 7mm Remington Magnum, 7×57mm Mauser, 7mm Winchester Short Magnum, .300 Savage, .308 Winchester, .30-06 Springfield, .300 Winchester Short Magnum, .300 Winchester Magnum, .300 Weatherby Magnum, .300 Remington Ultra Magnum, .300 Holland & Holland Magnum, .325 Winchester Short Magnum, .338 Winchester Magnum, .35 Remington, .358 Winchester, .375 Holland & Holland Magnum, .416 Remington Magnum, .416 Rigby, .458 Winchester Magnum, .470 Capstick)
+ Winchester Model 70 Stealth (United States – 1936 – bolt-action rifle – .22 Hornet, .222 Remington, .223 Remington, .22–250 Remington, .223 Winchester Super Short Magnum, .225 Winchester, .220 Swift, .243 Winchester, .243 Winchester Super Short Magnum, .250–3000 Savage, .257 Roberts, .25-06 Remington, .25 Winchester Super Short Magnum, 6.5×55mm, .264 Winchester Magnum, .270 Winchester, .270 Winchester Short Magnum, .270 Weatherby Magnum, 7mm-08 Remington, 7mm Shooting Times Westerner, .280 Remington, 7mm Remington Magnum, 7×57mm Mauser, 7mm Winchester Short Magnum, .300 Savage, .308 Winchester, .30-06 Springfield, .300 Winchester Short Magnum, .300 Winchester Magnum, .300 Weatherby Magnum, .300 Remington Ultra Magnum, .300 Holland & Holland Magnum, .325 Winchester Short Magnum, .338 Winchester Magnum, .35 Remington, .358 Winchester, .375 Holland & Holland Magnum, .416 Remington Magnum, .416 Rigby, .458 Winchester Magnum, .470 Capstick)
+ Winchester Model 71 (United States – 1935 – lever-action rifle – .348 Winchester)
+ Winchester Model 121 (United States – 1967 – single-shot bolt-action rifle – .22 Short, .22 Long, .22 long rifle)
+ Winchester Model 121 Deluxe (United States – 1967 – single-shot bolt-action rifle – .22 Short, .22 Long, .22 long rifle)
+ Winchester Model 121 Youth (United States – 1967 – single-shot bolt-action rifle – .22 Short, .22 Long, .22 long rifle)
+ Winchester Model 1892 (United States – 1892 – lever-action rifle – .38–40 Winchester, .44-40 Winchester, .25-20 Winchester, .32-20 Winchester: Some models made from 1936 to 1938 were also chambered in .218 Bee)
+ Winchester Model 1894 (United States – 1894 – lever-action rifle – .30-30 Winchester Center Fire, .32–40 Ballard, .38–55 Winchester)
+ Winchester Model 1894 Mini-Musket (United States – 1894 – lever-action rifle – .30-30 Winchester Center Fire, .32–40 Ballard, .38–55 Winchester)
+ Winchester Model 1903 (United States – 1903 – semi-automatic rifle – .22 Winchester Automatic: comes in two models, Standard and Deluxe)
+ Winchester Model 63 (United States – 1933 – semi-automatic rifle – .22 Winchester Automatic, .22 long rifle: Redesigned Winchester Model 1903 chambered in .22 long rifle. Comes with 20" and 23" barrels.)
+ Winchester Model 63 20" Barrel (United States – 1933 – semi-automatic rifle – .22 Winchester Automatic, .22 long rifle: Production halted in 1936.)
+ Winchester Model 63 23" Barrel (United States – 1936 – semi-automatic rifle – .22 long rifle)
+ Winchester Model 1903 Deluxe (United States – 1903 – semi-automatic rifle – .22 Winchester Automatic: The Deluxe model featured a checkered walnut pistol grip stock with a checkered forearm. Held ten cartridges in a tubular magazine in the buttstock.)
+ Winchester Model 1903 Standard (United States – 1903 – Semi-automatic rifle – .22 Winchester Automatic: Standard model featured a plain walnut stock and plain straight grip.)
+ Winchester Model 1905 (United States – 1905 – semi-automatic rifle – .32 Winchester Self-Loading, .35 Winchester Self-Loading: came in two models, Plain Finish and Fancy Finish)
+ Winchester Model 1905 Fancy Finish (United States – 1905 – semi-automatic rifle – .32 Winchester Self-Loading, .35 Winchester Self-Loading: The Fancy Finish model featured a pistol grip stock with checkering on the forearm and wrist.)
+ Winchester Model 1905 Plain Finish (United States – 1905 – semi-automatic rifle – .32 Winchester Self-Loading, .35 Winchester Self-Loading)
+ Winchester Model 1907 (United States – 1907 – semi-automatic rifle – .351 Winchester Self-Loading: originally came in two models, Fancy Finish and Plain Finish)
+ Winchester Model 1907 Fancy Finish (United States – 1907 – semi-automatic rifle – .351 Winchester Self-Loading: The Fancy Finish model featured pistol grip stock with checkering on the forearm and wrist.)
+ Winchester Model 1907 Plain Finish (United States – 1907 – semi-automatic rifle – .351 Winchester Self-Loading)
+ Winchester Model 1907 Police Rifle (United States – 1935 – semi-automatic rifle – .351 Winchester Self-Loading: The Police Rifle model featured non-adjustable rear sights, sling swivels, a larger magazine release, and a special barrel measuring 5/8" at the muzzle, with an optional improvement that moved the rear sight dovetail 2 3/8" rearward and added a barrel sleeve with a Krag bayonet mount.)
+ Winchester Model 1910 (United States – 1910 – semi-automatic rifle – .401 Winchester Self-Loading: came in two models, Fancy Finish and Plain Finish)
+ Winchester Model 1910 Fancy Finish (United States – 1910 – semi-automatic rifle – .401 Winchester Self-Loading: The Fancy Finish model featured a pistol grip stock with checkering on the forearm and wrist.)
+ Winchester Model 1910 Plain Finish (United States – 1910 – semi-automatic rifle – .401 Winchester Self-Loading)
+ Shotguns
+ Winchester Model 1200 (United States – 1964 – pump-action shotgun – 20 gauge, 16 gauge, 12 gauge)
+ Winchester Model 120 (United States – 1964 – pump-action shotgun – 20 gauge, 16 gauge, 12 gauge)
+ Winchester Ranger Model 120 (United States – 1964 – pump-action shotgun – 20 gauge, 16 gauge, 12 gauge)
+ Winchester Model 1200 Defender (United States – 1964 – pump-action shotgun – 20 gauge, 16 gauge, 12 gauge)
+ Winchester Model 1200 Hunting (United States – 1964 – pump-action shotgun – 20 gauge, 16 gauge, 12 gauge)
+ Winchester Model 1200 Police (United States – 1964 – pump-action shotgun – 20 gauge, 16 gauge, 12 gauge)
+ Winchester Model 1200 Riot (United States – 1964 – pump-action shotgun – 20 gauge, 16 gauge, 12 gauge)
+ Winchester Model 1300 (United States – 1964 – pump-action shotgun – 20 gauge, 16 gauge, 12 gauge)
+ Winchester Model 1300 Defender (United States – 1964 – pump-action shotgun – 20 gauge, 16 gauge, 12 gauge)
+ Winchester Model 1300 Marine (United States – 1964 – pump-action shotgun – 20 gauge, 16 gauge, 12 gauge)
+ Winchester Model 2200 (United States – 1964 – pump-action shotgun – 20 gauge, 16 gauge, 12 gauge)
+ Winchester Model 1887 (United States – 1887 – Lever-action shotgun – 12 gauge, 10 Gauge)
+ Winchester Model 1901 (United States – 1901 – Lever-action shotgun – 10 Gauge)
+ Winchester Model 1897 (United States – 1897 – pump-action shotgun – 16 gauge, 12 gauge)
+ Winchester Model 1897 Brush (United States – 1897 – pump-action shotgun – 16 gauge, 12 gauge)
+ Winchester Model 1897 Brush Takedown (United States – 1897 – pump-action shotgun – 16 gauge, 12 gauge)
+ Winchester Model 1897 Pigeon (United States – 1897 – pump-action shotgun – 16 gauge, 12 gauge)
+ Winchester Model 1897 Riot (United States – 1898 – semi-compact pump-action shotgun – 16 gauge, 12 gauge)
+ Winchester Model 1897 Trench Gun (United States – 1917 – semi-compact pump-action shotgun – 16 gauge, 12 gauge)
+ Winchester Model 1897 Tournament (United States – 1910 – pump-action shotgun – 16 gauge, 12 gauge)
+ Winchester Model 1897 Trap (United States – 1897 – pump-action shotgun – 16 gauge, 12 gauge)
+ Winchester Olin FAL (United States – 1956 – double-barreled battle rifle – 5.56mm T65 Duplex: The Winchester Olin FAL was designed for the U.S. Army's Project SALVO in the 1950s. Prototypes only.)
+ WIST-94 (Republic of Poland – 1994 – semi-automatic pistol – 9×19mm Parabellum: designed to be a side-arm used by the Polish Armed Forces)
+ Wyoming Arms
+ Wyoming Arms Parker S.S. (United States – pistol – 10mm Auto)
+
+X
+
+ XM174 (United States – 1968 – Vehicle-mounted automatic grenade launcher – 40×46mm grenade: based on the Browning M1919A4 medium machine gun)
+ XM133 Minigun (US – machine gun – 7.62×51mm NATO: self-driven gas operated gatling gun)
+ XM556 (US – machine gun, 5.56×45mm NATO)
+ XT-97 Assault Rifle (Republic of China – 2008 – assault rifle – 9×19mm Parabellum, 5.56×45mm NATO: assault rifle intended to be used by the Republic of China Armed Forces; currently in development)
+ XM109 (US – 2004 – sniper rifle, 25×59mm)
+ XM7 rifle (US – 2019 – assault rifle, 6.8×51mm (.277 in): intended to replace the standard issue M4 rifle as of 2022)
+ XM250 (US – 2019 – light machine gun, 6.8×51mm (.277 in): intended to replace the standard issue M249 light machine gun as of 2022)
+ XM177 (US – 1966 – assault rifle carbine, 5.56×45mm NATO: designed to improve on the inadequacies of earlier shortened M16 variants)
+
+Y
+
+ Yavuz 16 (Republic of Turkey – unknown date – pistol – 9×19mm Parabellum: Beretta 92 clone)
+ Yesaul (Ukraine – unknown date – double-action revolver – 5.45×39mm: prototypes only)
+ York Arms Sten (United States – submachine gun – 9×19mm Parabellum)
+ Yurchenko Machine Gun (Soviet Union – unknown date – aircraft-mounted Machine Gun – 7.62×54mmR: Prototypes only.)
+ Yasin RPG (Palestine – rocket-propelled grenade – 40 mm)
+
+Z
+
+ Zagi M-91 (Republic of Croatia – 1991 – submachine gun – 9×19mm Parabellum: Indigenously designed due to an arms embargo on the Republic of Croatia at the time)
+ Zakłady Mechaniczne Tarnów
+ Machine guns
+ WKM-B (Republic of Poland – 1999 – general-purpose machine gun – .50 BMG: Soviet NSV machine gun chambered in NATO-standard cartridge. Designed for use with the Polish Armed Forces.)
+ UKM-2000 (Republic of Poland – 2000 – general-purpose machine gun – 7.62×51mm NATO: Based on the Soviet PK General-Purpose Machine Gun. Designed for use with the Polish Armed Forces.)
+ UKM-2000C (Republic of Poland – 2000 – vehicle-mounted general-purpose machine gun – 7.62×51mm NATO: Coaxial variant of the UKM-2000 used on KTO Rosomak APCs and modernized Polish BRDM-2 armored cars.)
+ UKM-2000D (Republic of Poland – 2000 – general-purpose machine gun – 7.62×51mm NATO: variant of the UKM-2000 with a folding stock designed for airborne troops.)
+ UKM-2000P (Republic of Poland – 2000 – general-purpose machine gun – 7.62×51mm NATO: Standard variant. Some come with MIL-STD-1913 picatinny rail.)
+ UKM-2000Z (Republic of Poland – 2000 – general-purpose machine gun – 7.62×51mm NATO: Modernized variant of the UKM-2000 with new stock and pistol grip. Prototypes only.)
+ UKM-2013 (Republic of Poland – 2012 – general-purpose machine gun – 7.62×51mm NATO: Modernized variant of the UKM-2000. In development.)
+ UKM-2013C (Republic of Poland – 2012 – general-purpose machine gun – 7.62×51mm NATO: Modernized variant of the UKM-2000C. In development.)
+ UKM-2013P (Republic of Poland – 2012 – general-purpose machine gun – 7.62×51mm NATO: Modernized variant of the UKM-2000P. In development.)
+ UKM-2015 (Republic of Poland – 2014 – general-purpose machine gun – 7.62×51mm NATO: Modernized variant of the UKM-2000. In development.)
+ Rifles
+ Bor (Republic of Poland – 2007 – bolt-action sniper rifle – 7.62×51mm NATO: Indigenously designed Polish sniper rifle)
+ Alex-338 (Republic of Poland – 2005 – sniper rifle – .338 Lapua Magnum: Developmental model of the Bor. Prototypes only.)
+ Alex Tactical Sport 308 Winchester (Republic of Poland – 2013 – Sniper rifle – .308 Winchester: variant of the Bor for use by civilians and law enforcement.)
+ WKW Tor (Republic of Poland – 2005 – bolt-action anti-materiel rifle – .50 BMG: Indigenously designed Polish anti-materiel rifle.)
+ Zaragoza Corla (United Mexican States – 1956 – machine pistol – .22 long rifle: Indigenously designed Mexican machine pistol)
+ Zastava Arms
+ Machine guns
+ M72 (Socialist Federal Republic of Yugoslavia – 1972 – squad automatic weapon – 7.62×39mm: Based on the Soviet RPK squad automatic weapon)
+ M72B1 (Socialist Federal Republic of Yugoslavia – 1972 – squad automatic weapon – 7.62×39mm: variant of the Zastava M72 intended for paratroopers. Comes with an underfolding metallic stock.)
+ M77 (Socialist Federal Republic of Yugoslavia – 1977 – squad automatic weapon – 7.62×51mm NATO: based on the Soviet AK-47 assault rifle)
+ M84 (Socialist Federal Republic of Yugoslavia – 1984 – general-purpose machine gun – 7.62×54mmR: Derived from the Soviet PK General-Purpose Machine Gun.)
+ M86 (Socialist Federal Republic of Yugoslavia – 1986 – Vehicle-mounted general-purpose machine gun – 7.62×54mmR: Coaxial variant of the Zastava M84. Has much in common with the Soviet PKT Coaxial general-purpose machine gun used on vehicles.)
+ Pistols
+ CZ 99 (Socialist Federal Republic of Yugoslavia – 1989 – semi-automatic pistol – 9×19mm Parabellum, .40 S&W: semi-automatic pistol based on the SIG Sauer P226 and Walther P88 Compact)
+ CZ 999 (Socialist Federal Republic of Yugoslavia – 1990 – semi-automatic pistol – .40 S&W: Export variant of the CZ 99)
+ EZ (Socialist Federal Republic of Yugoslavia – unknown date – semi-automatic pistol – .40 S&W: Export variant of the CZ 99)
+ EZ 9 (Socialist Federal Republic of Yugoslavia – unknown date – Compact semi-automatic pistol – .40 S&W: compact variant of the Zastava EZ)
+ Rifles
+ M21 (State Union of Serbia and Montenegro – 2004 – carbine – 5.56×45mm NATO: Based on the Soviet AK-47 assault rifle)
+ M21 A (State Union of Serbia and Montenegro – 2004 – assault rifle – 5.56×45mm NATO: Full-length variant of the M21)
+ M21 ABS (State Union of Serbia and Montenegro – 2004 – assault rifle – 5.56×45mm NATO: variant of the M21 A with picatinny rail)
+ M21 BS (State Union of Serbia and Montenegro – 2004 – carbine – 5.56×45mm NATO: M21 variant of the M21 with picatinny rail)
+ M21 S (State Union of Serbia and Montenegro – 2004 – Compact assault rifle – 5.56×45mm NATO: Compact variant of the M21)
+ M21 SBS (State Union of Serbia and Montenegro – 2004 – Compact assault rifle – 5.56×45mm NATO: variant of the M21 S with picatinny rail)
+ M59 (Socialist Federal Republic of Yugoslavia – 1959 – semi-automatic carbine – 7.62×39mm: variant of the Soviet SKS carbine)
+ M59/66 (Socialist Federal Republic of Yugoslavia – 1966 – semi-automatic carbine – 7.62×39mm: variant of the Zastava M5)
+ M70 (Socialist Federal Republic of Yugoslavia – 1968 – assault rifle – 7.62×39mm: Based on modified Soviet AK-47 and AKM assault rifles)
+ M70A (Socialist Federal Republic of Yugoslavia – 1968 – assault rifle – 7.62×39mm: variant of the M70 with milled receiver and underfolding stock)
+ M70A1 (Socialist Federal Republic of Yugoslavia – 1968 – assault rifle – 7.62×39mm: variant of the M70A with mounting for night sights)
+ M70B1 (Socialist Federal Republic of Yugoslavia – 1968 – assault rifle – 7.62×39mm: variant of the Zastava M70 with stamped receiver and fixed stock)
+ M70AB2 (Socialist Federal Republic of Yugoslavia – 1968 – assault rifle – 7.62×39mm: variant of the Zastava M70B1 with underfolding stock)
+ M70AB2N (Socialist Federal Republic of Yugoslavia – 1968 – assault rifle – 7.62×39mm: variant of the Zastava M70AB2 with mounting for night sights)
+ M70B1N (Socialist Federal Republic of Yugoslavia – 1968 – assault rifle – 7.62×39mm: variant of the Zastava M70B1 with mounting for night sights)
+ M70AB3 (Socialist Federal Republic of Yugoslavia – 1968 – assault rifle with grenade launcher – 7.62×39mm/40 mm grenade: variant of the Zastava M70B1 with underfolding stock and BGP-40 grenade launcher)
+ M70B3 (Socialist Federal Republic of Yugoslavia – 1968 – assault rifle with grenade launcher – 7.62×39mm/40 mm grenade: variant of the Zastava M70B1 with BGP-40 grenade launcher.)
+ PAP M70 (State Union of Serbia and Montenegro – late 1990s – semi-automatic rifle – 7.62×39mm: civilian variant of the Zastava M70 assault rifle)
+ N-PAP M70 (State Union of Serbia and Montenegro – unknown date – semi-automatic rifle – 7.62×39mm: variant of the PAP M70 featuring a slant-cut 1mm receiver, a double stack AKM trunnion, and a side rail rather than a dust cover rail. Comes with double stack bolt, increasing reliability.)
+ N-PAP DF M70 (State Union of Serbia and Montenegro – unknown date – Semi-automatic rifle – 7.62×39mm: variant of the N-PAP M70 featuring and underfolding stock. Comes without the side rail.)
+ O-PAP M70 (State Union of Serbia and Montenegro – unknown date – Semi-automatic rifle – 7.62×39mm: variant of the PAP M70 featuring a 1.5mm receiver, a bulged RPK trunnion, and a M21 side rail.)
+ M76 (Socialist Federal Republic of Yugoslavia – 1975 – Semi-automatic Designated marksman rifle – 7.92×57mm Mauser: Based on the Soviet Dragunov SVD Designated Marksman Rifle.)
+ Zastava M87 (Socialist Federal Republic of Yugoslavia – 1987 – heavy machine gun – 12.7×108mm: variant of the Soviet NSV heavy machine gun)
+ Zastava M90 (Socialist Federal Republic of Yugoslavia – 1990 – assault rifle – 5.56×45mm NATO: )
+ Zastava M90A (Socialist Federal Republic of Yugoslavia – 1990s – assault rifle – 5.56×45mm NATO: variant of the Zastava M90 with metallic underfolding stock.)
+ M85 (Socialist Federal Republic of Yugoslavia – 1990s – carbine – 5.56×45mm NATO: carbine variant of the Zastava M90)
+ Zastava M91 (Socialist Federal Republic of Yugoslavia – 1991 – semi-automatic designated marksman rifle – 7.62×54mmR: based on the Soviet Dragunov SVD Designated Marksman rifle)
+ Zastava M92 (Socialist Federal Republic of Yugoslavia – 1992 – Compact assault rifle – 7.62×39mm: Serbian carbine based on the Zastava M85 carbine.)
+ Zastava M93 (State Union of Serbia and Montenegro – 1993–1998 – bolt-action anti-materiel rifle – .50 BMG, 12.7×108mm: Serbian anti-materiel Rifle based on the Mauser rifle.)
+ Zbrojovka Brno
+ Machine guns
+ ZB-50 (Czechoslovakia – 1932 – heavy machine gun – 7.92×57mm Mauser: indigenously designed Czechoslovakian heavy machine gun)
+ Rifles
+ ZB-530 (Czechoslovakia – 1954 – assault rifle – 7.62×45mm vz. 52: Indigenously designed Czechoslovakian assault rifle. Fed from a top mounted magazine, such as the one on the Bren light machine gun)
+ ZH-29 (Czechoslovakia – 1929 – semi-automatic rifle – 7.92×57mm Mauser: One of the first successful self-loading rifles in military service)
+ Submachine guns
+ ZB-47 (Czechoslovakia – unknown date – submachine gun – 9×19mm Parabellum: indigenously designed Czechoslovakian submachine gun intended for tank and vehicle crews)
+ Zinsner machine gun (United States – machine gun – .22LR)
+ Zittara (Republic of India – unknown date – personal defense weapon – 9×19mm Parabellum, 5.56×30mm MINSAS, 5.56×45mm NATO: Indian variant of the IMI TAR-21 assault rifle)
+ Zlatoust RB-12 (Russian Federation – 1995 – pump-action shotgun – 12 gauge: Russian pump-action shotgun with folding stock)
+ Z-M Weapons LR 300 (United States – 2000 – compact assault rifle – 5.56mm NATO: based on the AR-15)
+ Zonda C22 (Argentine Republic – unknown date – semi-automatic pistol – .22 long rifle)
+ Zulfiqar (rifle) (Iran – battle rifle – 7.62×51mm NATO)
