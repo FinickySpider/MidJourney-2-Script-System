@@ -1,7 +1,0 @@
-Cylinder
-Cube
-Sphere
-Orb
-Disc
-Spindle
-Needle

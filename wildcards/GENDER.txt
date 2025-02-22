@@ -27,11 +27,6 @@ Female
 Female
 Female
 Female
-girl
-boy
-female
-male
-non-binary
 Ambiguous Gender
 Ambiguous Gender
 Ambiguous Gender

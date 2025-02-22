@@ -1,8 +1,0 @@
-fire
-fog
-smoke 
-hypersmoke
-shadows
-crystal
-holograph
-Neon Rubber

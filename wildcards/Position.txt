@@ -1,8 +1,0 @@
-Sitting facing towards camera
-Sitting facing away from camera
-crouching facing towards camera
-crouching facing away from camera
-leaning back in chair
-huddle in corner
-leaning against a wall
-jumping up in the air
