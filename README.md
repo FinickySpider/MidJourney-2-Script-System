@@ -249,7 +249,7 @@ Wildcards are defined in text files inside the `wildcards/` directory. Each file
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). [IDK YET PLACEHOLDERR]
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
