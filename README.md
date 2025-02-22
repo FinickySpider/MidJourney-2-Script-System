@@ -55,7 +55,7 @@ This project automates prompt submissions on Midjourney with real-time prompt tr
    - Tracks prompt statuses based on client feedback.
 
 2. **Tampermonkey Userscript:**  
-   - Runs on Midjourney (https://www.midjourney.com/imagine/) and waits for the prompt input field.
+   - Runs on [Midjourney](https://www.midjourney.com/imagine/) and waits for the prompt input field.
    - Receives JSON messages (with prompt text and unique IDs) from the Python server.
    - Automatically fills in the prompt, simulates the Enter key to submit, and tracks progress.
    - Sends status updates back to the Python server via WebSocket.
@@ -85,12 +85,12 @@ This project automates prompt submissions on Midjourney with real-time prompt tr
 1. **Clone or Download the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/midjourney-automation-utility.git
+   git clone https://github.com/FinickySpider/MidJourney-2-Script-System.git
    cd midjourney-automation-utility
    ```
 
 2. **Edit the Configuration File:**  
-   Open `config.ini` (if not present, create it) and set your initial values:
+   Open `config.ini` (if not present, create it or let the script auto-create it) and set your initial values:
    
    ```ini
    [Settings]
