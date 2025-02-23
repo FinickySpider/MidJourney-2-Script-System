@@ -4,6 +4,7 @@ build/
 dist/
 wildcards/
 Release-Builds/
+.backup/
 AutoUpdate.py
 updater_manifest_example.json
 midjourney_automation.exe
