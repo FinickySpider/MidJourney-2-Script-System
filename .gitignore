@@ -3,6 +3,7 @@ updater_config.json
 build/
 dist/
 wildcards/
+Release-Builds/
 AutoUpdate.py
 updater_manifest_example.json
 midjourney_automation.exe
