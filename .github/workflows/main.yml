@@ -1,0 +1,42 @@
+name: Update Updater Manifest
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  update-manifest:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Latest Release Info
+        id: get_release
+        run: |
+          LATEST_RELEASE=$(curl -s "https://api.github.com/repos/${{ github.repository }}/releases/latest")
+          echo "LATEST_RELEASE=${LATEST_RELEASE}" >> $GITHUB_ENV
+
+      - name: Generate `updater_manifest.json`
+        run: |
+          # Extract latest release version
+          VERSION=$(echo "$LATEST_RELEASE" | jq -r .tag_name)
+          echo "Detected release version: $VERSION"
+
+          # Extract asset URLs and names
+          FILES=$(echo "$LATEST_RELEASE" | jq -r '.assets[] | select(.name | endswith(".exe")) | {name: .name, download_url: .browser_download_url}')
+
+          # Format JSON properly
+          echo "{
+            \"version\": \"$VERSION\",
+            \"files\": $FILES
+          }" > updater_manifest.json
+
+      - name: Commit and Push Updated Manifest
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add updater_manifest.json
+          git commit -m "Auto-update updater_manifest.json for release $VERSION" || exit 0
+          git push origin main
