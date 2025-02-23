@@ -1,0 +1,6 @@
+{
+    "version_file": "version.json",
+    "backup_dir": ".backup",
+    "manifest_url": "https://raw.githubusercontent.com/FinickySpider/MidJourney-2-Script-System/refs/heads/main/updater_manifest.json"
+  }
+  
