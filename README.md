@@ -156,7 +156,7 @@ wildcards/
 
 ### **v0.2-pre1**
 - First pre-release of **MJ-Control (Desktop App Only).**
-- **MJ-Agent is available separately.**  
+- **[Click here to install MJ-Agent](https://finickyspider.github.io/MidJourney-2-Script-System/tampermonkey_script.user.js)**  
 
 ### **v0.1**
 - Initial automation system with WebSocket communication.  
