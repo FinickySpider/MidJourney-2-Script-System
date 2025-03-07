@@ -12,7 +12,6 @@ import json
 import uuid
 from datetime import datetime
 import websockets
-import json
 
 # ------------------------------
 # Logging Setup: console, Session.log, and prompt tracking log.
@@ -41,7 +40,7 @@ def log_prompt(prompt_id, message):
 config = configparser.ConfigParser()
 config.read("config.ini")
 
-# Load prompts from Prompts.json if available; otherwise, use config value.
+# Load prompt templates from Prompts.json if available; otherwise, use config value.
 PROMPTS_FILE = "Prompts.json"
 if os.path.exists(PROMPTS_FILE):
     with open(PROMPTS_FILE, "r", encoding="utf-8") as f:
@@ -64,6 +63,24 @@ prompt_tracking = {}  # prompt_id -> last logged status
 server_thread = None
 loop = None
 stop_event = None
+
+# ------------------------------
+# Save prompt list and settings to file.
+# ------------------------------
+def save_prompts():
+    with open(PROMPTS_FILE, "w", encoding="utf-8") as f:
+        json.dump(prompt_templates, f, indent=2)
+
+def save_config():
+    if not config.has_section("Settings"):
+        config.add_section("Settings")
+    config.set("Settings", "PromptTemplate", prompt_templates[0] if prompt_templates else "")
+    config.set("Settings", "MessageSendDelay", str(current_message_send_delay))
+    config.set("Settings", "MaxConcurrentPrompts", str(current_max_concurrent))
+    config.set("Settings", "StopAfter", str(stop_after))
+    config.set("Settings", "EnableStopAfter", str(enable_stop_after))
+    with open("config.ini", "w") as f:
+        config.write(f)
 
 # ------------------------------
 # Load Wildcards (normalize keys to uppercase)
@@ -98,7 +115,6 @@ def expand_prompt(template, depth=RECURSION_DEPTH):
 # ------------------------------
 connected_clients = set()
 
-# Updated handler to accept an optional 'path' parameter.
 async def handler(websocket, path=None):
     logger.info(f"Minerva: New client connected: {websocket.remote_address}")
     connected_clients.add(websocket)
@@ -145,6 +161,8 @@ async def prompt_generator():
             prompt_tracking[prompt_id] = "sent"
             log_prompt(prompt_id, "Prompt sent to client.")
             total_prompts_sent += 1
+            save_config()
+            save_prompts()
         except Exception as e:
             logger.error("Minerva: Error sending prompt: " + str(e))
         try:
@@ -176,7 +194,11 @@ def start_asyncio_server():
         loop.close()
 
 def start_server():
-    global server_thread
+    global server_thread, total_prompts_sent, prompt_tracking
+    total_prompts_sent = 0
+    prompt_tracking.clear()
+    save_config()
+    save_prompts()
     if server_thread is None or not server_thread.is_alive():
         logger.info("Minerva: Starting server...")
         server_thread = threading.Thread(target=start_asyncio_server, daemon=True)
@@ -191,10 +213,6 @@ def stop_server():
         except Exception as e:
             logger.error("Minerva: Error stopping server: " + str(e))
 
-def save_prompts():
-    with open("Prompts.json", "w", encoding="utf-8") as f:
-        json.dump(prompt_templates, f, indent=2)
-
 # ------------------------------
 # Modular Tkinter UI (Tabbed Notebook)
 # ------------------------------
@@ -203,15 +221,29 @@ class LogViewer(ttk.Frame):
         super().__init__(parent)
         self.text = scrolledtext.ScrolledText(self, state="disabled", height=15)
         self.text.pack(fill="both", expand=True)
+        clear_btn = ttk.Button(self, text="Clear Log", command=self.clear_log)
+        clear_btn.pack(side="bottom", pady=5)
     
     def add_log(self, message, tag="info"):
         self.text.config(state="normal")
-        colors = {"error": "red", "warning": "orange", "info": "green", "neutral": "black"}
-        color = colors.get(tag, "black")
-        self.text.insert("end", message + "\n", tag)
+        colors = {"error": "red", "warning": "darkorange", "info": "blue", "neutral": "gray"}
+        color = colors.get(tag, "gray")
+        parts = message.split("[Prompt")
+        if len(parts) > 1:
+            self.text.insert("end", parts[0], tag)
+            self.text.insert("end", "[Prompt", "prompt_id")
+            self.text.insert("end", parts[1], tag)
+        else:
+            self.text.insert("end", message + "\n", tag)
         self.text.tag_config(tag, foreground=color)
+        self.text.tag_config("prompt_id", foreground="orange")
         self.text.config(state="disabled")
         self.text.yview("end")
+    
+    def clear_log(self):
+        self.text.config(state="normal")
+        self.text.delete("1.0", "end")
+        self.text.config(state="disabled")
 
 class PromptSettings(ttk.Frame):
     def __init__(self, parent):
@@ -220,7 +252,7 @@ class PromptSettings(ttk.Frame):
         self.template_list = tk.Listbox(self, height=5)
         self.template_list.grid(row=1, column=0, columnspan=2, sticky="ew", padx=5, pady=5)
         self.refresh_listbox()
-        self.current_label = ttk.Label(self, text=f"Next Template: {prompt_templates[current_template_index]}")
+        self.current_label = ttk.Label(self, text=f"Next Template: {prompt_templates[current_template_index]}", width=40, anchor="w")
         self.current_label.grid(row=2, column=0, columnspan=2, pady=2)
         ttk.Button(self, text="Add", command=self.add_template).grid(row=3, column=0, padx=5, pady=2)
         ttk.Button(self, text="Remove", command=self.remove_template).grid(row=3, column=1, padx=5, pady=2)
@@ -341,10 +373,16 @@ class MainApp(tk.Tk):
         self.notebook.add(self.prompt_settings, text="Prompt Settings")
         self.log_viewer = LogViewer(self.notebook)
         self.notebook.add(self.log_viewer, text="Logs & Debugging")
+        # Status Panel with counters
         status_frame = ttk.Frame(self)
         status_frame.pack(fill="x", padx=10, pady=5)
-        self.status_label = ttk.Label(status_frame, text="Server OFF", font=("Arial", 12))
+        self.status_label = ttk.Label(status_frame, text="Server OFF", font=("Arial", 12), width=20, anchor="w")
         self.status_label.pack(side="left")
+        # New prompt counters:
+        self.prompt_counter_label = ttk.Label(status_frame, text="Prompts: 0", width=15, anchor="w")
+        self.prompt_counter_label.pack(side="left", padx=5)
+        self.concurrent_label = ttk.Label(status_frame, text="Concurrent: 0/{}".format(current_max_concurrent), width=15, anchor="w")
+        self.concurrent_label.pack(side="left", padx=5)
         control_frame = ttk.Frame(status_frame)
         control_frame.pack(side="right")
         ttk.Button(control_frame, text="ON", command=self.start_server).pack(side="left", padx=5)
@@ -365,6 +403,13 @@ class MainApp(tk.Tk):
         self.log_viewer.add_log("Server stopped.", "info")
     
     def periodic_update(self):
+        # Update prompt counter and concurrent counter.
+        self.prompt_counter_label.config(text="Prompts: {}".format(total_prompts_sent))
+        concurrent = len([s for s in prompt_tracking.values() if s != "progress_complete"])
+        self.concurrent_label.config(text="Concurrent: {}/{}".format(concurrent, current_max_concurrent))
+        # Also, if server thread is not alive, update status.
+        if server_thread is None or not server_thread.is_alive():
+            self.status_label.config(text="Server OFF", foreground="red")
         self.after(500, self.periodic_update)
 
 if __name__ == "__main__":
