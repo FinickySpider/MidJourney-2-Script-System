@@ -17,4 +17,4 @@ SentPrompts.log
 MJ-Control v0.2-pre1.5.exe
 MJ-Control *.exe
 version.json
-
+_pycache_/
