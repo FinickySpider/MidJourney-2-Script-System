@@ -8,10 +8,11 @@ import logging
 import threading
 import tkinter as tk
 from tkinter import ttk, scrolledtext, messagebox
-import websockets
 import json
 import uuid
 from datetime import datetime
+import websockets
+import json
 
 # ------------------------------
 # Logging Setup: console, Session.log, and prompt tracking log.
@@ -31,7 +32,6 @@ fh.setFormatter(formatter)
 logger.addHandler(fh)
 
 def log_prompt(prompt_id, message):
-    # Append prompt tracking info to SentPrompts.log
     with open("SentPrompts.log", "a", encoding="utf-8") as f:
         f.write(f"{datetime.now().isoformat()} [Prompt {prompt_id}] {message}\n")
 
@@ -41,20 +41,26 @@ def log_prompt(prompt_id, message):
 config = configparser.ConfigParser()
 config.read("config.ini")
 
-# Default settings (may be overridden in config.ini)
-prompt_templates = [ config.get("Settings", "PromptTemplate", fallback="a [STYLE] [TYPE] character") ]
+# Load prompts from Prompts.json if available; otherwise, use config value.
+PROMPTS_FILE = "Prompts.json"
+if os.path.exists(PROMPTS_FILE):
+    with open(PROMPTS_FILE, "r", encoding="utf-8") as f:
+        prompt_templates = json.load(f)
+    if not prompt_templates:
+        prompt_templates = [config.get("Settings", "PromptTemplate", fallback="a [STYLE] [TYPE] character")]
+else:
+    prompt_templates = [config.get("Settings", "PromptTemplate", fallback="a [STYLE] [TYPE] character")]
+
 current_template_index = 0
 current_message_send_delay = config.getint("Settings", "MessageSendDelay", fallback=5)
 current_max_concurrent = config.getint("Settings", "MaxConcurrentPrompts", fallback=3)
 stop_after = config.getint("Settings", "StopAfter", fallback=20)
+enable_stop_after = config.getboolean("Settings", "EnableStopAfter", fallback=True)
 WILDCARD_DIR = config.get("Settings", "WildcardDirectory", fallback="wildcards")
 
-# Tracking counters
 total_prompts_sent = 0
-# Dictionary: prompt_id -> status (one of "sent", "input_complete", progress string, "progress_complete")
-prompt_tracking = {}
+prompt_tracking = {}  # prompt_id -> last logged status
 
-# For asyncio server control
 server_thread = None
 loop = None
 stop_event = None
@@ -65,7 +71,7 @@ stop_event = None
 wildcards = {}
 for filename in os.listdir(WILDCARD_DIR):
     if filename.endswith(".txt"):
-        key = filename[:-4]  # remove .txt
+        key = filename[:-4]
         with open(os.path.join(WILDCARD_DIR, filename), "r", encoding="utf-8") as f:
             lines = [line.strip() for line in f if line.strip()]
             wildcards[key.upper()] = lines
@@ -77,7 +83,6 @@ RECURSION_DEPTH = config.getint("Settings", "RecursionDepth", fallback=5)
 def expand_prompt(template, depth=RECURSION_DEPTH):
     if depth <= 0:
         return template
-    # Capture everything between [ and ], even dashes, underscores, digits, etc.
     pattern = r"\[([^\]]+)\]"
     def replace(match):
         key = match.group(1).upper()
@@ -93,7 +98,8 @@ def expand_prompt(template, depth=RECURSION_DEPTH):
 # ------------------------------
 connected_clients = set()
 
-async def handler(websocket, path):
+# Updated handler to accept an optional 'path' parameter.
+async def handler(websocket, path=None):
     logger.info(f"Minerva: New client connected: {websocket.remote_address}")
     connected_clients.add(websocket)
     try:
@@ -104,9 +110,10 @@ async def handler(websocket, path):
                 prompt_id = data.get("prompt_id")
                 status = data.get("status")
                 if prompt_id:
-                    prompt_tracking[prompt_id] = status
-                    log_prompt(prompt_id, f"Status updated to: {status}")
-                    logger.info(f"Minerva: Updated prompt {prompt_id} status to {status}")
+                    if prompt_tracking.get(prompt_id) != status:
+                        prompt_tracking[prompt_id] = status
+                        log_prompt(prompt_id, f"Status updated to: {status}")
+                        logger.info(f"Minerva: Updated prompt {prompt_id} status to {status}")
             except Exception as e:
                 logger.error("Minerva: Error processing client message: " + str(e))
     except websockets.ConnectionClosed:
@@ -117,23 +124,16 @@ async def handler(websocket, path):
 async def prompt_generator():
     global current_template_index, total_prompts_sent
     while not stop_event.is_set():
-        # Stop if we've generated enough prompts.
-        if total_prompts_sent >= stop_after:
+        if enable_stop_after and total_prompts_sent >= stop_after:
             logger.info("Minerva: StopAfter limit reached. Stopping prompt generation.")
             stop_event.set()
             break
-
-        # Wait until at least one client is connected.
         while not connected_clients and not stop_event.is_set():
             await asyncio.sleep(0.5)
-        # Wait until current active prompts are below the max.
         while len([s for s in prompt_tracking.values() if s != "progress_complete"]) >= current_max_concurrent and not stop_event.is_set():
             await asyncio.sleep(0.5)
-
-        # Cycle through prompt templates
         template = prompt_templates[current_template_index]
         current_template_index = (current_template_index + 1) % len(prompt_templates)
-
         prompt_text = expand_prompt(template)
         prompt_id = str(uuid.uuid4())
         data = {"prompt_id": prompt_id, "text": prompt_text}
@@ -185,8 +185,15 @@ def start_server():
 def stop_server():
     global stop_event, loop
     if stop_event and loop:
-        loop.call_soon_threadsafe(stop_event.set)
-        logger.info("Minerva: Stop signal sent to server.")
+        try:
+            loop.call_soon_threadsafe(stop_event.set)
+            logger.info("Minerva: Stop signal sent to server.")
+        except Exception as e:
+            logger.error("Minerva: Error stopping server: " + str(e))
+
+def save_prompts():
+    with open("Prompts.json", "w", encoding="utf-8") as f:
+        json.dump(prompt_templates, f, indent=2)
 
 # ------------------------------
 # Modular Tkinter UI (Tabbed Notebook)
@@ -194,13 +201,13 @@ def stop_server():
 class LogViewer(ttk.Frame):
     def __init__(self, parent):
         super().__init__(parent)
-        self.text = scrolledtext.ScrolledText(self, state="disabled", height=10)
+        self.text = scrolledtext.ScrolledText(self, state="disabled", height=15)
         self.text.pack(fill="both", expand=True)
     
     def add_log(self, message, tag="info"):
         self.text.config(state="normal")
-        # Simple color coding based on tag.
-        color = {"info": "black", "warning": "orange", "error": "red"}.get(tag, "black")
+        colors = {"error": "red", "warning": "orange", "info": "green", "neutral": "black"}
+        color = colors.get(tag, "black")
         self.text.insert("end", message + "\n", tag)
         self.text.tag_config(tag, foreground=color)
         self.text.config(state="disabled")
@@ -209,48 +216,49 @@ class LogViewer(ttk.Frame):
 class PromptSettings(ttk.Frame):
     def __init__(self, parent):
         super().__init__(parent)
-        # Listbox for multiple prompt templates.
         ttk.Label(self, text="Prompt Templates:").grid(row=0, column=0, sticky="w")
         self.template_list = tk.Listbox(self, height=5)
         self.template_list.grid(row=1, column=0, columnspan=2, sticky="ew", padx=5, pady=5)
+        self.refresh_listbox()
+        self.current_label = ttk.Label(self, text=f"Next Template: {prompt_templates[current_template_index]}")
+        self.current_label.grid(row=2, column=0, columnspan=2, pady=2)
+        ttk.Button(self, text="Add", command=self.add_template).grid(row=3, column=0, padx=5, pady=2)
+        ttk.Button(self, text="Remove", command=self.remove_template).grid(row=3, column=1, padx=5, pady=2)
+        ttk.Button(self, text="Modify", command=self.modify_template).grid(row=4, column=0, padx=5, pady=2)
+        ttk.Button(self, text="Cycle Current", command=self.cycle_current).grid(row=4, column=1, padx=5, pady=2)
+        ttk.Label(self, text="MessageSendDelay (sec):").grid(row=5, column=0, sticky="w", padx=5)
+        self.delay_var = tk.StringVar(value=str(current_message_send_delay))
+        ttk.Entry(self, textvariable=self.delay_var).grid(row=5, column=1, sticky="ew", padx=5)
+        ttk.Label(self, text="MaxConcurrentPrompts:").grid(row=6, column=0, sticky="w", padx=5)
+        self.max_var = tk.StringVar(value=str(current_max_concurrent))
+        ttk.Entry(self, textvariable=self.max_var).grid(row=6, column=1, sticky="ew", padx=5)
+        ttk.Label(self, text="StopAfter (total prompts):").grid(row=7, column=0, sticky="w", padx=5)
+        self.stop_after_var = tk.StringVar(value=str(stop_after))
+        ttk.Entry(self, textvariable=self.stop_after_var).grid(row=7, column=1, sticky="ew", padx=5)
+        self.enable_stop_var = tk.BooleanVar(value=enable_stop_after)
+        ttk.Checkbutton(self, text="Enable StopAfter", variable=self.enable_stop_var).grid(row=8, column=0, columnspan=2, pady=2)
+        ttk.Button(self, text="Save Settings", command=self.save_settings).grid(row=9, column=0, columnspan=2, pady=5)
+        ttk.Button(self, text="Generate Example Prompts", command=self.generate_examples).grid(row=10, column=0, columnspan=2, pady=5)
+    
+    def refresh_listbox(self):
+        self.template_list.delete(0, "end")
         for tmpl in prompt_templates:
             self.template_list.insert("end", tmpl)
-        self.template_list.select_set(0)
-        
-        # Buttons for add/remove/modify
-        ttk.Button(self, text="Add", command=self.add_template).grid(row=2, column=0, padx=5, pady=2)
-        ttk.Button(self, text="Remove", command=self.remove_template).grid(row=2, column=1, padx=5, pady=2)
-        ttk.Button(self, text="Modify", command=self.modify_template).grid(row=3, column=0, padx=5, pady=2)
-        ttk.Button(self, text="Cycle Current", command=self.cycle_current).grid(row=3, column=1, padx=5, pady=2)
-        
-        # Other settings
-        ttk.Label(self, text="MessageSendDelay (sec):").grid(row=4, column=0, sticky="w", padx=5)
-        self.delay_var = tk.StringVar(value=str(current_message_send_delay))
-        ttk.Entry(self, textvariable=self.delay_var).grid(row=4, column=1, sticky="ew", padx=5)
-        
-        ttk.Label(self, text="MaxConcurrentPrompts:").grid(row=5, column=0, sticky="w", padx=5)
-        self.max_var = tk.StringVar(value=str(current_max_concurrent))
-        ttk.Entry(self, textvariable=self.max_var).grid(row=5, column=1, sticky="ew", padx=5)
-        
-        ttk.Label(self, text="StopAfter (total prompts):").grid(row=6, column=0, sticky="w", padx=5)
-        self.stop_after_var = tk.StringVar(value=str(stop_after))
-        ttk.Entry(self, textvariable=self.stop_after_var).grid(row=6, column=1, sticky="ew", padx=5)
-        
-        ttk.Button(self, text="Save Settings", command=self.save_settings).grid(row=7, column=0, columnspan=2, pady=5)
-        ttk.Button(self, text="Generate Example Prompts", command=self.generate_examples).grid(row=8, column=0, columnspan=2, pady=5)
     
     def add_template(self):
         new_tmpl = self.simple_prompt("Enter new prompt template:")
         if new_tmpl:
             prompt_templates.append(new_tmpl)
-            self.template_list.insert("end", new_tmpl)
+            self.refresh_listbox()
+            save_prompts()
     
     def remove_template(self):
         selection = self.template_list.curselection()
         if selection:
             index = selection[0]
             del prompt_templates[index]
-            self.template_list.delete(index)
+            self.refresh_listbox()
+            save_prompts()
     
     def modify_template(self):
         selection = self.template_list.curselection()
@@ -260,15 +268,16 @@ class PromptSettings(ttk.Frame):
             new_val = self.simple_prompt("Modify prompt template:", initial=current)
             if new_val:
                 prompt_templates[index] = new_val
-                self.template_list.delete(index)
-                self.template_list.insert(index, new_val)
+                self.refresh_listbox()
+                save_prompts()
     
     def cycle_current(self):
-        # Simply cycle to next template (the generator uses round-robin based on global current_template_index)
-        messagebox.showinfo("Current Template", f"Next prompt will use:\n{prompt_templates[current_template_index]}")
+        global current_template_index
+        current_template_index = (current_template_index + 1) % len(prompt_templates)
+        self.current_label.config(text=f"Next Template: {prompt_templates[current_template_index]}")
     
     def save_settings(self):
-        global current_message_send_delay, current_max_concurrent, stop_after
+        global current_message_send_delay, current_max_concurrent, stop_after, enable_stop_after
         try:
             current_message_send_delay = int(self.delay_var.get())
             current_max_concurrent = int(self.max_var.get())
@@ -276,16 +285,17 @@ class PromptSettings(ttk.Frame):
         except ValueError:
             messagebox.showerror("Error", "Please enter valid integers for settings.")
             return
-        # Update config file.
+        enable_stop_after = self.enable_stop_var.get()
+        stop_after = stop_after_new
         if not config.has_section("Settings"):
             config.add_section("Settings")
         config.set("Settings", "PromptTemplate", prompt_templates[0] if prompt_templates else "")
         config.set("Settings", "MessageSendDelay", str(current_message_send_delay))
         config.set("Settings", "MaxConcurrentPrompts", str(current_max_concurrent))
-        config.set("Settings", "StopAfter", str(stop_after_new))
+        config.set("Settings", "StopAfter", str(stop_after))
+        config.set("Settings", "EnableStopAfter", str(enable_stop_after))
         with open("config.ini", "w") as f:
             config.write(f)
-        stop_after = stop_after_new
         app.log_viewer.add_log("Settings updated.", "info")
     
     def generate_examples(self):
@@ -296,25 +306,41 @@ class PromptSettings(ttk.Frame):
         messagebox.showinfo("Example Prompts", example_text)
     
     def simple_prompt(self, prompt, initial=""):
-        # Very simple input prompt using tk.simpledialog.
         from tkinter.simpledialog import askstring
         return askstring("Input", prompt, initialvalue=initial)
+
+class LogHandler(logging.Handler):
+    def __init__(self, log_viewer):
+        super().__init__()
+        self.log_viewer = log_viewer
+    
+    def emit(self, record):
+        try:
+            msg = self.format(record)
+            level = record.levelno
+            if level >= logging.ERROR:
+                tag = "error"
+            elif level >= logging.WARNING:
+                tag = "warning"
+            elif level >= logging.INFO:
+                tag = "info"
+            else:
+                tag = "neutral"
+            self.log_viewer.add_log(msg, tag)
+        except Exception:
+            self.handleError(record)
 
 class MainApp(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("MidJourney Automation UI")
         self.geometry("600x500")
-        # Notebook for tabs
         self.notebook = ttk.Notebook(self)
         self.notebook.pack(fill="both", expand=True)
-        # Prompt Settings Tab
         self.prompt_settings = PromptSettings(self.notebook)
         self.notebook.add(self.prompt_settings, text="Prompt Settings")
-        # Logs Tab
         self.log_viewer = LogViewer(self.notebook)
         self.notebook.add(self.log_viewer, text="Logs & Debugging")
-        # Status Panel at the top
         status_frame = ttk.Frame(self)
         status_frame.pack(fill="x", padx=10, pady=5)
         self.status_label = ttk.Label(status_frame, text="Server OFF", font=("Arial", 12))
@@ -323,7 +349,9 @@ class MainApp(tk.Tk):
         control_frame.pack(side="right")
         ttk.Button(control_frame, text="ON", command=self.start_server).pack(side="left", padx=5)
         ttk.Button(control_frame, text="OFF", command=self.stop_server).pack(side="left", padx=5)
-        # Periodically update log viewer from logger (if desired, you could redirect logger output here)
+        lh = LogHandler(self.log_viewer)
+        lh.setFormatter(formatter)
+        logger.addHandler(lh)
         self.after(500, self.periodic_update)
     
     def start_server(self):
@@ -337,8 +365,6 @@ class MainApp(tk.Tk):
         self.log_viewer.add_log("Server stopped.", "info")
     
     def periodic_update(self):
-        # For now, we don't have an external source of logs; logger writes to file.
-        # You could read the Session.log file and update the text widget if needed.
         self.after(500, self.periodic_update)
 
 if __name__ == "__main__":
